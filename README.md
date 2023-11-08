@@ -3,7 +3,7 @@ First ever machine learning project (using phyton and excel), the goal with this
 
 Steps In This Project:
 
-Excel
+_Excel_
 
 •	1st: Gather player (offense and defensive) player data and gather team data (advanced, basic, defensive, and offensive team statistics). Data is all pro-football reference.com
 
@@ -12,7 +12,7 @@ Excel
 •	3rd: Create rawdata set, normalize data-set (min/max scale) to use with models.
 
 
-Phyton
+_Phyton_
 
 •	1st: Prepare data again (read norm data in, drop data (reasons:)) 
 
