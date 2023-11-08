@@ -12,7 +12,7 @@ _Excel_
 •	3rd: Create rawdata set, normalize data-set (min/max scale) to use with models.
 
 
-_Phyton_
+_Pyhton_
 
 •	1st: Prepare data again (read norm data in, drop data (reasons:)) 
 
