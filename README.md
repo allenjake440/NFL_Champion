@@ -1,5 +1,5 @@
 # NFL_Champion
-![ChampionTable](https://github.com/allenjake440/NFL_Champion/assets/134075534/54640e83-316d-4d9b-909d-45c128835264)
+![NFL Champion Art](https://github.com/allenjake440/NFL_Champion/assets/134075534/de2b425f-9bee-4a8d-9344-651ba63e1c19)
 
 First ever machine learning project (using phyton and excel), the goal with this project is create an effective model approach for the predicting NFL Champion (super-bowl winner), right before the playoffs start. 
 
