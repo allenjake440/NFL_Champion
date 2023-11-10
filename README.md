@@ -16,11 +16,13 @@ _Excel_
 
 _Pyhton_
 
-•	1st: Prepare data again (read norm data in, drop data (reasons:)) 
+•	1st: Read in prepare data, scale, drop ceratin rows.
 
-•	2nd: Select and take out certain features
+•	2nd: Select and take out certain features, play around with results
 
-•	3rd: RandomForest Regressor (trial and error based parameters, log results)
+•	3rd: Use model (different types of regressors). RandomForest best results, log parameter, play around with parameter to find best results.
 
-•	4th: Export predictions and importance.
+•	4th: Identify error metrics (average precisions), (mae), to evalute results as a whole.
+
+•	5th: Export predictions and importance.
 
