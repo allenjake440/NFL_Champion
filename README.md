@@ -9,7 +9,7 @@ _Excel_
 
 •	2nd: Feature engineering (re-created/made new features) create statistics that measure strength of the players on the teams as well as playoff experience of the team.
 
-•	3rd: Create rawdata set, normalize data-set (min/max scale) to use with models.
+•	3rd: Create rawdata, send to juypterlab.
 
 
 _Pyhton_
