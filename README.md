@@ -30,7 +30,8 @@ Steps In This Project:
 •	5th: Export predictions and importance.
 
 # Feature Exploration
-![FeaCorr1](https://github.com/allenjake440/NFL_Champion/assets/134075534/d358f9a1-5e34-4fe5-88f3-a51d75bd9992)
+![FeaCorr1](https://github.com/allenjake440/NFL_Champion/assets/134075534/172543a3-cc66-4586-a2af-9f8ab9ae1994)
+
 ![OffVDeff](https://github.com/allenjake440/NFL_Champion/assets/134075534/efc37bc9-8577-4098-9012-f3e98bcdbf85)
 
 
