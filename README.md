@@ -11,14 +11,14 @@ _Excel_
 
 •	2nd: Feature engineering (re-created/made new features) create statistics that measure strength of the players on the teams as well as playoff experience of the team.
 
-•	3rd: Create rawdata, send to juypterlab.
+•	3rd: Create rawdata sets, send to juypterlab.
 
 
 _Pyhton_
 
 •	1st: Read in prepare data, scale, drop ceratin rows.
 
-•	2nd: Select and take out certain features, play around with results
+•	2nd: Select and take out certain features, play around with results (check for highly mult corr.)
 
 •	3rd: Use model (different types of regressors). RandomForest best results, log parameter, play around with parameter to find best results.
 
