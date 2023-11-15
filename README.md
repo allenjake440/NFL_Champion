@@ -5,7 +5,7 @@ First ever machine learning project (using phyton and excel), the goal with this
 
 Steps In This Project:
 
-_Excel_
+**_Excel_**
 
 •	1st: Gather player (offense and defensive) player data and gather team data (advanced, basic, defensive, and offensive team statistics). Data is all pro-football reference.com
 
@@ -14,7 +14,7 @@ _Excel_
 •	3rd: Create rawdata sets, send to juypterlab.
 
 
-_Pyhton_
+**_Pyhton_**
 
 •	1st: Read in prepare data, scale, drop ceratin rows.
 
@@ -26,11 +26,11 @@ _Pyhton_
 
 •	5th: Export predictions and importance.
 
-Feature Exploration
+# Feature Exploration
 ![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/8090fb0a-5482-43b2-a9d5-311156261fb1)
 ![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/f320bd0e-c85c-4813-bd3d-122fbfc0fe91)
 
-Results/Findings:
+# Results/Findings:
 ![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/1a0a05e9-a3f5-4480-b6a3-d30bb8a0c84b)
 ![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/421d2ea6-098e-4949-98ed-e06c21b6d6ab)
 ![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/ce457ad5-74e6-4981-bd8c-a07ff6db75dd)
