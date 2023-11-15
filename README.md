@@ -30,11 +30,13 @@ Steps In This Project:
 •	5th: Export predictions and importance.
 
 # Feature Exploration
-![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/8090fb0a-5482-43b2-a9d5-311156261fb1)
-![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/f320bd0e-c85c-4813-bd3d-122fbfc0fe91)
+![FeaCorr1](https://github.com/allenjake440/NFL_Champion/assets/134075534/d358f9a1-5e34-4fe5-88f3-a51d75bd9992)
+![OffVDeff](https://github.com/allenjake440/NFL_Champion/assets/134075534/efc37bc9-8577-4098-9012-f3e98bcdbf85)
+
 
 # Results/Findings:
-![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/1a0a05e9-a3f5-4480-b6a3-d30bb8a0c84b)
-![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/421d2ea6-098e-4949-98ed-e06c21b6d6ab)
-![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/ce457ad5-74e6-4981-bd8c-a07ff6db75dd)
-![image](https://github.com/allenjake440/NFL_Champion/assets/134075534/8db4fc19-3b63-421a-aa3f-d61b42776f10)
+![ChampionTable](https://github.com/allenjake440/NFL_Champion/assets/134075534/c6fe68dc-eca3-46c4-9411-7c1ecb0f8e1d)
+![23SeaComp](https://github.com/allenjake440/NFL_Champion/assets/134075534/00c79b55-c418-41e5-88f9-e6a8f0b88bb4)
+![FeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/33412cde-df82-4925-9d31-c4261effbe3d)
+![HeatTableFeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/bb23e9e8-f268-430f-ade3-171ef0834327)
+
