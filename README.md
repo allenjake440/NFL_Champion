@@ -35,7 +35,7 @@ Steps In This Project:
 ![mvpsharetoCS](https://github.com/allenjake440/NFL_Champion/assets/134075534/5f5c78df-3f89-4b8e-b2cc-d82768fb50f3)
 
 # Results/Findings:
-![ChampionTable](https://github.com/allenjake440/NFL_Champion/assets/134075534/c6fe68dc-eca3-46c4-9411-7c1ecb0f8e1d)
+![ChampionTable](https://github.com/allenjake440/NFL_Champion/assets/134075534/4eb28339-b56e-43ad-b103-1d10651660c5)
 ![23SeaComp](https://github.com/allenjake440/NFL_Champion/assets/134075534/00c79b55-c418-41e5-88f9-e6a8f0b88bb4)
 ![FeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/33412cde-df82-4925-9d31-c4261effbe3d)
 ![HeatTableFeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/bb23e9e8-f268-430f-ade3-171ef0834327)
