@@ -9,7 +9,7 @@ First ever machine learning project (using phyton and excel), the goal with this
 
 Steps In This Project:
 
-**_Excel_**
+## Excel
 
 •	1st: Gather player (offense and defensive) player data and gather team data (advanced, basic, defensive, and offensive team statistics). Data is all pro-football reference.com
 
@@ -18,7 +18,7 @@ Steps In This Project:
 •	3rd: Create rawdata sets, send to juypterlab.
 
 
-**_Pyhton_**
+## Phyton
 
 •	1st: Read in prepare data, scale, drop ceratin rows.
 
@@ -30,13 +30,13 @@ Steps In This Project:
 
 •	5th: Export predictions and importance.
 
-# Feature Exploration
+## Feature Exploration
 ![FeaCorr1](https://github.com/allenjake440/NFL_Champion/assets/134075534/8fb273cb-e295-4cdf-9fc9-167bab7d6da5)
 ![MultiCorrTable](https://github.com/allenjake440/NFL_Champion/assets/134075534/254f1ca2-c9df-4b4b-b88a-15076432968b)
 ![OffVDeff](https://github.com/allenjake440/NFL_Champion/assets/134075534/4c5340ec-2c90-47a1-a1f4-157b568b7896)
 ![mvpsharetoCS](https://github.com/allenjake440/NFL_Champion/assets/134075534/5f5c78df-3f89-4b8e-b2cc-d82768fb50f3)
 
-# Results/Findings:
+## Results/Findings:
 ![ChampionTable](https://github.com/allenjake440/NFL_Champion/assets/134075534/4eb28339-b56e-43ad-b103-1d10651660c5)
 ![23SeaComp](https://github.com/allenjake440/NFL_Champion/assets/134075534/00c79b55-c418-41e5-88f9-e6a8f0b88bb4)
 ![FeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/33412cde-df82-4925-9d31-c4261effbe3d)
