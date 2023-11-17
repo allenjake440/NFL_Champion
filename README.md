@@ -1,5 +1,6 @@
 # NFL_Champion
-![NCALinkIn](https://github.com/allenjake440/NFL_Champion/assets/134075534/9859e562-42fd-49f3-b727-091ec69ef709)
+![NFL_Champion_Art](https://github.com/allenjake440/NFL_Champion/assets/134075534/0a2fdb5d-5c47-483e-92e7-d93e49a9dcec)
+
 
 [Medium Article](https://allenjake440.medium.com/predicting-the-nfl-champion-with-machine-learning-7c6eede5a4d2)
 
