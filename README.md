@@ -38,7 +38,8 @@
 
 ## Results/Findings:
 ![ChampionTable](https://github.com/allenjake440/NFL_Champion/assets/134075534/4eb28339-b56e-43ad-b103-1d10651660c5)
-![23SeaComp](https://github.com/allenjake440/NFL_Champion/assets/134075534/00c79b55-c418-41e5-88f9-e6a8f0b88bb4)
-![FeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/33412cde-df82-4925-9d31-c4261effbe3d)
-![HeatTableFeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/bb23e9e8-f268-430f-ade3-171ef0834327)
+![23SeaComp](https://github.com/allenjake440/NFL_Champion/assets/134075534/0d260b2b-14f5-41a9-9f78-d110111042b8)
+![FeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/556e226f-503b-44fa-95e7-a4cabb814e77)
+![HeatTableFeaImp](https://github.com/allenjake440/NFL_Champion/assets/134075534/2a44086e-d57c-40d7-ae41-27b149192243)
+
 
