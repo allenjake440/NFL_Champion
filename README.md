@@ -18,7 +18,7 @@
 •	3rd: Create raw data set, check for nans, and send to juypterlab.
 
 
-## Phyton
+## Python
 
 •	1st: Read in raw data file and raw data league rank file for data exploration. 
 
