@@ -7,7 +7,7 @@
 
 > First ever machine learning project (using phyton and excel), the goal with this project is create an effective model approach for the predicting NFL Champion (super-bowl winner), right before the playoffs start. 
 
-### Steps In This Project:
+### Project Procedure:
 
 ## Excel
 
