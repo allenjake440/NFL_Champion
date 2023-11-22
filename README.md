@@ -11,24 +11,24 @@
 
 ## Excel
 
-•	1st: Gather player (offense and defensive) player data and gather team data (advanced, basic, defensive, and offensive team statistics). Data is all pro-football reference.com
+•	1st: Gather player (offense and defensive) player data and gather team data (advanced, basic, defensive, and offensive team statistics). Data is all pro-football reference.com.
 
 •	2nd: Feature engineering (re-created/made new features) create statistics that measure strength of the players on the teams as well as playoff experience of the team.
 
-•	3rd: Create rawdata sets, send to juypterlab.
+•	3rd: Create raw data set, check for nans, and send to juypterlab.
 
 
 ## Phyton
 
-•	1st: Read in prepare data, scale, drop ceratin rows.
+•	1st: Read in raw data file and raw data league rank file for data exploration. 
 
-•	2nd: Select and take out certain features, play around with results (check for highly mult corr.)
+•	2nd: Preprocesses take out multi-correlated features and remove other useless features.
 
-•	3rd: Use model (different types of regressors). RandomForest best results, log parameter, play around with parameter to find best results.
+•	3rd: Identfiy the best model for our problem (Random Forest Regressor), hand-tune parameters (trees, splits, and depth). 
 
-•	4th: Identify error metrics (average precisions), (mae), to evalute results as a whole.
+•	4th: Identify error metrics to evalute our model on all levels. This includes basic error metrics such as sse, mse, rmse, and computing a ranking error metric to identify champion and top 4 finishing precision (Average Precision).
 
-•	5th: Export predictions and importance.
+•	5th: Export predictions and importance to power-bi to analyze results.
 
 ## Feature Exploration
 ![FeaCorr1](https://github.com/allenjake440/NFL_Champion/assets/134075534/8fb273cb-e295-4cdf-9fc9-167bab7d6da5)
