@@ -3,5 +3,5 @@
 
 [Medium Article](https://allenjake440.medium.com/predicting-the-nfl-champion-with-machine-learning-7c6eede5a4d2)
 
-> Using Machine learning to predict the NFL Champion (super-bowl winner), right before the playoffs start. 
+Using Machine Learning in preparation to predict the 2024 NFL Champion right before the playoffs (January 2024).
 
