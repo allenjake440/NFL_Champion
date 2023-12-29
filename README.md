@@ -20,7 +20,7 @@
    - Player CPOY Shares
    - Player Regular Season Passing Stats
    - Player Regular Season Defense Stats
-  ###### Other Stats:
+   ###### Other Stats:
    - Team Pre-Season Odds via profootballreference
 
 
