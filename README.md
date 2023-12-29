@@ -4,14 +4,14 @@
 
 ### ![Medium Article](https://allenjake440.medium.com/predicting-the-nfl-champion-with-machine-learning-7c6eede5a4d2)
 
-#### Acquired Data since 1991 from ![profootballreference](https://www.pro-football-reference.com/)
+#### Acquired Data since 1991 from ![profootballreference](https://www.pro-football-reference.com/).
 ##### Database Construction:
 1. WebScrapped and Hand Copied Data Tables:
    ###### Team Stats:
    - Team Regular Season Passing Offense Stats
    - Team Regular Season Offense Stats
    - Team Regular Season Defense Stats
-   - Team Regular Season Games Schedule Scores
+   - Team Regular Season Games 
    - Team Regular Season Advanced Stats
    ###### Player Stats:
    - Player MVP Shares
@@ -22,5 +22,13 @@
    - Player Regular Season Defense Stats
    ###### Other Stats:
    - Team Pre-Season Odds via profootballreference
+  
+2. Merged (joined) Data Tables:
+   
+   ###### Team Database:
+    - Merged all team datatables and stats
+      
+   ###### Player Database:
+    - Merged all player datatables and stats
 
 
