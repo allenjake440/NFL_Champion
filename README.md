@@ -7,7 +7,7 @@
 #### Acquired Data since 1991 from ![profootballreference](https://www.pro-football-reference.com/).
 ##### Since the entire the database file is too large to share on github, here is a step-by-step contruction log overview of the database.
 ##### Database Construction:
-1. WebScrapped and Hand Copied Data Tables:
+1. Web Scrape and Hand Copied Data Tables:
    ###### Team Stats:
    - Team Regular Season Passing Offense Stats
    - Team Regular Season Offense Stats
