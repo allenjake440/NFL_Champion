@@ -21,6 +21,7 @@
    - Player CPOY Shares
    - Player Regular Season Passing Stats
    - Player Regular Season Defense Stats
+   - Player Kicker Stats
    ###### Other Stats:
    - Team Pre-Season Odds via profootballreference
    - Coach Register
