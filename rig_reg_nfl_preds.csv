@@ -1,0 +1,57 @@
+Season,Team/Season (sec),Team,predicted_cs,champion_share,Team/Season
+2024,,Baltimore Ravens,0.5334030850137634,0.5,Baltimore Ravens 2024
+2024,,San Francisco 49ers,0.5890326870816511,0.75,San Francisco 49ers 2024
+2024,,Detroit Lions,0.25672900044858615,0.5,Detroit Lions 2024
+2024,,Cleveland Browns,0.31085384171070074,0.0,Cleveland Browns 2024
+2024,,Dallas Cowboys,0.2514175186053046,0.0,Dallas Cowboys 2024
+2024,,Kansas City Chiefs,0.35623423279430455,1.0,Kansas City Chiefs 2024
+2024,,Philadelphia Eagles,0.3242404336607613,0.0,Philadelphia Eagles 2024
+2024,,Pittsburgh Steelers,0.11296638531675207,0.0,Pittsburgh Steelers 2024
+2024,,Buffalo Bills,0.20097717325000575,0.25,Buffalo Bills 2024
+2024,,Los Angeles Rams,0.30792929227923294,0.0,Los Angeles Rams 2024
+2024,,Miami Dolphins,0.2919171063861836,0.0,Miami Dolphins 2024
+2024,,Houston Texans,0.022153255177891906,0.25,Houston Texans 2024
+2024,,Tampa Bay Buccaneers,-0.06314144563687274,0.25,Tampa Bay Buccaneers 2024
+2024,,Green Bay Packers,-0.050671599699584235,0.25,Green Bay Packers 2024
+2023,,Buffalo Bills,0.4207955812953943,0.25,Buffalo Bills 2023
+2023,,Philadelphia Eagles,0.5082444159661372,0.75,Philadelphia Eagles 2023
+2023,,Kansas City Chiefs,0.5349720156065654,1.0,Kansas City Chiefs 2023
+2023,,Cincinnati Bengals,0.44846110961742136,0.5,Cincinnati Bengals 2023
+2023,,Minnesota Vikings,0.4356491293238087,0.0,Minnesota Vikings 2023
+2023,,Dallas Cowboys,0.32643415180980984,0.25,Dallas Cowboys 2023
+2023,,San Francisco 49ers,0.41718615794374636,0.5,San Francisco 49ers 2023
+2023,,Baltimore Ravens,0.11008760454337296,0.0,Baltimore Ravens 2023
+2023,,New York Giants,-0.02320515263555656,0.25,New York Giants 2023
+2023,,Miami Dolphins,0.2470590212038909,0.0,Miami Dolphins 2023
+2023,,Los Angeles Chargers,0.09914207322463675,0.0,Los Angeles Chargers 2023
+2023,,Jacksonville Jaguars,-0.03150912712009046,0.25,Jacksonville Jaguars 2023
+2023,,Seattle Seahawks,-0.02604114575800698,0.0,Seattle Seahawks 2023
+2023,,Tampa Bay Buccaneers,0.07979270642096226,0.0,Tampa Bay Buccaneers 2023
+2022,,Kansas City Chiefs,0.3239560317496638,0.5,Kansas City Chiefs 2022
+2022,,Green Bay Packers,0.36783719333938225,0.25,Green Bay Packers 2022
+2022,,Tampa Bay Buccaneers,0.5687692210520614,0.25,Tampa Bay Buccaneers 2022
+2022,,Dallas Cowboys,0.2870959544244338,0.0,Dallas Cowboys 2022
+2022,,Los Angeles Rams,0.43365359561003003,1.0,Los Angeles Rams 2022
+2022,,Tennessee Titans,0.2839072777537902,0.25,Tennessee Titans 2022
+2022,,Arizona Cardinals,0.34660021047413625,0.0,Arizona Cardinals 2022
+2022,,Buffalo Bills,0.2254023834728477,0.25,Buffalo Bills 2022
+2022,,Pittsburgh Steelers,0.19210016944645536,0.0,Pittsburgh Steelers 2022
+2022,,Las Vegas Raiders,0.21708541646712332,0.0,Las Vegas Raiders 2022
+2022,,San Francisco 49ers,0.351586274609918,0.5,San Francisco 49ers 2022
+2022,,New England Patriots,0.20830281950007967,0.0,New England Patriots 2022
+2022,,Cincinnati Bengals,0.14569949862428555,0.75,Cincinnati Bengals 2022
+2022,,Philadelphia Eagles,-0.08207245979850875,0.0,Philadelphia Eagles 2022
+2021,,Kansas City Chiefs,0.3159399680518601,0.75,Kansas City Chiefs 2021
+2021,,Buffalo Bills,0.3683877640149472,0.5,Buffalo Bills 2021
+2021,,Green Bay Packers,0.18967637720367136,0.5,Green Bay Packers 2021
+2021,,Pittsburgh Steelers,0.1127913085249771,0.0,Pittsburgh Steelers 2021
+2021,,New Orleans Saints,0.3675772564658931,0.25,New Orleans Saints 2021
+2021,,Seattle Seahawks,0.28941599458740597,0.0,Seattle Seahawks 2021
+2021,,Baltimore Ravens,0.23570998639673224,0.25,Baltimore Ravens 2021
+2021,,Tampa Bay Buccaneers,0.47806884645597614,1.0,Tampa Bay Buccaneers 2021
+2021,,Tennessee Titans,0.2963384654807405,0.0,Tennessee Titans 2021
+2021,,Cleveland Browns,0.02830865212300404,0.25,Cleveland Browns 2021
+2021,,Indianapolis Colts,0.13583387477293818,0.0,Indianapolis Colts 2021
+2021,,Los Angeles Rams,0.22818213128265352,0.25,Los Angeles Rams 2021
+2021,,Chicago Bears,-0.02733139052607947,0.0,Chicago Bears 2021
+2021,,Washington Football Team,-0.30015089956235913,0.0,Washington Football Team 2021
