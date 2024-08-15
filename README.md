@@ -4,15 +4,14 @@
 
 ### ![Medium Article](https://allenjake440.medium.com/predicting-the-nfl-champion-with-machine-learning-7c6eede5a4d2)
 
-#### Acquired Data since 1991 from ![profootballreference](https://www.pro-football-reference.com/).
+#### Acquired Data since 1990 from ![profootballreference](https://www.pro-football-reference.com/).
 
 ##### Project About:
 - This project has been web scraped in some areas, and other areas hand copied. With that said, all of the data is cleanly and accurately present in each dataset in the respiratory.
-
-###### CSV's | website location links
 - If you want to use the project each year, you'll have to hand copy and clean accordingly to already the clean csv's.
 - Then run the data through nfl_champ_data python file, then run the python ml file.
 
+##### CSV's | website location links
 - all_coaches_data (https://www.pro-football-reference.com/years/2023/coaches.htm)
 - all_player_award_data (https://www.pro-football-reference.com/awards/awards_2023.htm)
 - all_player_defense_datas (scraper available)
