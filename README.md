@@ -6,7 +6,14 @@
 
 #### Acquired Data since 1991 from ![profootballreference](https://www.pro-football-reference.com/).
 
+##### Project About:
+- This project has been web scraped in some areas, and other areas hand copied. With that said, all of the data is cleanly and accurately present in each dataset in the respiratory.
 
+###### CSV's | website location link
+
+- all_coaches_data (https://www.pro-football-reference.com/awards/awards_2023.htm)
+- 
+- 
 
 
 
