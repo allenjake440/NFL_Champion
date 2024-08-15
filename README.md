@@ -5,32 +5,8 @@
 ### ![Medium Article](https://allenjake440.medium.com/predicting-the-nfl-champion-with-machine-learning-7c6eede5a4d2)
 
 #### Acquired Data since 1991 from ![profootballreference](https://www.pro-football-reference.com/).
-##### Since the entire the database file is too large to share on github, here is a step-by-step contruction, overview of the database.
-##### Database Construction:
-1. Web Scraped and Hand Copied Data Tables:
-   ###### Team Stats:
-   - Team Regular Season Passing Offense Stats
-   - Team Regular Season Offense Stats
-   - Team Regular Season Defense Stats
-   - Team Regular Season Games 
-   - Team Regular Season Advanced Stats
-   ###### Player Stats:
-   - Player MVP Shares
-   - Player DPOY Shares
-   - Player All-Pro
-   - Player CPOY Shares
-   - Player Regular Season Passing Stats
-   - Player Regular Season Defense Stats
-   - Player Kicker Stats
-   ###### Other Stats:
-   - Team Pre-Season Odds via profootballreference
-   - Coach Register
-  
-2. RawData was put together using excel.
 
-3. Custom Feature:
 
-![image](https://github.com/user-attachments/assets/be689361-68cc-4a80-a75d-27b2135bab24)
 
 
 
