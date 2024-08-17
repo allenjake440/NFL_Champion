@@ -7,6 +7,7 @@
 #### Acquired Data since 1990 from ![profootballreference](https://www.pro-football-reference.com/).
 
 ##### Project About:
+- Time constraints
 - This project has been web scraped in some areas, and other areas hand copied. With that said, all of the data is cleanly and accurately present in each dataset in the respiratory.
 - If you want to use the project each year, you'll have to hand copy and clean accordingly to already the clean csv's.
 - Then run the data through nfl_champ_data python file, then run the python ml file.
