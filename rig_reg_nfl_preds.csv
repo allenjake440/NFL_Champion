@@ -1,177 +1,129 @@
 Season,Team,predicted_cs,champion_share,Team/Season
-2024,Cleveland Browns,0.3221361164172498,0.0,Cleveland Browns 2024
-2024,Los Angeles Rams,0.18535733444276659,0.0,Los Angeles Rams 2024
-2024,Pittsburgh Steelers,0.03608459405505948,0.0,Pittsburgh Steelers 2024
-2024,Kansas City Chiefs,0.4156347382878335,1.0,Kansas City Chiefs 2024
-2024,Buffalo Bills,0.24158756207754117,0.25,Buffalo Bills 2024
-2024,Philadelphia Eagles,0.21885237489788067,0.0,Philadelphia Eagles 2024
-2024,Miami Dolphins,0.26206716665012586,0.0,Miami Dolphins 2024
-2024,Detroit Lions,0.3340324809873064,0.5,Detroit Lions 2024
-2024,San Francisco 49ers,0.697486392335125,0.75,San Francisco 49ers 2024
-2024,Dallas Cowboys,0.40410967343050175,0.0,Dallas Cowboys 2024
-2024,Houston Texans,0.04880293105869027,0.25,Houston Texans 2024
-2024,Baltimore Ravens,0.639752226331817,0.5,Baltimore Ravens 2024
-2024,Green Bay Packers,0.019412055578443166,0.25,Green Bay Packers 2024
-2024,Tampa Bay Buccaneers,0.002462040202663829,0.25,Tampa Bay Buccaneers 2024
-2023,Dallas Cowboys,0.2691179889817237,0.25,Dallas Cowboys 2023
-2023,Cincinnati Bengals,0.4759953648788351,0.5,Cincinnati Bengals 2023
-2023,Miami Dolphins,0.23561511432241067,0.0,Miami Dolphins 2023
-2023,Minnesota Vikings,0.24977299314523704,0.0,Minnesota Vikings 2023
-2023,San Francisco 49ers,0.5414237330319507,0.5,San Francisco 49ers 2023
-2023,New York Giants,-0.03603342960943057,0.25,New York Giants 2023
-2023,Baltimore Ravens,0.051901709201485846,0.0,Baltimore Ravens 2023
-2023,Los Angeles Chargers,-0.0167035691712194,0.0,Los Angeles Chargers 2023
-2023,Tampa Bay Buccaneers,0.0702757954060752,0.0,Tampa Bay Buccaneers 2023
-2023,Buffalo Bills,0.5031953483641771,0.25,Buffalo Bills 2023
-2023,Jacksonville Jaguars,0.08148369995576632,0.25,Jacksonville Jaguars 2023
-2023,Seattle Seahawks,0.032279541125293076,0.0,Seattle Seahawks 2023
-2023,Kansas City Chiefs,0.5892150991968808,1.0,Kansas City Chiefs 2023
-2023,Philadelphia Eagles,0.5571610563715053,0.75,Philadelphia Eagles 2023
-2022,Pittsburgh Steelers,0.15013875829747725,0.0,Pittsburgh Steelers 2022
-2022,Kansas City Chiefs,0.4428062149534491,0.5,Kansas City Chiefs 2022
-2022,Tennessee Titans,0.11512782646091146,0.25,Tennessee Titans 2022
-2022,Dallas Cowboys,0.297657301066347,0.0,Dallas Cowboys 2022
-2022,Los Angeles Rams,0.4744208163881718,1.0,Los Angeles Rams 2022
-2022,Buffalo Bills,0.27089221642539396,0.25,Buffalo Bills 2022
-2022,Arizona Cardinals,0.40078700987213955,0.0,Arizona Cardinals 2022
-2022,Las Vegas Raiders,0.1529672438382551,0.0,Las Vegas Raiders 2022
-2022,New England Patriots,0.3495153401386122,0.0,New England Patriots 2022
-2022,San Francisco 49ers,0.37520776654894017,0.5,San Francisco 49ers 2022
-2022,Cincinnati Bengals,0.19581032143505428,0.75,Cincinnati Bengals 2022
-2022,Green Bay Packers,0.37538501995596363,0.25,Green Bay Packers 2022
-2022,Tampa Bay Buccaneers,0.5711670807943114,0.25,Tampa Bay Buccaneers 2022
-2022,Philadelphia Eagles,0.03458361878614291,0.0,Philadelphia Eagles 2022
-2021,New Orleans Saints,0.4031926837097042,0.25,New Orleans Saints 2021
-2021,Seattle Seahawks,0.42581000959647275,0.0,Seattle Seahawks 2021
-2021,Pittsburgh Steelers,0.10662330526664476,0.0,Pittsburgh Steelers 2021
-2021,Indianapolis Colts,0.10946152119569108,0.0,Indianapolis Colts 2021
-2021,Tampa Bay Buccaneers,0.6551689428232437,1.0,Tampa Bay Buccaneers 2021
-2021,Tennessee Titans,0.2978892289072306,0.0,Tennessee Titans 2021
-2021,Cleveland Browns,-0.000251088601918914,0.25,Cleveland Browns 2021
-2021,Baltimore Ravens,0.20228912601439675,0.25,Baltimore Ravens 2021
-2021,Washington Football Team,-0.0435313813902819,0.0,Washington Football Team 2021
-2021,Chicago Bears,-0.004564779597361013,0.0,Chicago Bears 2021
-2021,Kansas City Chiefs,0.2885638014509633,0.75,Kansas City Chiefs 2021
-2021,Los Angeles Rams,0.17031351454598642,0.25,Los Angeles Rams 2021
-2021,Green Bay Packers,0.352915833825034,0.5,Green Bay Packers 2021
-2021,Buffalo Bills,0.2768111633559729,0.5,Buffalo Bills 2021
-2020,New England Patriots,0.5840740593441642,0.0,New England Patriots 2020
-2020,Kansas City Chiefs,0.47434248763832687,1.0,Kansas City Chiefs 2020
-2020,New Orleans Saints,0.3154090847073808,0.0,New Orleans Saints 2020
-2020,Seattle Seahawks,0.21356859618378554,0.25,Seattle Seahawks 2020
-2020,Baltimore Ravens,0.3977850897852664,0.25,Baltimore Ravens 2020
-2020,Green Bay Packers,0.26787672679894947,0.5,Green Bay Packers 2020
-2020,Philadelphia Eagles,0.07533979375269417,0.0,Philadelphia Eagles 2020
-2020,San Francisco 49ers,0.3922815154038424,0.75,San Francisco 49ers 2020
-2020,Tennessee Titans,0.09580857119213204,0.5,Tennessee Titans 2020
-2020,Buffalo Bills,0.16515906437556538,0.0,Buffalo Bills 2020
-2020,Houston Texans,-0.002898516328502798,0.25,Houston Texans 2020
-2020,Minnesota Vikings,0.18176630987264097,0.25,Minnesota Vikings 2020
-2019,New Orleans Saints,0.38533342188426345,0.5,New Orleans Saints 2019
-2019,Houston Texans,0.44803980620803907,0.0,Houston Texans 2019
-2019,Baltimore Ravens,0.23598671253836412,0.0,Baltimore Ravens 2019
-2019,New England Patriots,0.48340680912215706,1.0,New England Patriots 2019
-2019,Indianapolis Colts,0.13918078918337629,0.25,Indianapolis Colts 2019
-2019,Dallas Cowboys,-0.03285719369392692,0.25,Dallas Cowboys 2019
-2019,Philadelphia Eagles,-0.038365592783538016,0.25,Philadelphia Eagles 2019
-2019,Seattle Seahawks,0.19275965672463713,0.0,Seattle Seahawks 2019
-2019,Chicago Bears,0.191621687460366,0.0,Chicago Bears 2019
-2019,Los Angeles Chargers,0.3102636937758003,0.25,Los Angeles Chargers 2019
-2019,Kansas City Chiefs,0.17037661929544967,0.5,Kansas City Chiefs 2019
-2019,Los Angeles Rams,0.4264864502226984,0.75,Los Angeles Rams 2019
-2018,Los Angeles Rams,0.3302398794359691,0.0,Los Angeles Rams 2018
-2018,Atlanta Falcons,0.29658668718661507,0.25,Atlanta Falcons 2018
-2018,Carolina Panthers,0.3996511361865923,0.0,Carolina Panthers 2018
-2018,Minnesota Vikings,0.2784762812353164,0.5,Minnesota Vikings 2018
-2018,Tennessee Titans,0.0860935741274711,0.25,Tennessee Titans 2018
-2018,Philadelphia Eagles,0.41887545190358766,1.0,Philadelphia Eagles 2018
-2018,Pittsburgh Steelers,0.3326597156186819,0.25,Pittsburgh Steelers 2018
-2018,Jacksonville Jaguars,0.18883024038449514,0.5,Jacksonville Jaguars 2018
-2018,Kansas City Chiefs,0.2172800795564982,0.0,Kansas City Chiefs 2018
-2018,New Orleans Saints,0.3022389756059565,0.25,New Orleans Saints 2018
-2018,Buffalo Bills,0.08632422355732572,0.0,Buffalo Bills 2018
-2018,New England Patriots,0.6353787988760196,0.75,New England Patriots 2018
-2017,Miami Dolphins,0.04400459832710313,0.0,Miami Dolphins 2017
-2017,Atlanta Falcons,0.2881633017507811,0.75,Atlanta Falcons 2017
-2017,Oakland Raiders,0.06130677590186617,0.0,Oakland Raiders 2017
-2017,Pittsburgh Steelers,0.25718082007960397,0.5,Pittsburgh Steelers 2017
-2017,Green Bay Packers,0.2181579927564523,0.5,Green Bay Packers 2017
-2017,Kansas City Chiefs,0.35546985935667574,0.25,Kansas City Chiefs 2017
-2017,Houston Texans,0.10844857582834322,0.25,Houston Texans 2017
-2017,Detroit Lions,0.04206876999272169,0.0,Detroit Lions 2017
-2017,Seattle Seahawks,0.3257652806550516,0.25,Seattle Seahawks 2017
-2017,New York Giants,0.15190407170515052,0.0,New York Giants 2017
-2017,Dallas Cowboys,0.22408337413322854,0.25,Dallas Cowboys 2017
-2017,New England Patriots,0.5660423571572422,1.0,New England Patriots 2017
-2016,Arizona Cardinals,0.4808877659870088,0.5,Arizona Cardinals 2016
-2016,New England Patriots,0.569353039954261,0.5,New England Patriots 2016
-2016,Pittsburgh Steelers,0.4003814684185696,0.25,Pittsburgh Steelers 2016
-2016,Seattle Seahawks,0.32424121930636063,0.25,Seattle Seahawks 2016
-2016,Carolina Panthers,0.39683289414201983,0.75,Carolina Panthers 2016
-2016,Green Bay Packers,0.42435778230225485,0.25,Green Bay Packers 2016
-2016,Cincinnati Bengals,0.3239576999061159,0.0,Cincinnati Bengals 2016
-2016,Denver Broncos,0.7524079213304662,1.0,Denver Broncos 2016
-2016,Kansas City Chiefs,0.31729994080391766,0.25,Kansas City Chiefs 2016
-2016,Minnesota Vikings,0.2409620165958637,0.0,Minnesota Vikings 2016
-2016,Washington Redskins,-0.12648381059062058,0.0,Washington Redskins 2016
-2016,Houston Texans,0.15802675413981104,0.0,Houston Texans 2016
-2015,Cincinnati Bengals,0.006562043207518631,0.0,Cincinnati Bengals 2015
-2015,Green Bay Packers,0.25868422877440167,0.5,Green Bay Packers 2015
-2015,New England Patriots,0.3164180051785598,1.0,New England Patriots 2015
-2015,Denver Broncos,0.4311068314601998,0.25,Denver Broncos 2015
-2015,Seattle Seahawks,-3.3256435033268694e-05,0.75,Seattle Seahawks 2015
-2015,Indianapolis Colts,0.1405917219140519,0.5,Indianapolis Colts 2015
-2015,Detroit Lions,0.16970957019291388,0.0,Detroit Lions 2015
-2015,Carolina Panthers,-0.009690332893818376,0.25,Carolina Panthers 2015
-2015,Arizona Cardinals,0.5604086847656511,0.0,Arizona Cardinals 2015
-2015,Dallas Cowboys,-0.021194596690091272,0.25,Dallas Cowboys 2015
-2015,Pittsburgh Steelers,-0.04949640850707382,0.0,Pittsburgh Steelers 2015
-2015,Baltimore Ravens,-0.047002938979616826,0.25,Baltimore Ravens 2015
-2014,Kansas City Chiefs,-0.03606775877956275,0.0,Kansas City Chiefs 2014
-2014,Seattle Seahawks,0.3542722206606125,1.0,Seattle Seahawks 2014
-2014,San Diego Chargers,-0.29368325018280694,0.25,San Diego Chargers 2014
-2014,Indianapolis Colts,0.013825327439179025,0.25,Indianapolis Colts 2014
-2014,New Orleans Saints,0.20907741753047393,0.25,New Orleans Saints 2014
-2014,Cincinnati Bengals,0.11906063424348934,0.0,Cincinnati Bengals 2014
-2014,Philadelphia Eagles,0.379724814023392,0.0,Philadelphia Eagles 2014
-2014,Denver Broncos,0.36604460682474926,0.75,Denver Broncos 2014
-2014,San Francisco 49ers,0.39447810518864534,0.5,San Francisco 49ers 2014
-2014,Green Bay Packers,-0.15802047329202185,0.0,Green Bay Packers 2014
-2014,New England Patriots,0.4778577491655588,0.5,New England Patriots 2014
-2014,Carolina Panthers,0.25618976699381457,0.25,Carolina Panthers 2014
-2013,Green Bay Packers,0.19915035358005395,0.25,Green Bay Packers 2013
-2013,Washington Redskins,0.049788650434498816,0.0,Washington Redskins 2013
-2013,Minnesota Vikings,-0.1984458826763438,0.0,Minnesota Vikings 2013
-2013,Baltimore Ravens,0.20431710815707538,1.0,Baltimore Ravens 2013
-2013,Seattle Seahawks,0.1981465928035448,0.25,Seattle Seahawks 2013
-2013,Indianapolis Colts,-0.10095253530411946,0.0,Indianapolis Colts 2013
-2013,New England Patriots,0.421596221331771,0.5,New England Patriots 2013
-2013,Cincinnati Bengals,0.29180870686792937,0.0,Cincinnati Bengals 2013
-2013,Denver Broncos,0.527161163298926,0.25,Denver Broncos 2013
-2013,Houston Texans,0.038893236546123366,0.25,Houston Texans 2013
-2013,San Francisco 49ers,0.12500047153822863,0.75,San Francisco 49ers 2013
-2013,Atlanta Falcons,0.1797581388290443,0.5,Atlanta Falcons 2013
-2012,Green Bay Packers,0.394569232278939,0.25,Green Bay Packers 2012
-2012,New England Patriots,0.431427854068738,0.75,New England Patriots 2012
-2012,Atlanta Falcons,-0.022382938182328935,0.0,Atlanta Falcons 2012
-2012,New Orleans Saints,0.09715270685384991,0.25,New Orleans Saints 2012
-2012,Houston Texans,0.2783981204072058,0.25,Houston Texans 2012
-2012,Detroit Lions,0.27991144410258006,0.0,Detroit Lions 2012
-2012,Denver Broncos,0.09894242924397556,0.25,Denver Broncos 2012
-2012,New York Giants,0.2927347536193654,1.0,New York Giants 2012
-2012,Pittsburgh Steelers,0.21356877745536001,0.0,Pittsburgh Steelers 2012
-2012,San Francisco 49ers,-0.07242147265623576,0.5,San Francisco 49ers 2012
-2012,Cincinnati Bengals,0.07315275603549373,0.0,Cincinnati Bengals 2012
-2012,Baltimore Ravens,0.47599040214406546,0.5,Baltimore Ravens 2012
-2011,Atlanta Falcons,-0.03469574889402177,0.25,Atlanta Falcons 2011
-2011,New England Patriots,0.3363888862475304,0.25,New England Patriots 2011
-2011,Pittsburgh Steelers,0.1766786451489457,0.75,Pittsburgh Steelers 2011
-2011,Baltimore Ravens,0.23248183873347822,0.25,Baltimore Ravens 2011
-2011,New York Jets,0.44389079213427585,0.5,New York Jets 2011
-2011,Chicago Bears,0.20904946031863597,0.5,Chicago Bears 2011
-2011,New Orleans Saints,0.5782846972440101,0.0,New Orleans Saints 2011
-2011,Kansas City Chiefs,-0.059601629452459226,0.0,Kansas City Chiefs 2011
-2011,Seattle Seahawks,-0.1215649572716631,0.25,Seattle Seahawks 2011
-2011,Indianapolis Colts,0.41240187497647385,0.0,Indianapolis Colts 2011
-2011,Philadelphia Eagles,-0.0477258487279732,0.0,Philadelphia Eagles 2011
-2011,Green Bay Packers,0.2340195289301289,1.0,Green Bay Packers 2011
+2024,Cleveland Browns,0.35638607420656454,0.0,Cleveland Browns 2024
+2024,Los Angeles Rams,0.21496052004777177,0.0,Los Angeles Rams 2024
+2024,Pittsburgh Steelers,0.027628565305167774,0.0,Pittsburgh Steelers 2024
+2024,Kansas City Chiefs,0.40081768620649094,1.0,Kansas City Chiefs 2024
+2024,Buffalo Bills,0.3986516034684524,0.25,Buffalo Bills 2024
+2024,Philadelphia Eagles,0.25008752256621114,0.0,Philadelphia Eagles 2024
+2024,Miami Dolphins,0.2768690541859573,0.0,Miami Dolphins 2024
+2024,Detroit Lions,0.14612458932507466,0.5,Detroit Lions 2024
+2024,San Francisco 49ers,0.6780314644081278,0.75,San Francisco 49ers 2024
+2024,Dallas Cowboys,0.38189304548081493,0.0,Dallas Cowboys 2024
+2024,Houston Texans,0.0352918314036752,0.25,Houston Texans 2024
+2024,Baltimore Ravens,0.6436688378778712,0.5,Baltimore Ravens 2024
+2024,Green Bay Packers,0.033056404924545646,0.25,Green Bay Packers 2024
+2024,Tampa Bay Buccaneers,0.036730571403792434,0.25,Tampa Bay Buccaneers 2024
+2023,Dallas Cowboys,0.2698576004396085,0.25,Dallas Cowboys 2023
+2023,Cincinnati Bengals,0.5375098651386847,0.5,Cincinnati Bengals 2023
+2023,Miami Dolphins,0.23274419424649317,0.0,Miami Dolphins 2023
+2023,Minnesota Vikings,0.3015788788625591,0.0,Minnesota Vikings 2023
+2023,San Francisco 49ers,0.5522663301424444,0.5,San Francisco 49ers 2023
+2023,New York Giants,-0.005451167474246454,0.25,New York Giants 2023
+2023,Baltimore Ravens,0.051375080448630595,0.0,Baltimore Ravens 2023
+2023,Los Angeles Chargers,0.019220884650158254,0.0,Los Angeles Chargers 2023
+2023,Tampa Bay Buccaneers,0.09027375555707562,0.0,Tampa Bay Buccaneers 2023
+2023,Buffalo Bills,0.5177221481491439,0.25,Buffalo Bills 2023
+2023,Jacksonville Jaguars,0.10055731145217428,0.25,Jacksonville Jaguars 2023
+2023,Seattle Seahawks,0.06685791287952902,0.0,Seattle Seahawks 2023
+2023,Kansas City Chiefs,0.5700331997933357,1.0,Kansas City Chiefs 2023
+2023,Philadelphia Eagles,0.5662240110331285,0.75,Philadelphia Eagles 2023
+2022,Pittsburgh Steelers,0.21335132332574336,0.0,Pittsburgh Steelers 2022
+2022,Kansas City Chiefs,0.4332872663946572,0.5,Kansas City Chiefs 2022
+2022,Tennessee Titans,0.1845395054443053,0.25,Tennessee Titans 2022
+2022,Dallas Cowboys,0.28207517844418684,0.0,Dallas Cowboys 2022
+2022,Los Angeles Rams,0.4871956597961997,1.0,Los Angeles Rams 2022
+2022,Buffalo Bills,0.2874853944659741,0.25,Buffalo Bills 2022
+2022,Arizona Cardinals,0.35344722119006855,0.0,Arizona Cardinals 2022
+2022,Las Vegas Raiders,0.17940808917834428,0.0,Las Vegas Raiders 2022
+2022,New England Patriots,0.3146289672835032,0.0,New England Patriots 2022
+2022,San Francisco 49ers,0.3608629095297111,0.5,San Francisco 49ers 2022
+2022,Cincinnati Bengals,0.19145946717122175,0.75,Cincinnati Bengals 2022
+2022,Green Bay Packers,0.3630120057414248,0.25,Green Bay Packers 2022
+2022,Tampa Bay Buccaneers,0.6514089990693746,0.25,Tampa Bay Buccaneers 2022
+2022,Philadelphia Eagles,0.01423884785209184,0.0,Philadelphia Eagles 2022
+2021,New Orleans Saints,0.43868245378971493,0.25,New Orleans Saints 2021
+2021,Seattle Seahawks,0.30668257685160505,0.0,Seattle Seahawks 2021
+2021,Pittsburgh Steelers,0.08554618918013501,0.0,Pittsburgh Steelers 2021
+2021,Indianapolis Colts,0.11034385014225534,0.0,Indianapolis Colts 2021
+2021,Tampa Bay Buccaneers,0.6891500036834006,1.0,Tampa Bay Buccaneers 2021
+2021,Tennessee Titans,0.29607094617082064,0.0,Tennessee Titans 2021
+2021,Cleveland Browns,-0.026250847689607726,0.25,Cleveland Browns 2021
+2021,Baltimore Ravens,0.3242029233000778,0.25,Baltimore Ravens 2021
+2021,Washington Football Team,-0.015545742186341416,0.0,Washington Football Team 2021
+2021,Chicago Bears,0.03277578421173866,0.0,Chicago Bears 2021
+2021,Kansas City Chiefs,0.24959117146227494,0.75,Kansas City Chiefs 2021
+2021,Los Angeles Rams,0.1820008069854424,0.25,Los Angeles Rams 2021
+2021,Green Bay Packers,0.2910562840284292,0.5,Green Bay Packers 2021
+2021,Buffalo Bills,0.2862146966030039,0.5,Buffalo Bills 2021
+2020,New England Patriots,0.6585024532614627,0.0,New England Patriots 2020
+2020,Kansas City Chiefs,0.43223020292571235,1.0,Kansas City Chiefs 2020
+2020,New Orleans Saints,0.3330939802484463,0.0,New Orleans Saints 2020
+2020,Seattle Seahawks,0.23169993172061054,0.25,Seattle Seahawks 2020
+2020,Baltimore Ravens,0.36292141607876616,0.25,Baltimore Ravens 2020
+2020,Green Bay Packers,0.24072311216879183,0.5,Green Bay Packers 2020
+2020,Philadelphia Eagles,0.07936911011702263,0.0,Philadelphia Eagles 2020
+2020,San Francisco 49ers,0.4023173072242259,0.75,San Francisco 49ers 2020
+2020,Tennessee Titans,0.12374716465915425,0.5,Tennessee Titans 2020
+2020,Buffalo Bills,0.16783007447695042,0.0,Buffalo Bills 2020
+2020,Houston Texans,0.018885622413903347,0.25,Houston Texans 2020
+2020,Minnesota Vikings,0.17401371330310622,0.25,Minnesota Vikings 2020
+2019,New Orleans Saints,0.4121162259370488,0.5,New Orleans Saints 2019
+2019,Houston Texans,0.4460198494315524,0.0,Houston Texans 2019
+2019,Baltimore Ravens,0.22937227010124506,0.0,Baltimore Ravens 2019
+2019,New England Patriots,0.45245779107352657,1.0,New England Patriots 2019
+2019,Indianapolis Colts,0.11658171358371228,0.25,Indianapolis Colts 2019
+2019,Dallas Cowboys,-0.04440795551688481,0.25,Dallas Cowboys 2019
+2019,Philadelphia Eagles,-0.017280385262380182,0.25,Philadelphia Eagles 2019
+2019,Seattle Seahawks,0.18795449212658888,0.0,Seattle Seahawks 2019
+2019,Chicago Bears,0.20571264532405065,0.0,Chicago Bears 2019
+2019,Los Angeles Chargers,0.31321209433449293,0.25,Los Angeles Chargers 2019
+2019,Kansas City Chiefs,0.10814181989894445,0.5,Kansas City Chiefs 2019
+2019,Los Angeles Rams,0.4162149141241571,0.75,Los Angeles Rams 2019
+2018,Los Angeles Rams,0.2872901269431808,0.0,Los Angeles Rams 2018
+2018,Atlanta Falcons,0.3260010624904639,0.25,Atlanta Falcons 2018
+2018,Carolina Panthers,0.4056797646131802,0.0,Carolina Panthers 2018
+2018,Minnesota Vikings,0.25925965751998814,0.5,Minnesota Vikings 2018
+2018,Tennessee Titans,0.14364894970461362,0.25,Tennessee Titans 2018
+2018,Philadelphia Eagles,0.4301945157759106,1.0,Philadelphia Eagles 2018
+2018,Pittsburgh Steelers,0.29564402951397795,0.25,Pittsburgh Steelers 2018
+2018,Jacksonville Jaguars,0.21358671079769054,0.5,Jacksonville Jaguars 2018
+2018,Kansas City Chiefs,0.21849405739369987,0.0,Kansas City Chiefs 2018
+2018,New Orleans Saints,0.3920142317424613,0.25,New Orleans Saints 2018
+2018,Buffalo Bills,0.17476382596853357,0.0,Buffalo Bills 2018
+2018,New England Patriots,0.6592288507608681,0.75,New England Patriots 2018
+2017,Miami Dolphins,0.025837468279563236,0.0,Miami Dolphins 2017
+2017,Atlanta Falcons,0.33100630248734975,0.75,Atlanta Falcons 2017
+2017,Oakland Raiders,0.03877970930275243,0.0,Oakland Raiders 2017
+2017,Pittsburgh Steelers,0.2401880540825444,0.5,Pittsburgh Steelers 2017
+2017,Green Bay Packers,0.17646545236509226,0.5,Green Bay Packers 2017
+2017,Kansas City Chiefs,0.28753566678143194,0.25,Kansas City Chiefs 2017
+2017,Houston Texans,0.12951098898630586,0.25,Houston Texans 2017
+2017,Detroit Lions,0.05951521524282655,0.0,Detroit Lions 2017
+2017,Seattle Seahawks,0.32682427300465466,0.25,Seattle Seahawks 2017
+2017,New York Giants,0.11870648334904033,0.0,New York Giants 2017
+2017,Dallas Cowboys,0.19002359810635838,0.25,Dallas Cowboys 2017
+2017,New England Patriots,0.49537128810945497,1.0,New England Patriots 2017
+2016,Arizona Cardinals,0.4871919656304151,0.5,Arizona Cardinals 2016
+2016,New England Patriots,0.5263306272634596,0.5,New England Patriots 2016
+2016,Pittsburgh Steelers,0.4072132176542087,0.25,Pittsburgh Steelers 2016
+2016,Seattle Seahawks,0.3855031878506747,0.25,Seattle Seahawks 2016
+2016,Carolina Panthers,0.451546144873723,0.75,Carolina Panthers 2016
+2016,Green Bay Packers,0.48268429148433434,0.25,Green Bay Packers 2016
+2016,Cincinnati Bengals,0.34049704171385575,0.0,Cincinnati Bengals 2016
+2016,Denver Broncos,0.5290140636391323,1.0,Denver Broncos 2016
+2016,Kansas City Chiefs,0.2822703734446874,0.25,Kansas City Chiefs 2016
+2016,Minnesota Vikings,0.2579074194746881,0.0,Minnesota Vikings 2016
+2016,Washington Redskins,-0.15700576691414003,0.0,Washington Redskins 2016
+2016,Houston Texans,0.0986277608281596,0.0,Houston Texans 2016
+2015,Cincinnati Bengals,0.013982979600608458,0.0,Cincinnati Bengals 2015
+2015,Green Bay Packers,0.259244893016808,0.5,Green Bay Packers 2015
+2015,New England Patriots,0.22534907915419922,1.0,New England Patriots 2015
+2015,Denver Broncos,0.27538839260292647,0.25,Denver Broncos 2015
+2015,Seattle Seahawks,0.039743645459705323,0.75,Seattle Seahawks 2015
+2015,Indianapolis Colts,0.15293835608902473,0.5,Indianapolis Colts 2015
+2015,Detroit Lions,0.10230601848030485,0.0,Detroit Lions 2015
+2015,Carolina Panthers,0.02456228727232035,0.25,Carolina Panthers 2015
+2015,Arizona Cardinals,0.17588123144897627,0.0,Arizona Cardinals 2015
+2015,Dallas Cowboys,0.0019370578281818762,0.25,Dallas Cowboys 2015
+2015,Pittsburgh Steelers,0.038474527531786484,0.0,Pittsburgh Steelers 2015
+2015,Baltimore Ravens,-0.05060201725426694,0.25,Baltimore Ravens 2015
