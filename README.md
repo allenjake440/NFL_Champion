@@ -7,10 +7,10 @@
 #### Acquired Data since 1990 from ![profootballreference](https://www.pro-football-reference.com/).
 
 ##### Project About:
-- Time constraints
-- This project has been web scraped in some areas, and other areas hand copied. With that said, all of the data is cleanly and accurately present in each dataset in the respiratory.
-- If you want to use the project each year, you'll have to hand copy and clean accordingly to already the clean csv's.
-- Then run the data through nfl_champ_data python file, then run the python ml file.
+- Since my NBA champion project is fully end-to-end (web scraped -> transformed -> analyzed) in python, this project is NOT web scraped by code entirely (Player data web scraped).
+##### How to setup/run the Project:
+- For predicting new season in the future, for example 2025, 2026 you'll have to hand copy from website using my given links, then format as follows in each file (via excel/python/whatever).
+- Then run python file nfl_champ_data then run nfl_champ_ml for results.
 
 ##### CSV's | website location links
 - all_coaches_data (https://www.pro-football-reference.com/years/2023/coaches.htm)
