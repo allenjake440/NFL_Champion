@@ -9,7 +9,7 @@
 ##### Project About:
 - Since my NBA champion project is fully end-to-end (web scraped -> transformed -> analyzed) in python, this project is NOT web scraped by code entirely (Player data web scraped).
 ##### How to setup/run the Project:
-- For predicting new seasons in the future, for example 2025, 2026 you'll have to hand copy from website using my given links, then format as follows in each file (via excel/python/whatever).
+- For predicting new seasons in the future, for example 2025, 2026 you'll have to hand copy the new season data from website using my given links to find the approriate tables, then format as follows in each file (via excel/python/whatever).
 - Then run python file nfl_champ_data then run nfl_champ_ml for results.
 
 ##### CSV's | website location links
