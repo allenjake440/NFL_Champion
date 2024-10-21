@@ -1,6 +1,8 @@
 # Predicting the NFL Champion Using Machine Learning
 
-![NFL Champion Trophy](https://github.com/allenjake440/NFL_Champion/assets/134075534/0657811b-27c3-4064-aef3-ea8c8de335ef)
+<div align="center">
+  <img src="https://github.com/allenjake440/NFL_Champion/assets/134075534/9c552d90-6d45-4b71-bf29-6838626cf0e9" alt="NFL Champion Art">
+</div>
 
 ## Overview
 
