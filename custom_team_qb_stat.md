@@ -44,3 +44,51 @@ all_team_advance_data['team_rating_custom'] = (
     (all_team_advance_data['SRS_greater_than_1.5_pts'] * 7) + 
     (all_team_advance_data['sum_playoff_games'] * 0.18654999999999305)) / 3
 )
+
+# Season QuarterBack Rating Custom – The Science Behind the Statistic
+
+**Season QuaterBack Rating Custom (QBSR o QBSR_rk)** is a scaled regression-based formula, that returns a season quarterback score on a range form 5 - 20, for only the teams main starting quarterback for that specific season. This statistic encompasses factors like how many touchdowns that did the QB deliver that season, how mvp votes have the add in the past, their playoff sucess in the last 5 seasons, their age, current season completion percentage, season sacks, season interception percentage, teams season record, and the amount of long passes thrown that season. Yea... it's alot.
+
+## Methodology
+
+1. **Feature Scaling**: Each feature is absoluated min-max scaled.
+2. **Weighted Scoring**: Features are multiplied by specific weights (detailed below) based on insights, trial and error, and domain expertise.
+
+The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the QB Season Rating Custom metric. See the `nfl_champ_data` file for complete code details.
+
+### Feature Weights Breakdown
+
+| Feature                           | Description                                                                                       | Weight (%) |
+|-----------------------------------|---------------------------------------------------------------------------------------------------|------------|
+| `W-L%`                               | Team's total regular season win percentage                                                              | 50.15      |
+| `TD`                         | How many touchdowns did the QB complete that regular season                                                          | 23.15      |
+| `sum_mvp_shares_L4S_cs`        | The QB's total past MVP votes over the last 4 seasons                                | 12.62      |
+| `sum_player_L5S_cs`                  | The QB's total past playoff wins in the last 5 seaosons                                                       | 3.86        |
+| `Sk`                 | How many times has the QB been sacked that regular season                             | 3.09       |
+| `sum_player_L1S_cs`                 | The QB's total past playoff wins last season                                 | 1.93       |
+| `QB_age`                 | How old is QB for that regular season                                 | 1.54       |
+| `Lng`                 | The QB's regular season total long passes thrown                              | 1.35       |
+| `Int%`                 | QB's regular season interception percentage                               | 1.16       |
+| `Cmp%`               | QB's regular season completion percentage                                                | 1.16       |
+
+### Bar Chart Feature Weights Breakdown
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/5ea668b8-2cd3-4e27-90ce-be5266ee6618" alt="qb_rat_cus">
+</div>
+
+### Code for Custom Rating Calculation
+
+```python
+top_players_passing_data['QB_sea_rating_custom'] = (
+    (top_players_passing_data['sum_mvp_shares_L4S'] * 1.635) +
+    (top_players_passing_data['sum_player_L5S_cs'] * .5) +
+    (top_players_passing_data['sum_player_L1S_cs'] * .25) +
+    (top_players_passing_data['QB_Age'] * .2) +
+    (top_players_passing_data['TD'] * 3) +
+    (top_players_passing_data['Cmp%'] * .15) +
+    (top_players_passing_data['Int%'] * -.15) +
+    (top_players_passing_data['Sk'] * -.4) + 
+    (top_players_passing_data['Lng'] * .175) +
+    (top_players_passing_data['W-L%'] * 6.5) 
+)
