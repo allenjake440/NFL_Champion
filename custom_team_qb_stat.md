@@ -48,7 +48,7 @@ all_team_advance_data['team_rating_custom'] = (
 
 # Season QuarterBack Rating Custom – The Science Behind the Statistic
 
-**Season QuaterBack Rating Custom (QBSR o QBSR_rk)** is a scaled regression-based formula, that returns a season quarterback score on a range form 5 - 20, for only the teams main starting quarterback for that specific season. This statistic encompasses factors like how many touchdowns that did the QB deliver that season, how mvp votes have the add in the past, their playoff sucess in the last 5 seasons, their age, current season completion percentage, season sacks, season interception percentage, teams season record, and the amount of long passes thrown that season. Yea... it's alot.
+**Season QuaterBack Rating Custom (QBSR o QBSR_rk)** is a scaled regression-based formula, that returns a season quarterback score on a range form 5 - 20, for only the teams main starting quarterback for that specific season. This statistic encompasses factors like how many touchdowns did that QB deliver that season, how mvp votes have they add in the past x years, their playoff success in the last 5 seasons, their age, current season completion percentage, season sacks, season interception percentage, team season record, and the amount of long passes thrown that season. Yea... it's alot.
 
 ## Methodology
 
