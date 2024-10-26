@@ -57,4 +57,4 @@ Here’s a list of the required CSV files and their corresponding sources:
 ## Notes
 
 - This project was built using hand-collected data. For future seasons, the data should be manually updated and formatted appropriately.
-- The project involves machine learning techniques using Python to predict NFL champions based on various statistical sources.
+- The project involves machine learning techniques using Python to predict NFL champions based on Pro Football Reference Data.
