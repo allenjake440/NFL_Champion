@@ -25,7 +25,7 @@ The code and visualizations provided clarify each feature's weight (as a percent
 ### Bar Chart Feature Weights Breakdown
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/b45d2a51-6f4f-46f2-a793-ce2287a69bd3" alt="team_rat_cus">
+  <img src="https://github.com/user-attachments/assets/76efcff1-8068-45e5-a402-a3c281e798cf" alt="team_rat_cus">
 </div>
 
 ### Code for Custom Rating Calculation
