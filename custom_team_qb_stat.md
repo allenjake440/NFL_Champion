@@ -44,6 +44,7 @@ all_team_advance_data['team_rating_custom'] = (
     (all_team_advance_data['SRS_greater_than_1.5_pts'] * 7) + 
     (all_team_advance_data['sum_playoff_games'] * 0.18654999999999305)) / 3
 )
+```
 
 # Season QuarterBack Rating Custom – The Science Behind the Statistic
 
@@ -92,3 +93,4 @@ top_players_passing_data['QB_sea_rating_custom'] = (
     (top_players_passing_data['Lng'] * .175) +
     (top_players_passing_data['W-L%'] * 6.5) 
 )
+```
