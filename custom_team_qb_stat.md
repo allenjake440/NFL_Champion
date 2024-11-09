@@ -1,21 +1,22 @@
 # Team Rating Custom – The Science Behind the Statistic
 
-**Team Rating Custom** is a scaled regression-based formula, leveraging critical team and player features to deliver a score that reflects a team's strength in a given season. More importantly, this metric is designed to predict post-season success, with scores scaled from 0 to 10.
+**Team Rating Custom** is a weight based formula, using critical team and player features to deliver a score that reflects a team's strength in a given season. More importantly, this metric is designed to predict post-season success, with scores scaled from 0 to 10.
 
-## Methodology
+## Methodology - Understanding whats important in the Formula.
 
-1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error, and domain expertise.
-2. **Feature Importance**: To assess feature significance within the team rating metric:
+1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error.
+2. **Average Feature Importance**: To assess feature significance within the team rating metric:
    - First, calculate the average value for each feature.
    - Next, multiply this average by the corresponding weight.
    - Finally, divide each weighted value by the sum of all weighted values to yield the relative importance of each feature.
+3. **Pearson Correlation Coefficients**: Whats the PCC for each feature to the result of the metric.
 
 The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the Team Rating Custom metric. See the `nfl_champ_data` file for complete code details.
 
 ### Feature Weights Breakdown
 
-| Feature                           | Description                                                                                       | Weight (%) |
-|-----------------------------------|---------------------------------------------------------------------------------------------------|------------|
+| Feature                           | Description                                                                                       | Average Team Weight (%) | PCC to 
+|-----------------------------------|---------------------------------------------------------------------------------------------------|------------|-------------|
 | `W`                               | Team's total regular season wins                                                                  | 39.88      |
 | `625_rec`                         | Team's regular season record ≥ 0.625                                                              | 21.41      |
 | `SRS_greater_than_1.5_pts`        | Adjusted margin of victory > 1.5 pts/game in regular season                                      | 26.98      |
@@ -24,7 +25,7 @@ The code and visualizations provided clarify each feature's weight (as a percent
 | `sum_cpoy_shares`                 | Total Comeback Player of the Year votes accumulated by all players                                | 0.78       |
 | `sum_opoy_shares`                 | Total Offensive Player of the Year votes accumulated by all players                               | 0.27       |
 | `sum_playoff_games`               | Total past playoff games played by each player                                                    | 0.00       |
-| `40_50+_perc_x_makes`               | The teams starting kickers regular season total 40-50 yard field goal percentage times the how many of those he has made                                           | 1.66       |
+| `40_50+_perc_x_makes`               | The teams starting kickers regular season total 40-50 yard field goal percentage times the how many of those he has made | 1.66       |
 
 ### Bar Chart Feature Weights Breakdown
 
