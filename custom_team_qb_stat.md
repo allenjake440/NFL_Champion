@@ -5,7 +5,7 @@
 ## Methodology - Understanding whats important in the Formula.
 
 1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error.
-2. **Average Feature Importance**: To assess feature significance within the team rating metric:
+2. **Average Team Feature Importance**: To assess feature significance for the average team within the team rating metric:
    - First, calculate the average value for each feature.
    - Next, multiply this average by the corresponding weight.
    - Finally, divide each weighted value by the sum of all weighted values to yield the relative importance of each feature.
@@ -17,7 +17,7 @@ The code and visualizations provided clarify each feature's weight (as a percent
 
 | Feature                           | Description                                                                                       | Average Team Weight (%) | PCC to 
 |-----------------------------------|---------------------------------------------------------------------------------------------------|------------|-------------|
-| `W`                               | Team's total regular season wins                                                                  | 39.88      |
+| `W`                               | Team's total regular season wins                                                                  | 39.88      | 
 | `625_rec`                         | Team's regular season record ≥ 0.625                                                              | 21.41      |
 | `SRS_greater_than_1.5_pts`        | Adjusted margin of victory > 1.5 pts/game in regular season                                      | 26.98      |
 | `sum_mvp_shares`                  | Total MVP votes accumulated by all players                                                        | 1.39        |
@@ -27,11 +27,16 @@ The code and visualizations provided clarify each feature's weight (as a percent
 | `sum_playoff_games`               | Total past playoff games played by each player                                                    | 0.00       |
 | `40_50+_perc_x_makes`               | The teams starting kickers regular season total 40-50 yard field goal percentage times the how many of those he has made | 1.66       |
 
-### Bar Chart Feature Weights Breakdown
+### Bar Charts - Team Rating Custom
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/64c45f52-c2af-4d9d-a3de-7ae0327c1545" alt="team_rat_cus">
 </div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/64c45f52-c2af-4d9d-a3de-7ae0327c1545" alt="team_rat_cus">
+</div>
+
 
 ### Code for Custom Rating Calculation
 
@@ -67,24 +72,18 @@ The code and visualizations provided clarify each feature's weight (as a percent
 
 ### Feature Weights Breakdown
 
-| Feature                           | Description                                                                                       | Weight (%) |
-|-----------------------------------|---------------------------------------------------------------------------------------------------|------------|
-| `W-L%`                               | Team's total regular season win percentage                                                              | 23.44      |
-| `TD`                         | How many touchdowns did the QB complete that regular season                                                          | 6.78      |
-| `sum_mvp_shares_L4S_cs`        | The QB's total past MVP votes over the last 4 seasons                                | 0.43      |
-| `sum_player_L5S_cs`                  | The QB's total past playoff wins in the last 5 seaosons                                                       | 3.86        |
-| `Sk`                 | How many times has the QB been sacked that regular season                             | -0.55       |
-| `sum_player_L1S_cs`                 | The QB's total past playoff wins last season                                 | 0.23       |
-| `QB_age`                 | How old is QB for that regular season                                 | 2.10       |
-| `Lng`                 | The QB's regular season total long passes thrown                              | 0.81       |
-| `Int%`                 | QB's regular season interception percentage                               | -0.21       |
-| `Cmp%`               | QB's regular season completion percentage                                                | 66.52       |
-
-### Bar Chart Feature Weights Breakdown
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/a43b049b-35dd-4962-8b92-011d5bec6e47" alt="qb_rat_cus">
-</div>
+| Feature                           | Description                                                                                       
+|-----------------------------------|---------------------------------------------------------------------------------------------------|
+| `W-L%`                               | Team's total regular season win percentage                                                              
+| `TD`                         | How many touchdowns did the QB complete that regular season                                                          
+| `sum_mvp_shares_L4S_cs`        | The QB's total past MVP votes over the last 4 seasons                                
+| `sum_player_L5S_cs`                  | The QB's total past playoff wins in the last 5 seaosons                                                       
+| `Sk`                 | How many times has the QB been sacked that regular season                             
+| `sum_player_L1S_cs`                 | The QB's total past playoff wins last season                                 
+| `QB_age`                 | How old is QB for that regular season                                 
+| `Lng`                 | The QB's regular season total long passes thrown                              
+| `Int%`                 | QB's regular season interception percentage                               
+| `Cmp%`               | QB's regular season completion percentage                                                
 
 ### Code for Custom Rating Calculation
 
