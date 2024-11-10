@@ -36,9 +36,8 @@ The code and visualizations provided clarify each feature's weight (as a percent
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/![image](https://github.com/user-attachments/assets/5e1d2bc3-7621-42c0-9bc1-02da313930cc)
-)
-" alt="team_rat_cus">
+  <img src="![image](https://github.com/user-attachments/assets/5e1d2bc3-7621-42c0-9bc1-02da313930cc)
+     )" alt="team_rat_cus">
 </div>
 
 ### Code for Custom Rating Calculation
