@@ -30,13 +30,16 @@ The code and visualizations provided clarify each feature's weight (as a percent
 ### Bar Charts - Team Rating Custom
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/64c45f52-c2af-4d9d-a3de-7ae0327c1545" alt="team_rat_cus">
+  <img src="https://github.com/user-attachments/assets/![image](https://github.com/user-attachments/assets/99705ed6-941d-4313-92d6-ae143b7558d6)
+)
+" alt="team_rat_cus">
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/64c45f52-c2af-4d9d-a3de-7ae0327c1545" alt="team_rat_cus">
+  <img src="https://github.com/user-attachments/assets/![image](https://github.com/user-attachments/assets/5e1d2bc3-7621-42c0-9bc1-02da313930cc)
+)
+" alt="team_rat_cus">
 </div>
-
 
 ### Code for Custom Rating Calculation
 
@@ -60,13 +63,14 @@ all_team_advance_data['team_rating_custom'] = (
 
 **Season QuaterBack Rating Custom (QBSR o QBSR_rk)** is a scaled regression-based formula, that returns a season quarterback score on a range form 5 - 20, for only the teams main starting quarterback for that specific season. This statistic encompasses factors like how many touchdowns did that QB deliver that season, how mvp votes have they add in the past x years, their playoff success in the last 5 seasons, their age, current season completion percentage, season sacks, season interception percentage, team season record, and the amount of long passes thrown that season. Yea... it's alot.
 
-## Methodology
+## Methodology - Understanding whats important in the Formula.
 
-1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error, and domain expertise.
-2. **Feature Importance**: To assess feature significance within the quarterback season rating metric:
+1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error.
+2. **Average QB Feature Importance**: To assess feature significance for the average team within the QB season rating metric:
    - First, calculate the average value for each feature.
    - Next, multiply this average by the corresponding weight.
    - Finally, divide each weighted value by the sum of all weighted values to yield the relative importance of each feature.
+3. **Pearson Correlation Coefficients**: Whats the PCC for each feature to the result of the metric.
 
 The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the QB Season Rating Custom metric. See the `nfl_champ_data` file for complete code details.
 
@@ -84,6 +88,18 @@ The code and visualizations provided clarify each feature's weight (as a percent
 | `Lng`                 | The QB's regular season total long passes thrown                              
 | `Int%`                 | QB's regular season interception percentage                               
 | `Cmp%`               | QB's regular season completion percentage                                                
+
+### Bar Charts - QB Season Rating Custom
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6![image](https://github.com/user-attachments/assets/256346dd-0171-4dec-a14c-315e7c0c6f97)
+" alt="team_rat_cus">
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/![image](https://github.com/user-attachments/assets/1b194cf0-0d88-43e3-9e6a-cd3efad42041)
+" alt="team_rat_cus">
+</div>
 
 ### Code for Custom Rating Calculation
 
