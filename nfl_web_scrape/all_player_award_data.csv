@@ -2801,918 +2801,2226 @@
 1998,QB,Vinny Testaverde,New York Jets,,,,,0.128,,,,
 1998,WR,Jerry Rice,San Francisco 49ers,,,,,0.106,,,,
 1998,LDE,Reggie White,Green Bay Packers,,,,,0.043,,,,
-1997,QB,Brett Favre,Green Bay Packers,0.376,,,,,1,,,1
-1997,RB,Barry Sanders,Detroit Lions,0.375,,,,,,,,1
-1997,RB,Terrell Davis,Denver Broncos,0.083,,,,,,,,1
-1997,QB,Steve Young,San Francisco 49ers,0.063,,,,,,,,1
-1997,RB,Jerome Bettis,Pittsburgh Steelers,0.042,,,,,,,,1
-1997,RDT,Dana Stubblefield,San Francisco 49ers,0.042,,,,,,,,1
-1997,RCB,Carnell Lake,Pittsburgh Steelers,0.021,,,,,,,,1
-1997,RDT,Dana Stubblefield,San Francisco 49ers,,0.583,,,,,1,,1
-1997,RDE,Bruce Smith,Buffalo Bills,,0.125,,,,,,,1
-1997,LLB,Jessie Armstead,New York Giants,,0.104,,,,,,,1
-1997,LILB,Levon Kirkland,Pittsburgh Steelers,,0.104,,,,,,,1
-1997,RCB,Carnell Lake,Pittsburgh Steelers,,0.083,,,,,,,1
-1997,RB,Barry Sanders,Detroit Lions,,,0.781,,,,,1,1
-1997,RB,Terrell Davis,Denver Broncos,,,0.156,,,,,,1
-1997,QB,Brett Favre,Green Bay Packers,,,0.063,,,,,,1
-1997,MLB,Ray Lewis,Baltimore Ravens,,,,1,,,,,1
-1997,WR,Tamarick Vanover,Kansas City Chiefs,,,,1,,,,,1
-1997,LT,Jonathan Ogden,Baltimore Ravens,,,,1,,,,,1
-1997,RLB,Derrick Brooks,Tampa Bay Buccaneers,,,,1,,,,,1
-1997,RLB,John Mobley,Denver Broncos,,,,1,,,,,1
-1997,FB,Mike Alstott,Tampa Bay Buccaneers,,,,1,,,,,1
-1997,WR,David Palmer,Minnesota Vikings,,,,1,,,,,1
-1997,DB,Larry Whigham,New England Patriots,,,,1,,,,,1
-1997,LCB,Aaron Glenn,New York Jets,,,,1,,,,,1
-1997,RB,Jerome Bettis,Pittsburgh Steelers,,,,1,,,,,1
-1997,RB,Travis Jervey,Green Bay Packers,,,,1,,,,,1
-1997,LT,Tony Boselli,Jacksonville Jaguars,,,,1,,,,,1
-1997,RB,Terrell Davis,Denver Broncos,,,,1,,,,,1
-1997,DT,Warren Sapp,Tampa Bay Buccaneers,,,,1,,,,,1
-1997,FB,Charles Way,New York Giants,,,,1,,,,,1
-1997,LLB,Chris Slade,New England Patriots,,,,1,,,,,1
-1997,RG,Larry Allen,Dallas Cowboys,,,,1,,,,,1
-1997,LDE,Michael Strahan,New York Giants,,,,1,,,,,1
-1997,G,Will Shields,Kansas City Chiefs,,,,1,,,,,1
-1997,RB,Dorsey Levens,Green Bay Packers,,,,1,,,,,1
-1997,K,Jason Hanson,Detroit Lions,,,,1,,,,,1
-1997,LT,Todd Steussie,Minnesota Vikings,,,,1,,,,,1
-1997,FS,Darryl Williams,Seattle Seahawks,,,,1,,,,,1
-1997,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,1
-1997,RCB,Darrien Gordon,Denver Broncos,,,,1,,,,,1
-1997,LLB,Jessie Armstead,New York Giants,,,,1,,,,,1
-1997,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,1
-1997,K,Richie Cunningham,Dallas Cowboys,,,,1,,,,,1
-1997,CB,Doug Evans,Green Bay Packers,,,,1,,,,,1
-1997,MLB,Winfred Tubbs,New Orleans Saints,,,,1,,,,,1
-1997,NT,Joel Steed,Pittsburgh Steelers,,,,1,,,,,1
-1997,WR,Yancey Thigpen,Pittsburgh Steelers,,,,1,,,,,1
-1997,RB,Michael Bates,Carolina Panthers,,,,1,,,,,1
-1997,WR,Herman Moore,Detroit Lions,,,,1,,,,,1
-1997,LILB,Levon Kirkland,Pittsburgh Steelers,,,,1,,,,,1
-1997,QB,Brett Favre,Green Bay Packers,,,,1,,,,,1
-1997,MLB,Junior Seau,San Diego Chargers,,,,1,,,,,1
-1997,T,Robert Porcher,Detroit Lions,,,,1,,,,,1
-1997,T,Dale Carter,Kansas City Chiefs,,,,1,,,,,1
-1997,T,Chuck Smith,Atlanta Falcons,,,,1,,,,,1
-1997,LDE,Michael Sinclair,Seattle Seahawks,,,,1,,,,,1
-1997,NT,Ted Washington,Buffalo Bills,,,,1,,,,,1
-1997,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,1
-1997,P,Matt Turk,Washington Commanders,,,,1,,,,,1
-1997,WR,Rob Moore,Arizona Cardinals,,,,1,,,,,1
-1997,SS,LeRoy Butler,Green Bay Packers,,,,1,,,,,1
-1997,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,1
-1997,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1997,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,1
-1997,KR,Eric Metcalf,San Diego Chargers,,,,1,,,,,1
-1997,K,Pete Stoyanovich,Kansas City Chiefs,,,,1,,,,,1
-1997,LG,Dave Szott,Kansas City Chiefs,,,,1,,,,,1
-1997,RCB/SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,1
-1997,RDT,John Randle,Minnesota Vikings,,,,1,,,,,1
-1997,RCB,Deion Sanders,Dallas Cowboys,,,,1,,,,,1
-1997,TE,Wesley Walls,Carolina Panthers,,,,1,,,,,1
-1997,WR,Tim Brown,Oakland Raiders,,,,1,,,,,1
-1997,DE,Neil Smith,Denver Broncos,,,,1,,,,,1
-1997,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,,,1,,,,,1
-1997,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,1
-1997,CB,Cris Dishman,Washington Commanders,,,,1,,,,,1
-1997,T,James Hasty,Kansas City Chiefs,,,,1,,,,,1
-1997,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1997,P,Bryan Barker,Jacksonville Jaguars,,,,1,,,,,1
-1997,C,Kevin Glover,Detroit Lions,,,,1,,,,,1
-1997,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,1
-1997,LG,Bruce Matthews,Tennessee Titans,,,,1,,,,,1
-1997,DE,Reggie White,Green Bay Packers,,,,1,,,,,1
-1997,QB,Steve Young,San Francisco 49ers,,,,1,,,,,1
-1997,QB,John Elway,Denver Broncos,,,,1,,,,,1
-1996,QB,Brett Favre,Green Bay Packers,0.559,,,,,1,,,1
-1996,QB,John Elway,Denver Broncos,0.36,,,,,,,,1
-1996,RB,Terrell Davis,Denver Broncos,0.059,,,,,,,,1
-1996,RB,Jerome Bettis,Pittsburgh Steelers,0.022,,,,,,,,1
-1996,RDE,Bruce Smith,Buffalo Bills,,0.602,,,,,1,,1
-1996,LOLB,Kevin Greene,Carolina Panthers,,0.204,,,,,,,1
-1996,RDE,Alfred Williams,Denver Broncos,,0.054,,,,,,,1
-1996,ROLB,Chad Brown,Pittsburgh Steelers,,0.032,,,,,,,1
-1996,LILB,Sam Mills,Carolina Panthers,,0.032,,,,,,,1
-1996,LDT,Bryant Young,San Francisco 49ers,,0.032,,,,,,,1
-1996,ROLB,Lamar Lathon,Carolina Panthers,,0.011,,,,,,,1
-1996,RDT,John Randle,Minnesota Vikings,,0.011,,,,,,,1
-1996,LOLB,Derrick Thomas,Kansas City Chiefs,,0.011,,,,,,,1
-1996,LCB,Rod Woodson,Pittsburgh Steelers,,0.011,,,,,,,1
-1996,RB,Terrell Davis,Denver Broncos,,,0.392,,,,,1,1
-1996,QB,Brett Favre,Green Bay Packers,,,0.366,,,,,,1
-1996,QB,John Elway,Denver Broncos,,,0.177,,,,,,1
-1996,RB,Jerome Bettis,Pittsburgh Steelers,,,0.032,,,,,,1
-1996,WR,Isaac Bruce,St. Louis Rams,,,0.011,,,,,,1
-1996,WR,Jerry Rice,San Francisco 49ers,,,0.011,,,,,,1
-1996,TE,Shannon Sharpe,Denver Broncos,,,0.011,,,,,,1
-1996,RDE,Simeon Rice,Arizona Cardinals,,,,1,,,,,1
-1996,WR,Terry Glenn,New England Patriots,,,,1,,,,,1
-1996,WR,Tamarick Vanover,Kansas City Chiefs,,,,1,,,,,1
-1996,P,Todd Sauerbrun,Chicago Bears,,,,1,,,,,1
-1996,RB,Curtis Martin,New England Patriots,,,,1,,,,,1
-1996,RB,Eddie George,Houston Texans,,,,1,,,,,1
-1996,FB,Mike Alstott,Tampa Bay Buccaneers,,,,1,,,,,1
-1996,WR,Isaac Bruce,St. Louis Rams,,,,1,,,,,1
-1996,LT,Tony Boselli,Jacksonville Jaguars,,,,1,,,,,1
-1996,QB,Drew Bledsoe,New England Patriots,,,,1,,,,,1
-1996,RB,Jerome Bettis,Pittsburgh Steelers,,,,1,,,,,1
-1996,LDT,Bryant Young,San Francisco 49ers,,,,1,,,,,1
-1996,RB,Terrell Davis,Denver Broncos,,,,1,,,,,1
-1996,LT,Bob Whitfield,Atlanta Falcons,,,,1,,,,,1
-1996,K,Chris Boniol,Dallas Cowboys,,,,1,,,,,1
-1996,RG,Will Shields,Kansas City Chiefs,,,,1,,,,,1
-1996,RG,Larry Allen,Dallas Cowboys,,,,1,,,,,1
-1996,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,1
-1996,LCB,Kevin Smith,Dallas Cowboys,,,,1,,,,,1
-1996,RDT,Sean Gilbert,Washington Commanders,,,,1,,,,,1
-1996,SS,Blaine Bishop,Houston Texans,,,,1,,,,,1
-1996,LCB,Darrien Gordon,San Diego Chargers,,,,1,,,,,1
-1996,LB,Jim Schwantz,Dallas Cowboys,,,,1,,,,,1
-1996,LCB,Ashley Ambrose,Cincinnati Bengals,,,,1,,,,,1
-1996,WR,Carl Pickens,Cincinnati Bengals,,,,1,,,,,1
-1996,WR,Desmond Howard,Green Bay Packers,,,,1,,,,,1
-1996,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,1
-1996,P,Chris Gardocki,Indianapolis Colts,,,,1,,,,,1
-1996,ROLB,Chad Brown,Pittsburgh Steelers,,,,1,,,,,1
-1996,RB,Ricky Watters,Philadelphia Eagles,,,,1,,,,,1
-1996,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,1
-1996,TE,Ben Coates,New England Patriots,,,,1,,,,,1
-1996,LB,John Henry Mills,Houston Texans,,,,1,,,,,1
-1996,LILB,Levon Kirkland,Pittsburgh Steelers,,,,1,,,,,1
-1996,RDT,Chester McGlockton,Oakland Raiders,,,,1,,,,,1
-1996,K,John Kasay,Carolina Panthers,,,,1,,,,,1
-1996,LCB,Dale Carter,Kansas City Chiefs,,,,1,,,,,1
-1996,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,1
-1996,WR,Herman Moore,Detroit Lions,,,,1,,,,,1
-1996,RB,Michael Bates,Carolina Panthers,,,,1,,,,,1
-1996,SS,Darren Woodson,Dallas Cowboys,,,,1,,,,,1
-1996,QB,Brett Favre,Green Bay Packers,,,,1,,,,,1
-1996,LDE,Michael Sinclair,Seattle Seahawks,,,,1,,,,,1
-1996,LOLB,Bryce Paup,Buffalo Bills,,,,1,,,,,1
-1996,LCB,Eric Davis,Carolina Panthers,,,,1,,,,,1
-1996,RG,Bob Dahl,Washington Commanders,,,,1,,,,,1
-1996,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,1
-1996,RT,Erik Williams,Dallas Cowboys,,,,1,,,,,1
-1996,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,1
-1996,RB,Terry Allen,Washington Commanders,,,,1,,,,,1
-1996,P,Matt Turk,Washington Commanders,,,,1,,,,,1
-1996,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,1
-1996,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1996,RDE,Alfred Williams,Denver Broncos,,,,1,,,,,1
-1996,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,1
-1996,SS,LeRoy Butler,Green Bay Packers,,,,1,,,,,1
-1996,K,Cary Blanchard,Indianapolis Colts,,,,1,,,,,1
-1996,FB,Larry Centers,Arizona Cardinals,,,,1,,,,,1
-1996,RDT,John Jurkovic,Jacksonville Jaguars,,,,1,,,,,1
-1996,C,Mark Stepnoski,Houston Texans,,,,1,,,,,1
-1996,LG,Steve Wisniewski,Oakland Raiders,,,,1,,,,,1
-1996,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,1
-1996,LDE,Tony Tolbert,Dallas Cowboys,,,,1,,,,,1
-1996,LOLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,1
-1996,ROLB,Lamar Lathon,Carolina Panthers,,,,1,,,,,1
-1996,RCB/WR,Deion Sanders,Dallas Cowboys,,,,1,,,,,1
-1996,RDT,John Randle,Minnesota Vikings,,,,1,,,,,1
-1996,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,1
-1996,LLB,Bill Romanowski,Denver Broncos,,,,1,,,,,1
-1996,WR,Tim Brown,Oakland Raiders,,,,1,,,,,1
-1996,RB,Dave Meggett,New England Patriots,,,,1,,,,,1
-1996,TE,Wesley Walls,Carolina Panthers,,,,1,,,,,1
-1996,FS,Steve Atwater,Denver Broncos,,,,1,,,,,1
-1996,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,1
-1996,RDT,Michael Dean Perry,Denver Broncos,,,,1,,,,,1
-1996,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,1
-1996,TE,Keith Jackson,Green Bay Packers,,,,1,,,,,1
-1996,LT,John Jackson,Pittsburgh Steelers,,,,1,,,,,1
-1996,LLB,Ken Harvey,Washington Commanders,,,,1,,,,,1
-1996,WR,Cris Carter,Minnesota Vikings,,,,1,,,,,1
-1996,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,,,1,,,,,1
-1996,WR,Tony Martin,San Diego Chargers,,,,1,,,,,1
-1996,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,1
-1996,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,1
-1996,LG,Will Wolford,Pittsburgh Steelers,,,,1,,,,,1
-1996,LLB,Seth Joyner,Arizona Cardinals,,,,1,,,,,1
-1996,FS,Mark Collins,Kansas City Chiefs,,,,1,,,,,1
-1996,SS,Tyrone Braxton,Denver Broncos,,,,1,,,,,1
-1996,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1996,C,Kevin Glover,Detroit Lions,,,,1,,,,,1
-1996,LT,Lomas Brown,Arizona Cardinals,,,,1,,,,,1
-1996,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,1
-1996,LDE,William Fuller,Philadelphia Eagles,,,,1,,,,,1
-1996,K,Al Del Greco,Houston Texans,,,,1,,,,,1
-1996,LOLB,Kevin Greene,Carolina Panthers,,,,1,,,,,1
-1996,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,1
-1996,QB,Steve Young,San Francisco 49ers,,,,1,,,,,1
-1996,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,1
-1996,P,John Kidd,Miami Dolphins,,,,1,,,,,1
-1996,LDE,Reggie White,Green Bay Packers,,,,1,,,,,1
-1996,LG,Bruce Matthews,Houston Texans,,,,1,,,,,1
-1996,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,1
-1996,QB,John Elway,Denver Broncos,,,,1,,,,,1
-1996,LILB,Sam Mills,Carolina Panthers,,,,1,,,,,1
-1996,C,Ray Donaldson,Dallas Cowboys,,,,1,,,,,1
-1995,QB,Brett Favre,Green Bay Packers,0.784,,,,,1,,,1
-1995,WR,Jerry Rice,San Francisco 49ers,0.114,,,,,,,,1
-1995,RB,Emmitt Smith,Dallas Cowboys,0.08,,,,,,,,1
-1995,QB,Jim Harbaugh,Indianapolis Colts,0.023,,,,,,,,1
-1995,LOLB,Bryce Paup,Buffalo Bills,,0.83,,,,,1,,1
-1995,ROLB,Greg Lloyd,Pittsburgh Steelers,,0.057,,,,,,,1
-1995,FS,Merton Hanks,San Francisco 49ers,,0.023,,,,,,,1
-1995,LILB,Sam Mills,Carolina Panthers,,0.023,,,,,,,1
-1995,MLB,Ken Norton Jr.,San Francisco 49ers,,0.023,,,,,,,1
-1995,LDE,Neil Smith,Kansas City Chiefs,,0.023,,,,,,,1
-1995,LDE,Reggie White,Green Bay Packers,,0.023,,,,,,,1
-1995,QB,Brett Favre,Green Bay Packers,,,0.432,,,,,1,1
-1995,RB,Emmitt Smith,Dallas Cowboys,,,0.375,,,,,,1
-1995,WR,Jerry Rice,San Francisco 49ers,,,0.114,,,,,,1
-1995,WR,Herman Moore,Detroit Lions,,,0.068,,,,,,1
-1995,RB,Barry Sanders,Detroit Lions,,,0.011,,,,,,1
-1995,RB,Marshall Faulk,Indianapolis Colts,,,,1,,,,,1
-1995,RB,Curtis Martin,New England Patriots,,,,1,,,,,1
-1995,FS,Orlando Thomas,Minnesota Vikings,,,,1,,,,,1
-1995,RB,Terrell Davis,Denver Broncos,,,,1,,,,,1
-1995,WR,Isaac Bruce,St. Louis Rams,,,,1,,,,,1
-1995,WR,Andre Coleman,San Diego Chargers,,,,1,,,,,1
-1995,K,Chris Boniol,Dallas Cowboys,,,,1,,,,,1
-1995,KR,Glyn Milburn,Denver Broncos,,,,1,,,,,1
-1995,RG,Larry Allen,Dallas Cowboys,,,,1,,,,,1
-1995,SS,Blaine Bishop,Houston Texans,,,,1,,,,,1
-1995,LDT,Eric Swann,Arizona Cardinals,,,,1,,,,,1
-1995,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,1
-1995,WR,Carl Pickens,Cincinnati Bengals,,,,1,,,,,1
-1995,K,Jason Elam,Denver Broncos,,,,1,,,,,1
-1995,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,1
-1995,RB,Ricky Watters,Philadelphia Eagles,,,,1,,,,,1
-1995,WR,Yancey Thigpen,Pittsburgh Steelers,,,,1,,,,,1
-1995,RT,Leon Searcy,Pittsburgh Steelers,,,,1,,,,,1
-1995,LDT,Andy Harmon,Philadelphia Eagles,,,,1,,,,,1
-1995,LLB,Lee Woodall,San Francisco 49ers,,,,1,,,,,1
-1995,TE,Mark Chmura,Green Bay Packers,,,,1,,,,,1
-1995,LCB,Dale Carter,Kansas City Chiefs,,,,1,,,,,1
-1995,RDT,Chester McGlockton,Oakland Raiders,,,,1,,,,,1
-1995,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,1
-1995,SS,Darren Woodson,Dallas Cowboys,,,,1,,,,,1
-1995,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,1
-1995,WR,Herman Moore,Detroit Lions,,,,1,,,,,1
-1995,QB,Brett Favre,Green Bay Packers,,,,1,,,,,1
-1995,TE,Ben Coates,New England Patriots,,,,1,,,,,1
-1995,FS,Kurt Schulz,Buffalo Bills,,,,1,,,,,1
-1995,RCB,Darryll Lewis,Houston Texans,,,,1,,,,,1
-1995,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,1
-1995,MLB,Bryan Cox,Miami Dolphins,,,,1,,,,,1
-1995,RB,Terry Allen,Washington Commanders,,,,1,,,,,1
-1995,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,1
-1995,RLB,William Thomas,Philadelphia Eagles,,,,1,,,,,1
-1995,RT,Erik Williams,Dallas Cowboys,,,,1,,,,,1
-1995,RB,Chris Warren,Seattle Seahawks,,,,1,,,,,1
-1995,LCB,Eric Davis,San Francisco 49ers,,,,1,,,,,1
-1995,RB,Brian Mitchell,Washington Commanders,,,,1,,,,,1
-1995,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,1
-1995,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1995,LOLB,Bryce Paup,Buffalo Bills,,,,1,,,,,1
-1995,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,1
-1995,RLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,1
-1995,LG,Dave Szott,Kansas City Chiefs,,,,1,,,,,1
-1995,LG,Keith Sims,Miami Dolphins,,,,1,,,,,1
-1995,LT,Andy Heck,Chicago Bears,,,,1,,,,,1
-1995,SS,Robert Blackmon,Seattle Seahawks,,,,1,,,,,1
-1995,LCB,Deion Sanders,Dallas Cowboys,,,,1,,,,,1
-1995,LG,Steve Wisniewski,Oakland Raiders,,,,1,,,,,1
-1995,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,1
-1995,RCB/SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,1
-1995,RDT,John Randle,Minnesota Vikings,,,,1,,,,,1
-1995,QB,Troy Aikman,Dallas Cowboys,,,,1,,,,,1
-1995,P,Louie Aguiar,Kansas City Chiefs,,,,1,,,,,1
-1995,FS,Steve Atwater,Denver Broncos,,,,1,,,,,1
-1995,P,Jeff Feagles,Arizona Cardinals,,,,1,,,,,1
-1995,WR,Tim Brown,Oakland Raiders,,,,1,,,,,1
-1995,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,1
-1995,MLB,Ken Norton Jr.,San Francisco 49ers,,,,1,,,,,1
-1995,MLB,Chris Spielman,Detroit Lions,,,,1,,,,,1
-1995,RDE,Ray Seals,Pittsburgh Steelers,,,,1,,,,,1
-1995,RDT,Michael Dean Perry,Denver Broncos,,,,1,,,,,1
-1995,WR,Tony Martin,San Diego Chargers,,,,1,,,,,1
-1995,RCB,Eric Allen,New Orleans Saints,,,,1,,,,,1
-1995,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,1
-1995,WR,Cris Carter,Minnesota Vikings,,,,1,,,,,1
-1995,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,1
-1995,LCB,Terry McDaniel,Oakland Raiders,,,,1,,,,,1
-1995,LLB,Ken Harvey,Washington Commanders,,,,1,,,,,1
-1995,ROLB,Greg Lloyd,Pittsburgh Steelers,,,,1,,,,,1
-1995,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,1
-1995,P,Darren Bennett,San Diego Chargers,,,,1,,,,,1
-1995,RDE,Pat Swilling,Oakland Raiders,,,,1,,,,,1
-1995,RDE,Leslie O'Neal,San Diego Chargers,,,,1,,,,,1
-1995,RDE,Charles Haley,Dallas Cowboys,,,,1,,,,,1
-1995,DB,Elbert Shelley,Atlanta Falcons,,,,1,,,,,1
-1995,RDT,Dan Saleaumua,Kansas City Chiefs,,,,1,,,,,1
-1995,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1995,QB,Jim Harbaugh,Indianapolis Colts,,,,1,,,,,1
-1995,C,Kevin Glover,Detroit Lions,,,,1,,,,,1
-1995,LT,Lomas Brown,Detroit Lions,,,,1,,,,,1
-1995,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,1
-1995,P,Sean Landeta,St. Louis Rams,,,,1,,,,,1
-1995,RDE,Sean Jones,Green Bay Packers,,,,1,,,,,1
-1995,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,1
-1995,LDE,William Fuller,Philadelphia Eagles,,,,1,,,,,1
-1995,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,1
-1995,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,1
-1995,LG,Jesse Sapolu,San Francisco 49ers,,,,1,,,,,1
-1995,C,Kent Hull,Buffalo Bills,,,,1,,,,,1
-1995,QB,Dan Marino,Miami Dolphins,,,,1,,,,,1
-1995,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,1
-1995,LG,Bruce Matthews,Houston Texans,,,,1,,,,,1
-1995,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,1
-1995,LDE,Reggie White,Green Bay Packers,,,,1,,,,,1
-1995,QB,Steve Young,San Francisco 49ers,,,,1,,,,,1
-1995,LT,Mark Tuinei,Dallas Cowboys,,,,1,,,,,1
-1995,K,Norm Johnson,Pittsburgh Steelers,,,,1,,,,,1
-1995,K,Morten Andersen,Atlanta Falcons,,,,1,,,,,1
-1995,LILB,Sam Mills,Carolina Panthers,,,,1,,,,,1
-1995,C,Bart Oates,San Francisco 49ers,,,,1,,,,,1
-1994,QB,Steve Young,San Francisco 49ers,0.755,,,,,1,,,1
-1994,WR,Barry Sanders,Detroit Lions,0.224,,,,,,,,1
-1994,RB,Jerry Rice,San Francisco 49ers,0.01,,,,,,,,1
-1994,QB,Deion Sanders,San Francisco 49ers,0.01,,,,,,,,1
-1994,RCB,Deion Sanders,San Francisco 49ers,,0.398,,,,,1,,1
-1994,LCB,Rod Woodson,Pittsburgh Steelers,,0.163,,,,,,,1
-1994,ROLB,Greg Lloyd,Pittsburgh Steelers,,0.143,,,,,,,1
-1994,RDE,Charles Haley,Dallas Cowboys,,0.122,,,,,,,1
-1994,RLB,Junior Seau,San Diego Chargers,,0.082,,,,,,,1
-1994,LOLB,Kevin Greene,Pittsburgh Steelers,,0.051,,,,,,,1
-1994,RDE,Bruce Smith,Buffalo Bills,,0.02,,,,,,,1
-1994,FS,Eric Turner,Cleveland Browns,,0.01,,,,,,,1
-1994,LDE,Reggie White,Green Bay Packers,,0.01,,,,,,,1
-1994,RB,Barry Sanders,Detroit Lions,,,0.541,,,,,1,1
-1994,QB,Steve Young,San Francisco 49ers,,,0.418,,,,,,1
-1994,WR,Jerry Rice,San Francisco 49ers,,,0.031,,,,,,1
-1994,WR,Cris Carter,Minnesota Vikings,,,0.01,,,,,,1
-1994,WR,Cris Carter,Minnesota Vikings,,,,1,,,,,1
-1994,TE,Ben Coates,New England Patriots,,,,1,,,,,1
-1994,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,1
-1994,RDE,Charles Haley,Dallas Cowboys,,,,1,,,,,1
-1994,ROLB,Greg Lloyd,Pittsburgh Steelers,,,,1,,,,,1
-1994,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1994,RDT,John Randle,Minnesota Vikings,,,,1,,,,,1
-1994,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,1
-1994,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,1
-1994,P,Reggie Roby,Washington Commanders,,,,1,,,,,1
-1994,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1994,RCB,Deion Sanders,San Francisco 49ers,,,,1,,,,,1
-1994,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,1
-1994,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,1
-1994,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,1
-1994,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,1
-1994,SS,Darren Woodson,Dallas Cowboys,,,,1,,,,,1
-1994,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,1
-1994,QB,Steve Young,San Francisco 49ers,,,,1,,,,,1
-1994,LOLB,Kevin Greene,Pittsburgh Steelers,,,,1,,,,,1
-1994,KR,Mel Gray,Detroit Lions,,,,1,,,,,1
-1994,LILB,Chris Spielman,Detroit Lions,,,,1,,,,,1
-1994,K,John Carney,San Diego Chargers,,,,1,,,,,1
-1994,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,1
-1994,FS,Eric Turner,Cleveland Browns,,,,1,,,,,1
-1994,RDT,Chester McGlockton,Los Angeles Raiders,,,,1,,,,,1
-1994,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,1
-1994,K,Fuad Reveiz,Minnesota Vikings,,,,1,,,,,1
-1994,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,1
-1994,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,1
-1994,FB,Brian Mitchell,Washington Commanders,,,,1,,,,,1
-1994,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,1
-1994,LT,Lomas Brown,Detroit Lions,,,,1,,,,,1
-1994,RB,Marshall Faulk,Indianapolis Colts,,,,1,,,,,1
-1994,LLB,Ken Harvey,Washington Commanders,,,,1,,,,,1
-1994,TE,Brent Jones,San Francisco 49ers,,,,1,,,,,1
-1994,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,1
-1994,QB,Dan Marino,Miami Dolphins,,,,1,,,,,1
-1994,LCB,Terry McDaniel,Los Angeles Raiders,,,,1,,,,,1
-1994,RDE,Leslie O'Neal,San Diego Chargers,,,,1,,,,,1
-1994,LG,Keith Sims,Miami Dolphins,,,,1,,,,,1
-1994,P,Rick Tuten,Seattle Seahawks,,,,1,,,,,1
-1994,RB,Chris Warren,Seattle Seahawks,,,,1,,,,,1
-1994,LDE,Reggie White,Green Bay Packers,,,,1,,,,,1
-1994,LLB,Bryce Paup,Green Bay Packers,,,,1,,,,,1
-1994,WR,Andre Reed,Buffalo Bills,,,,1,,,,,1
-1994,RB,Eric Metcalf,Cleveland Browns,,,,1,,,,,1
-1994,LT,Tony Jones,Cleveland Browns,,,,1,,,,,1
-1994,WR,Tim Brown,Los Angeles Raiders,,,,1,,,,,1
-1994,MLB,Jack Del Rio,Minnesota Vikings,,,,1,,,,,1
-1994,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,1
-1994,LCB,Donnell Woolford,Chicago Bears,,,,1,,,,,1
-1994,WR,Irving Fryar,Miami Dolphins,,,,1,,,,,1
-1994,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,1
-1994,C,Mark Stepnoski,Dallas Cowboys,,,,1,,,,,1
-1994,RLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,1
-1994,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,1
-1994,WR,Andre Coleman,San Diego Chargers,,,,1,,,,,1
-1994,MLB,Bryan Cox,Miami Dolphins,,,,1,,,,,1
-1994,DB,Maurice Douglass,Chicago Bears,,,,1,,,,,1
-1994,C,Kevin Glover,Detroit Lions,,,,1,,,,,1
-1994,LCB,Darrien Gordon,San Diego Chargers,,,,1,,,,,1
-1994,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,1
-1994,RDT,Leon Lett,Dallas Cowboys,,,,1,,,,,1
-1994,WR,Terance Mathis,Atlanta Falcons,,,,1,,,,,1
-1994,QB,Troy Aikman,Dallas Cowboys,,,,1,,,,,1
-1994,RCB,Eric Allen,Philadelphia Eagles,,,,1,,,,,1
-1994,RB,Terry Allen,Minnesota Vikings,,,,1,,,,,1
-1994,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,1
-1994,QB,Drew Bledsoe,New England Patriots,,,,1,,,,,1
-1994,LDT,Tim Bowens,Miami Dolphins,,,,1,,,,,1
-1994,FS/LCB,Ray Buchanan,Indianapolis Colts,,,,1,,,,,1
-1994,LDE,Rob Burnett,Cleveland Browns,,,,1,,,,,1
-1994,FS,Mark Carrier,Chicago Bears,,,,1,,,,,1
-1994,RCB,Dale Carter,Kansas City Chiefs,,,,1,,,,,1
-1994,LDE,William Fuller,Philadelphia Eagles,,,,1,,,,,1
-1994,C,Courtney Hall,San Diego Chargers,,,,1,,,,,1
-1994,MLB,Pepper Johnson,Cleveland Browns,,,,1,,,,,1
-1994,RDE,Sean Jones,Green Bay Packers,,,,1,,,,,1
-1994,LLB,Seth Joyner,Arizona Cardinals,,,,1,,,,,1
-1994,LG,Bob Kratch,New England Patriots,,,,1,,,,,1
-1994,P,Sean Landeta,Los Angeles Rams,,,,1,,,,,1
-1994,LG,Duval Love,Pittsburgh Steelers,,,,1,,,,,1
-1994,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,1
-1994,RB,Natrone Means,San Diego Chargers,,,,1,,,,,1
-1994,K,Eddie Murray,Philadelphia Eagles,,,,1,,,,,1
-1994,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,1
-1994,C,Bart Oates,San Francisco 49ers,,,,1,,,,,1
-1994,FS,Darren Perry,Pittsburgh Steelers,,,,1,,,,,1
-1994,WR,Carl Pickens,Cincinnati Bengals,,,,1,,,,,1
-1994,FS,Stanley Richard,San Diego Chargers,,,,1,,,,,1
-1994,P,Tom Rouen,Denver Broncos,,,,1,,,,,1
-1994,LG,Jesse Sapolu,San Francisco 49ers,,,,1,,,,,1
-1994,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,1
-1994,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,1
-1994,RG,Lance Smith,New York Giants,,,,1,,,,,1
-1994,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,1
-1994,K,Matt Stover,Cleveland Browns,,,,1,,,,,1
-1994,LDT,Henry Thomas,Minnesota Vikings,,,,1,,,,,1
-1994,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,1
-1994,MLB,Jessie Tuggle,Atlanta Falcons,,,,1,,,,,1
-1994,LT,Mark Tuinei,Dallas Cowboys,,,,1,,,,,1
-1994,LT,Steve Wallace,San Francisco 49ers,,,,1,,,,,1
-1994,RB,Ricky Watters,San Francisco 49ers,,,,1,,,,,1
-1994,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,1
-1993,RB,Emmitt Smith,Dallas Cowboys,0.321,,,,,1,,,1
-1993,QB,Steve Young,San Francisco 49ers,0.259,,,,,,,,1
-1993,WR,Jerry Rice,San Francisco 49ers,0.185,,,,,,,,1
-1993,QB,John Elway,Denver Broncos,0.123,,,,,,,,1
-1993,QB,Troy Aikman,Dallas Cowboys,0.037,,,,,,,,1
-1993,RB,Marcus Allen,Kansas City Chiefs,0.025,,,,,,,,1
-1993,QB,Warren Moon,Houston Oilers,0.025,,,,,,,,1
-1993,WR,Sterling Sharpe,Green Bay Packers,0.012,,,,,,,,1
-1993,QB,Phil Simms,New York Giants,0.012,,,,,,,,1
-1993,LCB,Rod Woodson,Pittsburgh Steelers,,0.432,,,,,1,,1
-1993,LDE,Reggie White,Green Bay Packers,,0.148,,,,,,,1
-1993,RCB,Deion Sanders,Atlanta Falcons,,0.111,,,,,,,1
-1993,RDE,Bruce Smith,Buffalo Bills,,0.111,,,,,,,1
-1993,LDE,Neil Smith,Kansas City Chiefs,,0.086,,,,,,,1
-1993,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,0.049,,,,,,,1
-1993,RCB,Nate Odomes,Buffalo Bills,,0.025,,,,,,,1
-1993,RCB,Eric Allen,Philadelphia Eagles,,0.012,,,,,,,1
-1993,MLB,Dante Jones,Chicago Bears,,0.012,,,,,,,1
-1993,RDT,Cortez Kennedy,Seattle Seahawks,,0.012,,,,,,,1
-1993,WR,Jerry Rice,San Francisco 49ers,,,0.346,,,,,1,1
-1993,QB,Steve Young,San Francisco 49ers,,,0.259,,,,,,1
-1993,RB,Emmitt Smith,Dallas Cowboys,,,0.148,,,,,,1
-1993,QB,John Elway,Denver Broncos,,,0.123,,,,,,1
-1993,WR,Sterling Sharpe,Green Bay Packers,,,0.111,,,,,,1
-1993,QB,Troy Aikman,Dallas Cowboys,,,0.012,,,,,,1
-1993,RB,Jerome Bettis,Los Angeles Rams,,,,1,,,,,1
-1993,RDT,Sean Gilbert,Los Angeles Rams,,,,1,,,,,1
-1993,K,Jason Hanson,Detroit Lions,,,,1,,,,,1
-1993,DB,Tyrone Hughes,New Orleans Saints,,,,1,,,,,1
-1993,WR,O.J. McDuffie,Miami Dolphins,,,,1,,,,,1
-1993,FS,Marcus Robertson,Houston Texans,,,,1,,,,,1
-1993,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,1
-1993,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,1
-1993,RT,Erik Williams,Dallas Cowboys,,,,1,,,,,1
-1993,SS,LeRoy Butler,Green Bay Packers,,,,1,,,,,1
-1993,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,1
-1993,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,1
-1993,RB,Eric Metcalf,Cleveland Browns,,,,1,,,,,1
-1993,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1993,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,1
-1993,ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,1
-1993,C,Mark Stepnoski,Dallas Cowboys,,,,1,,,,,1
-1993,RDT,John Randle,Minnesota Vikings,,,,1,,,,,1
-1993,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,1
-1993,RCB,Deion Sanders,Atlanta Falcons,,,,1,,,,,1
-1993,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,1
-1993,FS,Steve Atwater,Denver Broncos,,,,1,,,,,1
-1993,WR,Tim Brown,Los Angeles Raiders,,,,1,,,,,1
-1993,QB,Troy Aikman,Dallas Cowboys,,,,1,,,,,1
-1993,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,1
-1993,ROLB,Renaldo Turnbull,New Orleans Saints,,,,1,,,,,1
-1993,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,1
-1993,K,Chris Jacke,Green Bay Packers,,,,1,,,,,1
-1993,ILB,Ken Norton Jr.,Dallas Cowboys,,,,1,,,,,1
-1993,WR,Michael Irvin,Dallas Cowboys,,,,1,,,,,1
-1993,LILB,Vincent Brown,New England Patriots,,,,1,,,,,1
-1993,LT,John Jackson,Pittsburgh Steelers,,,,1,,,,,1
-1993,LCB,Terry McDaniel,Los Angeles Raiders,,,,1,,,,,1
-1993,RCB,Nate Odomes,Buffalo Bills,,,,1,,,,,1
-1993,WR,Anthony Miller,San Diego Chargers,,,,1,,,,,1
-1993,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,1
-1993,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,1
-1993,RCB,Eric Allen,Philadelphia Eagles,,,,1,,,,,1
-1993,ROLB,Greg Lloyd,Pittsburgh Steelers,,,,1,,,,,1
-1993,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,,,1,,,,,1
-1993,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,1
-1993,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,1
-1993,DT,Henry Thomas,Minnesota Vikings,,,,1,,,,,1
-1993,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,1
-1993,DB,Elbert Shelley,Atlanta Falcons,,,,1,,,,,1
-1993,RILB,Michael Brooks,New York Giants,,,,1,,,,,1
-1993,LLB,Seth Joyner,Philadelphia Eagles,,,,1,,,,,1
-1993,RT,Harris Barton,San Francisco 49ers,,,,1,,,,,1
-1993,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1993,P,Greg Montgomery,Houston Texans,,,,1,,,,,1
-1993,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,1
-1993,TE,Brent Jones,San Francisco 49ers,,,,1,,,,,1
-1993,FS,Eugene Robinson,Seattle Seahawks,,,,1,,,,,1
-1993,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,1
-1993,LDT,Ray Childress,Houston Texans,,,,1,,,,,1
-1993,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,1
-1993,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,1
-1993,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,1
-1993,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,1
-1993,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,1
-1993,KR,Mel Gray,Detroit Lions,,,,1,,,,,1
-1993,RG,Chris Hinton,Atlanta Falcons,,,,1,,,,,1
-1993,LDE,Reggie White,Green Bay Packers,,,,1,,,,,1
-1993,QB,Steve Young,San Francisco 49ers,,,,1,,,,,1
-1993,C,Bruce Matthews,Houston Texans,,,,1,,,,,1
-1993,RDE,Richard Dent,Chicago Bears,,,,1,,,,,1
-1993,RB,Marcus Allen,Kansas City Chiefs,,,,1,,,,,1
-1993,QB,John Elway,Denver Broncos,,,,1,,,,,1
-1993,LG,Mike Munchak,Houston Texans,,,,1,,,,,1
-1993,ROLB,Darryl Talley,Buffalo Bills,,,,1,,,,,1
-1993,K,Norm Johnson,Atlanta Falcons,,,,1,,,,,1
-1993,K,Gary Anderson,Pittsburgh Steelers,,,,1,,,,,1
-1993,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,1
-1993,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,1
-1992,RB,Emmitt Smith,Dallas Cowboys,0.321,,,,,,,,1
-1992,QB,Steve Young,San Francisco 49ers,0.259,,,,,,,,1
-1992,WR,Jerry Rice,San Francisco 49ers,0.185,,,,,,,,1
-1992,QB,John Elway,Denver Broncos,0.123,,,,,,,,1
-1992,QB,Troy Aikman,Dallas Cowboys,0.037,,,,,,,,1
-1992,RB,Marcus Allen,Kansas City Chiefs,0.025,,,,,,,,1
-1992,QB,Warren Moon,Houston Oilers,0.025,,,,,,,,1
-1992,WR,Sterling Sharpe,Green Bay Packers,0.012,,,,,,,,1
-1992,QB,Phil Simms,New York Giants,0.012,,,,,,,,1
-1992,QB,Steve Young,San Francisco 49ers,0.7,,,,,1,,,1
-1992,RB,Barry Foster,Pittsburgh Steelers,0.138,,,,,,,,1
-1992,RB,Emmitt Smith,Dallas Cowboys,0.125,,,,,,,,1
-1992,WR,Sterling Sharpe,Green Bay Packers,0.025,,,,,,,,1
-1992,RDT,Cortez Kennedy,Seattle Seahawks,0.013,,,,,,,,1
-1992,RDT,Cortez Kennedy,Seattle Seahawks,,0.413,,,,,1,,1
-1992,RLB,Junior Seau,San Diego Chargers,,0.15,,,,,,,1
-1992,LLB,Wilber Marshall,Washington Redskins,,0.075,,,,,,,1
-1992,RDE,Clyde Simmons,Philadelphia Eagles,,0.075,,,,,,,1
-1992,LOLB,Rickey Jackson,New Orleans Saints,,0.038,,,,,,,1
-1992,RDE,Leslie O'Neal,San Diego Chargers,,0.038,,,,,,,1
-1992,RDE,Bruce Smith,Buffalo Bills,,0.038,,,,,,,1
-1992,LDT,Ray Childress,Houston Oilers,,0.025,,,,,,,1
-1992,RDE,Chris Doleman,Minnesota Vikings,,0.025,,,,,,,1
-1992,LDE,Wayne Martin,New Orleans Saints,,0.025,,,,,,,1
-1992,RCB,Audray McMillian,Minnesota Vikings,,0.025,,,,,,,1
-1992,LDE,Reggie White,Philadelphia Eagles,,0.025,,,,,,,1
-1992,ROLB,Bryan Cox,Miami Dolphins,,0.013,,,,,,,1
-1992,RDE,Charles Haley,Dallas Cowboys,,0.013,,,,,,,1
-1992,LLB,Seth Joyner,Philadelphia Eagles,,0.013,,,,,,,1
-1992,ROLB,Pat Swilling,New Orleans Saints,,0.013,,,,,,,1
-1992,QB,Steve Young,San Francisco 49ers,,,0.35,,,,,1,1
-1992,RB,Barry Foster,Pittsburgh Steelers,,,0.3,,,,,,1
-1992,RB,Emmitt Smith,Dallas Cowboys,,,0.213,,,,,,1
-1992,WR,Sterling Sharpe,Green Bay Packers,,,0.075,,,,,,1
-1992,RB,Thurman Thomas,Buffalo Bills,,,0.038,,,,,,1
-1992,QB,Jim Kelly,Buffalo Bills,,,0.013,,,,,,1
-1992,RB,Ricky Watters,San Francisco 49ers,,,0.013,,,,,,1
-1992,RB,Jon Vaughn,New England Patriots,,,,1,,,,,1
-1992,SS,Todd Scott,Minnesota Vikings,,,,1,,,,,1
-1992,ROLB,Bryan Cox,Miami Dolphins,,,,1,,,,,1
-1992,SS,Henry Jones,Buffalo Bills,,,,1,,,,,1
-1992,TE,Jackie Harris,Green Bay Packers,,,,1,,,,,1
-1992,RB,Johnny Bailey,Phoenix Cardinals,,,,1,,,,,1
-1992,RG,Carlton Haselrig,Pittsburgh Steelers,,,,1,,,,,1
-1992,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,1
-1992,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,1
-1992,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,1
-1992,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,1
-1992,RB,Barry Foster,Pittsburgh Steelers,,,,1,,,,,1
-1992,LDE,Wayne Martin,New Orleans Saints,,,,1,,,,,1
-1992,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,1
-1992,FS,Louis Oliver,Miami Dolphins,,,,1,,,,,1
-1992,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1992,C,Mark Stepnoski,Dallas Cowboys,,,,1,,,,,1
-1992,RLB/ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,1
-1992,K,Pete Stoyanovich,Miami Dolphins,,,,1,,,,,1
-1992,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,1
-1992,RCB,Deion Sanders,Atlanta Falcons,,,,1,,,,,1
-1992,FS,Steve Atwater,Denver Broncos,,,,1,,,,,1
-1992,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,1
-1992,FS,Bennie Blades,Detroit Lions,,,,1,,,,,1
-1992,RG,David Richards,San Diego Chargers,,,,1,,,,,1
-1992,LCB,Terry McDaniel,Los Angeles Raiders,,,,1,,,,,1
-1992,P,Greg Montgomery,Houston Texans,,,,1,,,,,1
-1992,FS,Chuck Cecil,Green Bay Packers,,,,1,,,,,1
-1992,LILB,Vincent Brown,New England Patriots,,,,1,,,,,1
-1992,RCB,Eric Allen,Philadelphia Eagles,,,,1,,,,,1
-1992,WR,Anthony Miller,San Diego Chargers,,,,1,,,,,1
-1992,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,1
-1992,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,1
-1992,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,1
-1992,LDE,Pierce Holt,San Francisco 49ers,,,,1,,,,,1
-1992,TE,Keith Jackson,Miami Dolphins,,,,1,,,,,1
-1992,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1992,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,1
-1992,ILB,Chris Spielman,Detroit Lions,,,,1,,,,,1
-1992,T,Neil Smith,Kansas City Chiefs,,,,1,,,,,1
-1992,T,Paul Gruber,Tampa Bay Buccaneers,,,,1,,,,,1
-1992,WR,Michael Irvin,Dallas Cowboys,,,,1,,,,,1
-1992,LCB,Ricky Reynolds,Tampa Bay Buccaneers,,,,1,,,,,1
-1992,LDT,Henry Thomas,Minnesota Vikings,,,,1,,,,,1
-1992,DB,Elbert Shelley,Atlanta Falcons,,,,1,,,,,1
-1992,MLB,Byron Evans,Philadelphia Eagles,,,,1,,,,,1
-1992,WR,Haywood Jeffires,Houston Texans,,,,1,,,,,1
-1992,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,1
-1992,TE,Brent Jones,San Francisco 49ers,,,,1,,,,,1
-1992,WR,Kelvin Martin,Dallas Cowboys,,,,1,,,,,1
-1992,MLB,Al Smith,Houston Texans,,,,1,,,,,1
-1992,SS,Tim McDonald,Phoenix Cardinals,,,,1,,,,,1
-1992,RT,Harris Barton,San Francisco 49ers,,,,1,,,,,1
-1992,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,1
-1992,LT,Will Wolford,Buffalo Bills,,,,1,,,,,1
-1992,RB,Vai Sikahema,Philadelphia Eagles,,,,1,,,,,1
-1992,RG,Derek Kennard,New Orleans Saints,,,,1,,,,,1
-1992,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,1
-1992,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,1
-1992,WR,Clarence Verdin,Indianapolis Colts,,,,1,,,,,1
-1992,RDE,Leslie O'Neal,San Diego Chargers,,,,1,,,,,1
-1992,LT,Gary Zimmerman,Minnesota Vikings,,,,1,,,,,1
-1992,LT,Steve Wallace,San Francisco 49ers,,,,1,,,,,1
-1992,LILB,Sam Mills,New Orleans Saints,,,,1,,,,,1
-1992,KR,Mel Gray,Detroit Lions,,,,1,,,,,1
-1992,OLB,Seth Joyner,Philadelphia Eagles,,,,1,,,,,1
-1992,OLB,Pat Swilling,New Orleans Saints,,,,1,,,,,1
-1992,DE,Clyde Simmons,Philadelphia Eagles,,,,1,,,,,1
-1992,QB,Jim Kelly,Buffalo Bills,,,,1,,,,,1
-1992,C,Kirk Lowdermilk,Minnesota Vikings,,,,1,,,,,1
-1992,LT,Lomas Brown,Detroit Lions,,,,1,,,,,1
-1992,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,1
-1992,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,1
-1992,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,1
-1992,RCB,Audray McMillian,Minnesota Vikings,,,,1,,,,,1
-1992,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,1
-1992,LDT,Ray Childress,Houston Texans,,,,1,,,,,1
-1992,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,1
-1992,QB,Steve Young,San Francisco 49ers,,,,1,,,,,1
-1992,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,1
-1992,DT,Greg Kragen,Denver Broncos,,,,1,,,,,1
-1992,QB,Randall Cunningham,Philadelphia Eagles,,,,1,,,,,1
-1992,LG,Guy McIntyre,San Francisco 49ers,,,,1,,,,,1
-1992,LLB,Wilber Marshall,Washington Commanders,,,,1,,,,,1
-1992,LCB,Carl Lee,Minnesota Vikings,,,,1,,,,,1
-1992,QB,Dan Marino,Miami Dolphins,,,,1,,,,,1
-1992,LCB,Gill Byrd,San Diego Chargers,,,,1,,,,,1
-1992,C,Bruce Matthews,Houston Texans,,,,1,,,,,1
-1992,LG,Mike Munchak,Houston Texans,,,,1,,,,,1
-1992,P,Rohn Stark,Indianapolis Colts,,,,1,,,,,1
-1992,K,Morten Andersen,New Orleans Saints,,,,1,,,,,1
-1992,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,1
-1992,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,1
-1991,RB,Thurman Thomas,Buffalo Bills,0.476,,,,,1,,,1
-1991,QB,Jim Kelly,Buffalo Bills,0.22,,,,,,,,1
-1991,RB,Barry Sanders,Detroit Lions,0.195,,,,,,,,1
-1991,QB,Mark Rypien,Washington Redskins,0.098,,,,,,,,1
-1991,LLB,Seth Joyner,Philadelphia Eagles,0.012,,,,,,,,1
-1991,ROLB,Pat Swilling,New Orleans Saints,,0.329,,,,,1,,1
-1991,LLB,Seth Joyner,Philadelphia Eagles,,0.22,,,,,,,1
-1991,LDE,Reggie White,Philadelphia Eagles,,0.195,,,,,,,1
-1991,SS,Ronnie Lott,Los Angeles Raiders,,0.085,,,,,,,1
-1991,ROLB,Derrick Thomas,Kansas City Chiefs,,0.085,,,,,,,1
-1991,LOLB,Cornelius Bennett,Buffalo Bills,,0.024,,,,,,,1
-1991,LLB,Wilber Marshall,Washington Redskins,,0.024,,,,,,,1
-1991,RDT,Jerome Brown,Philadelphia Eagles,,0.012,,,,,,,1
-1991,LILB,Sam Mills,New Orleans Saints,,0.012,,,,,,,1
-1991,RDE,Clyde Simmons,Philadelphia Eagles,,0.012,,,,,,,1
-1991,RB,Thurman Thomas,Buffalo Bills,,,0.573,,,,,1,1
-1991,QB,Jim Kelly,Buffalo Bills,,,0.183,,,,,,1
-1991,RB,Barry Sanders,Detroit Lions,,,0.146,,,,,,1
-1991,QB,Mark Rypien,Washington Redskins,,,0.085,,,,,,1
-1991,WR,Michael Irvin,Dallas Cowboys,,,0.012,,,,,,1
-1991,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,1
-1991,WR,Nate Lewis,San Diego Chargers,,,,1,,,,,1
-1991,RILB,Junior Seau,San Diego Chargers,,,,1,,,,,1
-1991,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,1
-1991,FS,Mark Carrier,Chicago Bears,,,,1,,,,,1
-1991,KR,Brian Mitchell,Washington Commanders,,,,1,,,,,1
-1991,RDE,Jeff Lageman,New York Jets,,,,1,,,,,1
-1991,DB,Bennie Thompson,New Orleans Saints,,,,1,,,,,1
-1991,K,Pete Stoyanovich,Miami Dolphins,,,,1,,,,,1
-1991,RCB,Deion Sanders,Atlanta Falcons,,,,1,,,,,1
-1991,ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,1
-1991,FS,Steve Atwater,Denver Broncos,,,,1,,,,,1
-1991,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1991,TE,Marv Cook,New England Patriots,,,,1,,,,,1
-1991,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,1
-1991,S,Bubba McDowell,Houston Texans,,,,1,,,,,1
-1991,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,1
-1991,LT,Paul Gruber,Tampa Bay Buccaneers,,,,1,,,,,1
-1991,RB,Gaston Green,Denver Broncos,,,,1,,,,,1
-1991,WR,Tim Brown,Los Angeles Raiders,,,,1,,,,,1
-1991,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,1
-1991,RILB,Vincent Brown,New England Patriots,,,,1,,,,,1
-1991,FS,Bennie Blades,Detroit Lions,,,,1,,,,,1
-1991,QB,Mark Rypien,Washington Commanders,,,,1,,,,,1
-1991,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,1
-1991,K,Chip Lohmiller,Washington Commanders,,,,1,,,,,1
-1991,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1991,LCB,Cris Dishman,Houston Texans,,,,1,,,,,1
-1991,WR,Michael Irvin,Dallas Cowboys,,,,1,,,,,1
-1991,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,1
-1991,CB,Eric Allen,Philadelphia Eagles,,,,1,,,,,1
-1991,ILB,Chris Spielman,Detroit Lions,,,,1,,,,,1
-1991,RCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,1
-1991,RCB,Nate Odomes,Buffalo Bills,,,,1,,,,,1
-1991,RILB,Jessie Tuggle,Atlanta Falcons,,,,1,,,,,1
-1991,FB,Christian Okoye,Kansas City Chiefs,,,,1,,,,,1
-1991,SS,Tim McDonald,Phoenix Cardinals,,,,1,,,,,1
-1991,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,1
-1991,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,1
-1991,MLB,Al Smith,Houston Texans,,,,1,,,,,1
-1991,WR,Haywood Jeffires,Houston Texans,,,,1,,,,,1
-1991,K,Jeff Jaeger,Los Angeles Raiders,,,,1,,,,,1
-1991,NT,Jerry Ball,Detroit Lions,,,,1,,,,,1
-1991,RDT,Jerome Brown,Philadelphia Eagles,,,,1,,,,,1
-1991,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,1
-1991,LDE,William Fuller,Houston Texans,,,,1,,,,,1
-1991,C,Kent Hull,Buffalo Bills,,,,1,,,,,1
-1991,LLB,Seth Joyner,Philadelphia Eagles,,,,1,,,,,1
-1991,KR,Mel Gray,Detroit Lions,,,,1,,,,,1
-1991,LILB,Sam Mills,New Orleans Saints,,,,1,,,,,1
-1991,RDE,Clyde Simmons,Philadelphia Eagles,,,,1,,,,,1
-1991,ROLB,Pat Swilling,New Orleans Saints,,,,1,,,,,1
-1991,QB,Jim Kelly,Buffalo Bills,,,,1,,,,,1
-1991,LG,Raleigh McKenzie,Washington Commanders,,,,1,,,,,1
-1991,NT,Greg Kragen,Denver Broncos,,,,1,,,,,1
-1991,WR,Gary Clark,Washington Commanders,,,,1,,,,,1
-1991,WR,Andre Reed,Buffalo Bills,,,,1,,,,,1
-1991,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,1
-1991,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,1
-1991,LDT,Ray Childress,Houston Texans,,,,1,,,,,1
-1991,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,1
-1991,LT,Jim Lachey,Washington Commanders,,,,1,,,,,1
-1991,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,1
-1991,T,Lomas Brown,Detroit Lions,,,,1,,,,,1
-1991,LT,John Alt,Kansas City Chiefs,,,,1,,,,,1
-1991,SS,Andre Waters,Philadelphia Eagles,,,,1,,,,,1
-1991,LLB,Wilber Marshall,Washington Commanders,,,,1,,,,,1
-1991,LG,Guy McIntyre,San Francisco 49ers,,,,1,,,,,1
-1991,RB,Earnest Byner,Washington Commanders,,,,1,,,,,1
-1991,LCB,Gill Byrd,San Diego Chargers,,,,1,,,,,1
-1991,P,Reggie Roby,Miami Dolphins,,,,1,,,,,1
-1991,C,Don Mosebar,Los Angeles Raiders,,,,1,,,,,1
-1991,RDE,Greg Townsend,Los Angeles Raiders,,,,1,,,,,1
-1991,C,Bruce Matthews,Houston Texans,,,,1,,,,,1
-1991,RCB,Darrell Green,Washington Commanders,,,,1,,,,,1
-1991,MLB,Karl Mecklenburg,Denver Broncos,,,,1,,,,,1
-1991,DE,Charles Mann,Washington Commanders,,,,1,,,,,1
-1991,LG,Mike Munchak,Houston Texans,,,,1,,,,,1
-1991,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,1
-1991,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,1
-1991,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,1
-1991,SS,Ronnie Lott,Los Angeles Raiders,,,,1,,,,,1
-1991,P,Jeff Gossett,Los Angeles Raiders,,,,1,,,,,1
-1991,DT,Steve McMichael,Chicago Bears,,,,1,,,,,1
-1991,G,Jim Ritcher,Buffalo Bills,,,,1,,,,,1
-1991,T,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,1
-1991,LT,Mike Kenn,Atlanta Falcons,,,,1,,,,,1
-1990,QB,Joe Montana,San Francisco 49ers,0.325,,,,,1,,,1
-1990,QB,Randall Cunningham,Philadelphia Eagles,0.225,,,,,,,,1
-1990,QB,Warren Moon,Houston Oilers,0.2,,,,,,,,1
-1990,RDE,Bruce Smith,Buffalo Bills,0.138,,,,,,,,1
-1990,QB,Jim Kelly,Buffalo Bills,0.063,,,,,,,,1
-1990,QB,Steve DeBerg,Kansas City Chiefs,0.038,,,,,,,,1
-1990,WR,Jerry Rice,San Francisco 49ers,0.013,,,,,,,,1
-1990,RDE,Bruce Smith,Buffalo Bills,,0.9,,,,,1,,1
-1990,ROLB,Derrick Thomas,Kansas City Chiefs,,0.063,,,,,,,1
-1990,LOLB,Charles Haley,San Francisco 49ers,,0.013,,,,,,,1
-1990,RILB,Vaughan Johnson,New Orleans Saints,,0.013,,,,,,,1
-1990,FS,Ronnie Lott,San Francisco 49ers,,0.013,,,,,,,1
-1990,QB,Warren Moon,Houston Oilers,,,0.538,,,,,1,1
-1990,QB,Randall Cunningham,Philadelphia Eagles,,,0.175,,,,,,1
-1990,QB,Joe Montana,San Francisco 49ers,,,0.088,,,,,,1
-1990,RB,Barry Sanders,Detroit Lions,,,0.088,,,,,,1
-1990,WR,Jerry Rice,San Francisco 49ers,,,0.063,,,,,,1
-1990,RB,Neal Anderson,Chicago Bears,,,0.025,,,,,,1
-1990,QB,Jim Kelly,Buffalo Bills,,,0.025,,,,,,1
-1990,T,Luis Sharpe,Phoenix Cardinals,,,,1,,,,,1
-1990,SS,Joey Browner,Minnesota Vikings,,,,1,,,,,1
-1990,C,Kent Hull,Buffalo Bills,,,,1,,,,,1
-1990,TE,Keith Jackson,Philadelphia Eagles,,,,1,,,,,1
-1990,RILB,Pepper Johnson,New York Giants,,,,1,,,,,1
-1990,LT,Jim Lachey,Washington Commanders,,,,1,,,,,1
-1990,P,Sean Landeta,New York Giants,,,,1,,,,,1
-1990,K,Nick Lowery,Kansas City Chiefs,,,,1,,,,,1
-1990,RG,Bruce Matthews,Houston Texans,,,,1,,,,,1
-1990,LILB,John Offerdahl,Miami Dolphins,,,,1,,,,,1
-1990,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,1
-1990,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,1
-1990,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,1
-1990,RB,Barry Sanders,Detroit Lions,,,,1,,,,,1
-1990,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,1
-1990,ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,1
-1990,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,1
-1990,RCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,1
-1990,KR,Mel Gray,Detroit Lions,,,,1,,,,,1
-1990,LOLB,Charles Haley,San Francisco 49ers,,,,1,,,,,1
-1990,LCB,Albert Lewis,Kansas City Chiefs,,,,1,,,,,1
-1990,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,1
-1990,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,1
-1990,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,1
-1990,FS,Ronnie Lott,San Francisco 49ers,,,,1,,,,,1
-1990,RB,Dave Meggett,New York Giants,,,,1,,,,,1
-1990,RDE,Greg Townsend,Los Angeles Raiders,,,,1,,,,,1
-1990,QB,Randall Cunningham,Philadelphia Eagles,,,,1,,,,,1
-1990,LDT,Ray Childress,Houston Texans,,,,1,,,,,1
-1990,FS,Mark Carrier,Chicago Bears,,,,1,,,,,1
-1990,RCB,Darrell Green,Washington Commanders,,,,1,,,,,1
-1990,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,1
-1990,QB,Warren Moon,Houston Texans,,,,1,,,,,1
-1990,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,1
-1990,RDT,Jerome Brown,Philadelphia Eagles,,,,1,,,,,1
-1990,WR,Clarence Verdin,Indianapolis Colts,,,,1,,,,,1
-1990,LG,Mark Bortz,Chicago Bears,,,,1,,,,,1
-1990,NT,Dan Saleaumua,Kansas City Chiefs,,,,1,,,,,1
-1990,ROLB,Darryl Talley,Buffalo Bills,,,,1,,,,,1
-1990,LT,John Alt,Kansas City Chiefs,,,,1,,,,,1
-1990,DB,Reyna Thompson,New York Giants,,,,1,,,,,1
-1990,RB,Neal Anderson,Chicago Bears,,,,1,,,,,1
-1990,RB,Marion Butts,San Diego Chargers,,,,1,,,,,1
-1990,TE,Rodney Holman,Cincinnati Bengals,,,,1,,,,,1
-1990,WR,Andre Reed,Buffalo Bills,,,,1,,,,,1
-1990,P,Rohn Stark,Indianapolis Colts,,,,1,,,,,1
-1990,FS,Steve Atwater,Denver Broncos,,,,1,,,,,1
-1990,RDE,Richard Dent,Chicago Bears,,,,1,,,,,1
-1990,SS,David Fulcher,Cincinnati Bengals,,,,1,,,,,1
-1990,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,1
-1990,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,1
-1990,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,1
-1990,K,Steve Christie,Tampa Bay Buccaneers,,,,1,,,,,1
-1990,RILB,David Little,Pittsburgh Steelers,,,,1,,,,,1
-1990,NT,Jerry Ball,Detroit Lions,,,,1,,,,,1
-1990,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,1
-1990,WR,Anthony Miller,San Diego Chargers,,,,1,,,,,1
-1990,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,1
-1990,LT,Lomas Brown,Detroit Lions,,,,1,,,,,1
-1990,WR,Ernest Givins,Houston Texans,,,,1,,,,,1
-1990,RCB,Wayne Haddix,Tampa Bay Buccaneers,,,,1,,,,,1
-1990,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,1
-1990,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,1
-1990,LCB,Mark Collins,New York Giants,,,,1,,,,,1
-1990,LG,Guy McIntyre,San Francisco 49ers,,,,1,,,,,1
-1990,ROLB,Mike Cofer,Detroit Lions,,,,1,,,,,1
-1990,LILB,Shane Conlan,Buffalo Bills,,,,1,,,,,1
-1990,RDE,Jeff Cross,Miami Dolphins,,,,1,,,,,1
-1990,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,1
-1990,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,1
-1990,QB,Jim Kelly,Buffalo Bills,,,,1,,,,,1
-1990,SS,Tim McDonald,Phoenix Cardinals,,,,1,,,,,1
-1990,LCB,Tim McKyer,Miami Dolphins,,,,1,,,,,1
-1990,C,Don Mosebar,Los Angeles Raiders,,,,1,,,,,1
-1990,LG,Mike Munchak,Houston Texans,,,,1,,,,,1
-1990,ROLB,Leslie O'Neal,San Diego Chargers,,,,1,,,,,1
-1990,RCB,Kevin Ross,Kansas City Chiefs,,,,1,,,,,1
-1990,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,1
-1990,K,Pete Stoyanovich,Miami Dolphins,,,,1,,,,,1
-1990,ROLB,Pat Swilling,New Orleans Saints,,,,1,,,,,1
-1990,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,1
-1990,RB,James Brooks,Cincinnati Bengals,,,,1,,,,,1
-1990,RB,Keith Byars,Philadelphia Eagles,,,,1,,,,,1
-1990,RB,Earnest Byner,Washington Commanders,,,,1,,,,,1
-1990,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,1
-1990,WR,Gary Clark,Washington Commanders,,,,1,,,,,1
-1990,LT,Jimbo Covert,Chicago Bears,,,,1,,,,,1
-1990,RDE,Kevin Fagan,San Francisco 49ers,,,,1,,,,,1
-1990,TE,Eric Green,Pittsburgh Steelers,,,,1,,,,,1
-1990,RCB,Don Griffin,San Francisco 49ers,,,,1,,,,,1
-1990,LILB,Jeff Herrod,Indianapolis Colts,,,,1,,,,,1
-1990,WR,Drew Hill,Houston Texans,,,,1,,,,,1
-1990,LCB,Issiac Holt,Dallas Cowboys,,,,1,,,,,1
-1990,P,Mike Horan,Denver Broncos,,,,1,,,,,1
-1990,RB,Bo Jackson,Los Angeles Raiders,,,,1,,,,,1
-1990,K,Chris Jacke,Green Bay Packers,,,,1,,,,,1
-1990,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,1
-1990,MLB,Eugene Lockhart,Dallas Cowboys,,,,1,,,,,1
-1990,LDE,Howie Long,Los Angeles Raiders,,,,1,,,,,1
-1990,LG,Tom Newberry,Los Angeles Rams,,,,1,,,,,1
-1990,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,1
-1990,C,Bart Oates,New York Giants,,,,1,,,,,1
-1990,FS,Louis Oliver,Miami Dolphins,,,,1,,,,,1
-1990,LG,Jim Ritcher,Buffalo Bills,,,,1,,,,,1
-1990,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,1
-1990,LCB,Gill Byrd,San Diego Chargers,,,,1,,,,,1
-1990,K,John Carney,TRADE,,,,1,,,,,1
-1990,MLB,Byron Evans,Philadelphia Eagles,,,,1,,,,,1
+1997,QB,Brett Favre,Green Bay Packers,0.376,,,,,1,,,
+1997,RB,Barry Sanders,Detroit Lions,0.375,,,,,,,,
+1997,RB,Terrell Davis,Denver Broncos,0.083,,,,,,,,
+1997,QB,Steve Young,San Francisco 49ers,0.063,,,,,,,,
+1997,RB,Jerome Bettis,Pittsburgh Steelers,0.042,,,,,,,,
+1997,RDT,Dana Stubblefield,San Francisco 49ers,0.042,,,,,,,,
+1997,RCB,Carnell Lake,Pittsburgh Steelers,0.021,,,,,,,,
+1997,RDT,Dana Stubblefield,San Francisco 49ers,,0.583,,,,,1,,
+1997,RDE,Bruce Smith,Buffalo Bills,,0.125,,,,,,,
+1997,LLB,Jessie Armstead,New York Giants,,0.104,,,,,,,
+1997,LILB,Levon Kirkland,Pittsburgh Steelers,,0.104,,,,,,,
+1997,RCB,Carnell Lake,Pittsburgh Steelers,,0.083,,,,,,,
+1997,RB,Barry Sanders,Detroit Lions,,,0.781,,,,,1,
+1997,RB,Terrell Davis,Denver Broncos,,,0.156,,,,,,
+1997,QB,Brett Favre,Green Bay Packers,,,0.063,,,,,,
+1997,MLB,Ray Lewis,Baltimore Ravens,,,,1,,,,,
+1997,WR,Tamarick Vanover,Kansas City Chiefs,,,,1,,,,,
+1997,LT,Jonathan Ogden,Baltimore Ravens,,,,1,,,,,
+1997,RLB,Derrick Brooks,Tampa Bay Buccaneers,,,,1,,,,,
+1997,RLB,John Mobley,Denver Broncos,,,,1,,,,,
+1997,FB,Mike Alstott,Tampa Bay Buccaneers,,,,1,,,,,
+1997,WR,David Palmer,Minnesota Vikings,,,,1,,,,,
+1997,DB,Larry Whigham,New England Patriots,,,,1,,,,,
+1997,LCB,Aaron Glenn,New York Jets,,,,1,,,,,
+1997,RB,Jerome Bettis,Pittsburgh Steelers,,,,1,,,,,
+1997,RB,Travis Jervey,Green Bay Packers,,,,1,,,,,
+1997,LT,Tony Boselli,Jacksonville Jaguars,,,,1,,,,,
+1997,RB,Terrell Davis,Denver Broncos,,,,1,,,,,
+1997,DT,Warren Sapp,Tampa Bay Buccaneers,,,,1,,,,,
+1997,FB,Charles Way,New York Giants,,,,1,,,,,
+1997,LLB,Chris Slade,New England Patriots,,,,1,,,,,
+1997,RG,Larry Allen,Dallas Cowboys,,,,1,,,,,
+1997,LDE,Michael Strahan,New York Giants,,,,1,,,,,
+1997,G,Will Shields,Kansas City Chiefs,,,,1,,,,,
+1997,RB,Dorsey Levens,Green Bay Packers,,,,1,,,,,
+1997,K,Jason Hanson,Detroit Lions,,,,1,,,,,
+1997,LT,Todd Steussie,Minnesota Vikings,,,,1,,,,,
+1997,FS,Darryl Williams,Seattle Seahawks,,,,1,,,,,
+1997,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,
+1997,RCB,Darrien Gordon,Denver Broncos,,,,1,,,,,
+1997,LLB,Jessie Armstead,New York Giants,,,,1,,,,,
+1997,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,
+1997,K,Richie Cunningham,Dallas Cowboys,,,,1,,,,,
+1997,CB,Doug Evans,Green Bay Packers,,,,1,,,,,
+1997,MLB,Winfred Tubbs,New Orleans Saints,,,,1,,,,,
+1997,NT,Joel Steed,Pittsburgh Steelers,,,,1,,,,,
+1997,WR,Yancey Thigpen,Pittsburgh Steelers,,,,1,,,,,
+1997,RB,Michael Bates,Carolina Panthers,,,,1,,,,,
+1997,WR,Herman Moore,Detroit Lions,,,,1,,,,,
+1997,LILB,Levon Kirkland,Pittsburgh Steelers,,,,1,,,,,
+1997,QB,Brett Favre,Green Bay Packers,,,,1,,,,,
+1997,MLB,Junior Seau,San Diego Chargers,,,,1,,,,,
+1997,T,Robert Porcher,Detroit Lions,,,,1,,,,,
+1997,T,Dale Carter,Kansas City Chiefs,,,,1,,,,,
+1997,T,Chuck Smith,Atlanta Falcons,,,,1,,,,,
+1997,LDE,Michael Sinclair,Seattle Seahawks,,,,1,,,,,
+1997,NT,Ted Washington,Buffalo Bills,,,,1,,,,,
+1997,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,
+1997,P,Matt Turk,Washington Commanders,,,,1,,,,,
+1997,WR,Rob Moore,Arizona Cardinals,,,,1,,,,,
+1997,SS,LeRoy Butler,Green Bay Packers,,,,1,,,,,
+1997,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,
+1997,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1997,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,
+1997,KR,Eric Metcalf,San Diego Chargers,,,,1,,,,,
+1997,K,Pete Stoyanovich,Kansas City Chiefs,,,,1,,,,,
+1997,LG,Dave Szott,Kansas City Chiefs,,,,1,,,,,
+1997,RCB/SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,
+1997,RDT,John Randle,Minnesota Vikings,,,,1,,,,,
+1997,RCB,Deion Sanders,Dallas Cowboys,,,,1,,,,,
+1997,TE,Wesley Walls,Carolina Panthers,,,,1,,,,,
+1997,WR,Tim Brown,Oakland Raiders,,,,1,,,,,
+1997,DE,Neil Smith,Denver Broncos,,,,1,,,,,
+1997,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,,,1,,,,,
+1997,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,
+1997,CB,Cris Dishman,Washington Commanders,,,,1,,,,,
+1997,T,James Hasty,Kansas City Chiefs,,,,1,,,,,
+1997,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1997,P,Bryan Barker,Jacksonville Jaguars,,,,1,,,,,
+1997,C,Kevin Glover,Detroit Lions,,,,1,,,,,
+1997,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1997,LG,Bruce Matthews,Tennessee Titans,,,,1,,,,,
+1997,DE,Reggie White,Green Bay Packers,,,,1,,,,,
+1997,QB,Steve Young,San Francisco 49ers,,,,1,,,,,
+1997,QB,John Elway,Denver Broncos,,,,1,,,,,
+1996,QB,Brett Favre,Green Bay Packers,0.559,,,,,1,,,
+1996,QB,John Elway,Denver Broncos,0.36,,,,,,,,
+1996,RB,Terrell Davis,Denver Broncos,0.059,,,,,,,,
+1996,RB,Jerome Bettis,Pittsburgh Steelers,0.022,,,,,,,,
+1996,RDE,Bruce Smith,Buffalo Bills,,0.602,,,,,1,,
+1996,LOLB,Kevin Greene,Carolina Panthers,,0.204,,,,,,,
+1996,RDE,Alfred Williams,Denver Broncos,,0.054,,,,,,,
+1996,ROLB,Chad Brown,Pittsburgh Steelers,,0.032,,,,,,,
+1996,LILB,Sam Mills,Carolina Panthers,,0.032,,,,,,,
+1996,LDT,Bryant Young,San Francisco 49ers,,0.032,,,,,,,
+1996,ROLB,Lamar Lathon,Carolina Panthers,,0.011,,,,,,,
+1996,RDT,John Randle,Minnesota Vikings,,0.011,,,,,,,
+1996,LOLB,Derrick Thomas,Kansas City Chiefs,,0.011,,,,,,,
+1996,LCB,Rod Woodson,Pittsburgh Steelers,,0.011,,,,,,,
+1996,RB,Terrell Davis,Denver Broncos,,,0.392,,,,,1,
+1996,QB,Brett Favre,Green Bay Packers,,,0.366,,,,,,
+1996,QB,John Elway,Denver Broncos,,,0.177,,,,,,
+1996,RB,Jerome Bettis,Pittsburgh Steelers,,,0.032,,,,,,
+1996,WR,Isaac Bruce,St. Louis Rams,,,0.011,,,,,,
+1996,WR,Jerry Rice,San Francisco 49ers,,,0.011,,,,,,
+1996,TE,Shannon Sharpe,Denver Broncos,,,0.011,,,,,,
+1996,RDE,Simeon Rice,Arizona Cardinals,,,,1,,,,,
+1996,WR,Terry Glenn,New England Patriots,,,,1,,,,,
+1996,WR,Tamarick Vanover,Kansas City Chiefs,,,,1,,,,,
+1996,P,Todd Sauerbrun,Chicago Bears,,,,1,,,,,
+1996,RB,Curtis Martin,New England Patriots,,,,1,,,,,
+1996,RB,Eddie George,Houston Texans,,,,1,,,,,
+1996,FB,Mike Alstott,Tampa Bay Buccaneers,,,,1,,,,,
+1996,WR,Isaac Bruce,St. Louis Rams,,,,1,,,,,
+1996,LT,Tony Boselli,Jacksonville Jaguars,,,,1,,,,,
+1996,QB,Drew Bledsoe,New England Patriots,,,,1,,,,,
+1996,RB,Jerome Bettis,Pittsburgh Steelers,,,,1,,,,,
+1996,LDT,Bryant Young,San Francisco 49ers,,,,1,,,,,
+1996,RB,Terrell Davis,Denver Broncos,,,,1,,,,,
+1996,LT,Bob Whitfield,Atlanta Falcons,,,,1,,,,,
+1996,K,Chris Boniol,Dallas Cowboys,,,,1,,,,,
+1996,RG,Will Shields,Kansas City Chiefs,,,,1,,,,,
+1996,RG,Larry Allen,Dallas Cowboys,,,,1,,,,,
+1996,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,
+1996,LCB,Kevin Smith,Dallas Cowboys,,,,1,,,,,
+1996,RDT,Sean Gilbert,Washington Commanders,,,,1,,,,,
+1996,SS,Blaine Bishop,Houston Texans,,,,1,,,,,
+1996,LCB,Darrien Gordon,San Diego Chargers,,,,1,,,,,
+1996,LB,Jim Schwantz,Dallas Cowboys,,,,1,,,,,
+1996,LCB,Ashley Ambrose,Cincinnati Bengals,,,,1,,,,,
+1996,WR,Carl Pickens,Cincinnati Bengals,,,,1,,,,,
+1996,WR,Desmond Howard,Green Bay Packers,,,,1,,,,,
+1996,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,
+1996,P,Chris Gardocki,Indianapolis Colts,,,,1,,,,,
+1996,ROLB,Chad Brown,Pittsburgh Steelers,,,,1,,,,,
+1996,RB,Ricky Watters,Philadelphia Eagles,,,,1,,,,,
+1996,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,
+1996,TE,Ben Coates,New England Patriots,,,,1,,,,,
+1996,LB,John Henry Mills,Houston Texans,,,,1,,,,,
+1996,LILB,Levon Kirkland,Pittsburgh Steelers,,,,1,,,,,
+1996,RDT,Chester McGlockton,Oakland Raiders,,,,1,,,,,
+1996,K,John Kasay,Carolina Panthers,,,,1,,,,,
+1996,LCB,Dale Carter,Kansas City Chiefs,,,,1,,,,,
+1996,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,
+1996,WR,Herman Moore,Detroit Lions,,,,1,,,,,
+1996,RB,Michael Bates,Carolina Panthers,,,,1,,,,,
+1996,SS,Darren Woodson,Dallas Cowboys,,,,1,,,,,
+1996,QB,Brett Favre,Green Bay Packers,,,,1,,,,,
+1996,LDE,Michael Sinclair,Seattle Seahawks,,,,1,,,,,
+1996,LOLB,Bryce Paup,Buffalo Bills,,,,1,,,,,
+1996,LCB,Eric Davis,Carolina Panthers,,,,1,,,,,
+1996,RG,Bob Dahl,Washington Commanders,,,,1,,,,,
+1996,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,
+1996,RT,Erik Williams,Dallas Cowboys,,,,1,,,,,
+1996,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,
+1996,RB,Terry Allen,Washington Commanders,,,,1,,,,,
+1996,P,Matt Turk,Washington Commanders,,,,1,,,,,
+1996,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,
+1996,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1996,RDE,Alfred Williams,Denver Broncos,,,,1,,,,,
+1996,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,
+1996,SS,LeRoy Butler,Green Bay Packers,,,,1,,,,,
+1996,K,Cary Blanchard,Indianapolis Colts,,,,1,,,,,
+1996,FB,Larry Centers,Arizona Cardinals,,,,1,,,,,
+1996,RDT,John Jurkovic,Jacksonville Jaguars,,,,1,,,,,
+1996,C,Mark Stepnoski,Houston Texans,,,,1,,,,,
+1996,LG,Steve Wisniewski,Oakland Raiders,,,,1,,,,,
+1996,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,
+1996,LDE,Tony Tolbert,Dallas Cowboys,,,,1,,,,,
+1996,LOLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1996,ROLB,Lamar Lathon,Carolina Panthers,,,,1,,,,,
+1996,RCB/WR,Deion Sanders,Dallas Cowboys,,,,1,,,,,
+1996,RDT,John Randle,Minnesota Vikings,,,,1,,,,,
+1996,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,
+1996,LLB,Bill Romanowski,Denver Broncos,,,,1,,,,,
+1996,WR,Tim Brown,Oakland Raiders,,,,1,,,,,
+1996,RB,Dave Meggett,New England Patriots,,,,1,,,,,
+1996,TE,Wesley Walls,Carolina Panthers,,,,1,,,,,
+1996,FS,Steve Atwater,Denver Broncos,,,,1,,,,,
+1996,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,
+1996,RDT,Michael Dean Perry,Denver Broncos,,,,1,,,,,
+1996,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,
+1996,TE,Keith Jackson,Green Bay Packers,,,,1,,,,,
+1996,LT,John Jackson,Pittsburgh Steelers,,,,1,,,,,
+1996,LLB,Ken Harvey,Washington Commanders,,,,1,,,,,
+1996,WR,Cris Carter,Minnesota Vikings,,,,1,,,,,
+1996,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,,,1,,,,,
+1996,WR,Tony Martin,San Diego Chargers,,,,1,,,,,
+1996,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,
+1996,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,
+1996,LG,Will Wolford,Pittsburgh Steelers,,,,1,,,,,
+1996,LLB,Seth Joyner,Arizona Cardinals,,,,1,,,,,
+1996,FS,Mark Collins,Kansas City Chiefs,,,,1,,,,,
+1996,SS,Tyrone Braxton,Denver Broncos,,,,1,,,,,
+1996,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1996,C,Kevin Glover,Detroit Lions,,,,1,,,,,
+1996,LT,Lomas Brown,Arizona Cardinals,,,,1,,,,,
+1996,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1996,LDE,William Fuller,Philadelphia Eagles,,,,1,,,,,
+1996,K,Al Del Greco,Houston Texans,,,,1,,,,,
+1996,LOLB,Kevin Greene,Carolina Panthers,,,,1,,,,,
+1996,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1996,QB,Steve Young,San Francisco 49ers,,,,1,,,,,
+1996,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,
+1996,P,John Kidd,Miami Dolphins,,,,1,,,,,
+1996,LDE,Reggie White,Green Bay Packers,,,,1,,,,,
+1996,LG,Bruce Matthews,Houston Texans,,,,1,,,,,
+1996,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,
+1996,QB,John Elway,Denver Broncos,,,,1,,,,,
+1996,LILB,Sam Mills,Carolina Panthers,,,,1,,,,,
+1996,C,Ray Donaldson,Dallas Cowboys,,,,1,,,,,
+1995,QB,Brett Favre,Green Bay Packers,0.784,,,,,1,,,
+1995,WR,Jerry Rice,San Francisco 49ers,0.114,,,,,,,,
+1995,RB,Emmitt Smith,Dallas Cowboys,0.08,,,,,,,,
+1995,QB,Jim Harbaugh,Indianapolis Colts,0.023,,,,,,,,
+1995,LOLB,Bryce Paup,Buffalo Bills,,0.83,,,,,1,,
+1995,ROLB,Greg Lloyd,Pittsburgh Steelers,,0.057,,,,,,,
+1995,FS,Merton Hanks,San Francisco 49ers,,0.023,,,,,,,
+1995,LILB,Sam Mills,Carolina Panthers,,0.023,,,,,,,
+1995,MLB,Ken Norton Jr.,San Francisco 49ers,,0.023,,,,,,,
+1995,LDE,Neil Smith,Kansas City Chiefs,,0.023,,,,,,,
+1995,LDE,Reggie White,Green Bay Packers,,0.023,,,,,,,
+1995,QB,Brett Favre,Green Bay Packers,,,0.432,,,,,1,
+1995,RB,Emmitt Smith,Dallas Cowboys,,,0.375,,,,,,
+1995,WR,Jerry Rice,San Francisco 49ers,,,0.114,,,,,,
+1995,WR,Herman Moore,Detroit Lions,,,0.068,,,,,,
+1995,RB,Barry Sanders,Detroit Lions,,,0.011,,,,,,
+1995,RB,Marshall Faulk,Indianapolis Colts,,,,1,,,,,
+1995,RB,Curtis Martin,New England Patriots,,,,1,,,,,
+1995,FS,Orlando Thomas,Minnesota Vikings,,,,1,,,,,
+1995,RB,Terrell Davis,Denver Broncos,,,,1,,,,,
+1995,WR,Isaac Bruce,St. Louis Rams,,,,1,,,,,
+1995,WR,Andre Coleman,San Diego Chargers,,,,1,,,,,
+1995,K,Chris Boniol,Dallas Cowboys,,,,1,,,,,
+1995,KR,Glyn Milburn,Denver Broncos,,,,1,,,,,
+1995,RG,Larry Allen,Dallas Cowboys,,,,1,,,,,
+1995,SS,Blaine Bishop,Houston Texans,,,,1,,,,,
+1995,LDT,Eric Swann,Arizona Cardinals,,,,1,,,,,
+1995,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,
+1995,WR,Carl Pickens,Cincinnati Bengals,,,,1,,,,,
+1995,K,Jason Elam,Denver Broncos,,,,1,,,,,
+1995,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,
+1995,RB,Ricky Watters,Philadelphia Eagles,,,,1,,,,,
+1995,WR,Yancey Thigpen,Pittsburgh Steelers,,,,1,,,,,
+1995,RT,Leon Searcy,Pittsburgh Steelers,,,,1,,,,,
+1995,LDT,Andy Harmon,Philadelphia Eagles,,,,1,,,,,
+1995,LLB,Lee Woodall,San Francisco 49ers,,,,1,,,,,
+1995,TE,Mark Chmura,Green Bay Packers,,,,1,,,,,
+1995,LCB,Dale Carter,Kansas City Chiefs,,,,1,,,,,
+1995,RDT,Chester McGlockton,Oakland Raiders,,,,1,,,,,
+1995,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,
+1995,SS,Darren Woodson,Dallas Cowboys,,,,1,,,,,
+1995,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,
+1995,WR,Herman Moore,Detroit Lions,,,,1,,,,,
+1995,QB,Brett Favre,Green Bay Packers,,,,1,,,,,
+1995,TE,Ben Coates,New England Patriots,,,,1,,,,,
+1995,FS,Kurt Schulz,Buffalo Bills,,,,1,,,,,
+1995,RCB,Darryll Lewis,Houston Texans,,,,1,,,,,
+1995,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,
+1995,MLB,Bryan Cox,Miami Dolphins,,,,1,,,,,
+1995,RB,Terry Allen,Washington Commanders,,,,1,,,,,
+1995,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,
+1995,RLB,William Thomas,Philadelphia Eagles,,,,1,,,,,
+1995,RT,Erik Williams,Dallas Cowboys,,,,1,,,,,
+1995,RB,Chris Warren,Seattle Seahawks,,,,1,,,,,
+1995,LCB,Eric Davis,San Francisco 49ers,,,,1,,,,,
+1995,RB,Brian Mitchell,Washington Commanders,,,,1,,,,,
+1995,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,
+1995,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1995,LOLB,Bryce Paup,Buffalo Bills,,,,1,,,,,
+1995,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,
+1995,RLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1995,LG,Dave Szott,Kansas City Chiefs,,,,1,,,,,
+1995,LG,Keith Sims,Miami Dolphins,,,,1,,,,,
+1995,LT,Andy Heck,Chicago Bears,,,,1,,,,,
+1995,SS,Robert Blackmon,Seattle Seahawks,,,,1,,,,,
+1995,LCB,Deion Sanders,Dallas Cowboys,,,,1,,,,,
+1995,LG,Steve Wisniewski,Oakland Raiders,,,,1,,,,,
+1995,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,
+1995,RCB/SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,
+1995,RDT,John Randle,Minnesota Vikings,,,,1,,,,,
+1995,QB,Troy Aikman,Dallas Cowboys,,,,1,,,,,
+1995,P,Louie Aguiar,Kansas City Chiefs,,,,1,,,,,
+1995,FS,Steve Atwater,Denver Broncos,,,,1,,,,,
+1995,P,Jeff Feagles,Arizona Cardinals,,,,1,,,,,
+1995,WR,Tim Brown,Oakland Raiders,,,,1,,,,,
+1995,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,
+1995,MLB,Ken Norton Jr.,San Francisco 49ers,,,,1,,,,,
+1995,MLB,Chris Spielman,Detroit Lions,,,,1,,,,,
+1995,RDE,Ray Seals,Pittsburgh Steelers,,,,1,,,,,
+1995,RDT,Michael Dean Perry,Denver Broncos,,,,1,,,,,
+1995,WR,Tony Martin,San Diego Chargers,,,,1,,,,,
+1995,RCB,Eric Allen,New Orleans Saints,,,,1,,,,,
+1995,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,
+1995,WR,Cris Carter,Minnesota Vikings,,,,1,,,,,
+1995,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,
+1995,LCB,Terry McDaniel,Oakland Raiders,,,,1,,,,,
+1995,LLB,Ken Harvey,Washington Commanders,,,,1,,,,,
+1995,ROLB,Greg Lloyd,Pittsburgh Steelers,,,,1,,,,,
+1995,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,
+1995,P,Darren Bennett,San Diego Chargers,,,,1,,,,,
+1995,RDE,Pat Swilling,Oakland Raiders,,,,1,,,,,
+1995,RDE,Leslie O'Neal,San Diego Chargers,,,,1,,,,,
+1995,RDE,Charles Haley,Dallas Cowboys,,,,1,,,,,
+1995,DB,Elbert Shelley,Atlanta Falcons,,,,1,,,,,
+1995,RDT,Dan Saleaumua,Kansas City Chiefs,,,,1,,,,,
+1995,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1995,QB,Jim Harbaugh,Indianapolis Colts,,,,1,,,,,
+1995,C,Kevin Glover,Detroit Lions,,,,1,,,,,
+1995,LT,Lomas Brown,Detroit Lions,,,,1,,,,,
+1995,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1995,P,Sean Landeta,St. Louis Rams,,,,1,,,,,
+1995,RDE,Sean Jones,Green Bay Packers,,,,1,,,,,
+1995,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,
+1995,LDE,William Fuller,Philadelphia Eagles,,,,1,,,,,
+1995,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,
+1995,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1995,LG,Jesse Sapolu,San Francisco 49ers,,,,1,,,,,
+1995,C,Kent Hull,Buffalo Bills,,,,1,,,,,
+1995,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1995,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,
+1995,LG,Bruce Matthews,Houston Texans,,,,1,,,,,
+1995,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,
+1995,LDE,Reggie White,Green Bay Packers,,,,1,,,,,
+1995,QB,Steve Young,San Francisco 49ers,,,,1,,,,,
+1995,LT,Mark Tuinei,Dallas Cowboys,,,,1,,,,,
+1995,K,Norm Johnson,Pittsburgh Steelers,,,,1,,,,,
+1995,K,Morten Andersen,Atlanta Falcons,,,,1,,,,,
+1995,LILB,Sam Mills,Carolina Panthers,,,,1,,,,,
+1995,C,Bart Oates,San Francisco 49ers,,,,1,,,,,
+1994,QB,Steve Young,San Francisco 49ers,0.755,,,,,1,,,
+1994,WR,Barry Sanders,Detroit Lions,0.224,,,,,,,,
+1994,RB,Jerry Rice,San Francisco 49ers,0.01,,,,,,,,
+1994,QB,Deion Sanders,San Francisco 49ers,0.01,,,,,,,,
+1994,RCB,Deion Sanders,San Francisco 49ers,,0.398,,,,,1,,
+1994,LCB,Rod Woodson,Pittsburgh Steelers,,0.163,,,,,,,
+1994,ROLB,Greg Lloyd,Pittsburgh Steelers,,0.143,,,,,,,
+1994,RDE,Charles Haley,Dallas Cowboys,,0.122,,,,,,,
+1994,RLB,Junior Seau,San Diego Chargers,,0.082,,,,,,,
+1994,LOLB,Kevin Greene,Pittsburgh Steelers,,0.051,,,,,,,
+1994,RDE,Bruce Smith,Buffalo Bills,,0.02,,,,,,,
+1994,FS,Eric Turner,Cleveland Browns,,0.01,,,,,,,
+1994,LDE,Reggie White,Green Bay Packers,,0.01,,,,,,,
+1994,RB,Barry Sanders,Detroit Lions,,,0.541,,,,,1,
+1994,QB,Steve Young,San Francisco 49ers,,,0.418,,,,,,
+1994,WR,Jerry Rice,San Francisco 49ers,,,0.031,,,,,,
+1994,WR,Cris Carter,Minnesota Vikings,,,0.01,,,,,,
+1994,WR,Cris Carter,Minnesota Vikings,,,,1,,,,,
+1994,TE,Ben Coates,New England Patriots,,,,1,,,,,
+1994,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,
+1994,RDE,Charles Haley,Dallas Cowboys,,,,1,,,,,
+1994,ROLB,Greg Lloyd,Pittsburgh Steelers,,,,1,,,,,
+1994,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1994,RDT,John Randle,Minnesota Vikings,,,,1,,,,,
+1994,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1994,LT,Willie Roaf,New Orleans Saints,,,,1,,,,,
+1994,P,Reggie Roby,Washington Commanders,,,,1,,,,,
+1994,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1994,RCB,Deion Sanders,San Francisco 49ers,,,,1,,,,,
+1994,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,
+1994,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1994,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,
+1994,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,
+1994,SS,Darren Woodson,Dallas Cowboys,,,,1,,,,,
+1994,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,
+1994,QB,Steve Young,San Francisco 49ers,,,,1,,,,,
+1994,LOLB,Kevin Greene,Pittsburgh Steelers,,,,1,,,,,
+1994,KR,Mel Gray,Detroit Lions,,,,1,,,,,
+1994,LILB,Chris Spielman,Detroit Lions,,,,1,,,,,
+1994,K,John Carney,San Diego Chargers,,,,1,,,,,
+1994,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,
+1994,FS,Eric Turner,Cleveland Browns,,,,1,,,,,
+1994,RDT,Chester McGlockton,Los Angeles Raiders,,,,1,,,,,
+1994,FS,Merton Hanks,San Francisco 49ers,,,,1,,,,,
+1994,K,Fuad Reveiz,Minnesota Vikings,,,,1,,,,,
+1994,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,
+1994,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,
+1994,FB,Brian Mitchell,Washington Commanders,,,,1,,,,,
+1994,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,
+1994,LT,Lomas Brown,Detroit Lions,,,,1,,,,,
+1994,RB,Marshall Faulk,Indianapolis Colts,,,,1,,,,,
+1994,LLB,Ken Harvey,Washington Commanders,,,,1,,,,,
+1994,TE,Brent Jones,San Francisco 49ers,,,,1,,,,,
+1994,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,
+1994,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1994,LCB,Terry McDaniel,Los Angeles Raiders,,,,1,,,,,
+1994,RDE,Leslie O'Neal,San Diego Chargers,,,,1,,,,,
+1994,LG,Keith Sims,Miami Dolphins,,,,1,,,,,
+1994,P,Rick Tuten,Seattle Seahawks,,,,1,,,,,
+1994,RB,Chris Warren,Seattle Seahawks,,,,1,,,,,
+1994,LDE,Reggie White,Green Bay Packers,,,,1,,,,,
+1994,LLB,Bryce Paup,Green Bay Packers,,,,1,,,,,
+1994,WR,Andre Reed,Buffalo Bills,,,,1,,,,,
+1994,RB,Eric Metcalf,Cleveland Browns,,,,1,,,,,
+1994,LT,Tony Jones,Cleveland Browns,,,,1,,,,,
+1994,WR,Tim Brown,Los Angeles Raiders,,,,1,,,,,
+1994,MLB,Jack Del Rio,Minnesota Vikings,,,,1,,,,,
+1994,RDT,Dana Stubblefield,San Francisco 49ers,,,,1,,,,,
+1994,LCB,Donnell Woolford,Chicago Bears,,,,1,,,,,
+1994,WR,Irving Fryar,Miami Dolphins,,,,1,,,,,
+1994,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,
+1994,C,Mark Stepnoski,Dallas Cowboys,,,,1,,,,,
+1994,RLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1994,LCB,Aeneas Williams,Arizona Cardinals,,,,1,,,,,
+1994,WR,Andre Coleman,San Diego Chargers,,,,1,,,,,
+1994,MLB,Bryan Cox,Miami Dolphins,,,,1,,,,,
+1994,DB,Maurice Douglass,Chicago Bears,,,,1,,,,,
+1994,C,Kevin Glover,Detroit Lions,,,,1,,,,,
+1994,LCB,Darrien Gordon,San Diego Chargers,,,,1,,,,,
+1994,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,
+1994,RDT,Leon Lett,Dallas Cowboys,,,,1,,,,,
+1994,WR,Terance Mathis,Atlanta Falcons,,,,1,,,,,
+1994,QB,Troy Aikman,Dallas Cowboys,,,,1,,,,,
+1994,RCB,Eric Allen,Philadelphia Eagles,,,,1,,,,,
+1994,RB,Terry Allen,Minnesota Vikings,,,,1,,,,,
+1994,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,
+1994,QB,Drew Bledsoe,New England Patriots,,,,1,,,,,
+1994,LDT,Tim Bowens,Miami Dolphins,,,,1,,,,,
+1994,FS/LCB,Ray Buchanan,Indianapolis Colts,,,,1,,,,,
+1994,LDE,Rob Burnett,Cleveland Browns,,,,1,,,,,
+1994,FS,Mark Carrier,Chicago Bears,,,,1,,,,,
+1994,RCB,Dale Carter,Kansas City Chiefs,,,,1,,,,,
+1994,LDE,William Fuller,Philadelphia Eagles,,,,1,,,,,
+1994,C,Courtney Hall,San Diego Chargers,,,,1,,,,,
+1994,MLB,Pepper Johnson,Cleveland Browns,,,,1,,,,,
+1994,RDE,Sean Jones,Green Bay Packers,,,,1,,,,,
+1994,LLB,Seth Joyner,Arizona Cardinals,,,,1,,,,,
+1994,LG,Bob Kratch,New England Patriots,,,,1,,,,,
+1994,P,Sean Landeta,Los Angeles Rams,,,,1,,,,,
+1994,LG,Duval Love,Pittsburgh Steelers,,,,1,,,,,
+1994,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,
+1994,RB,Natrone Means,San Diego Chargers,,,,1,,,,,
+1994,K,Eddie Murray,Philadelphia Eagles,,,,1,,,,,
+1994,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,
+1994,C,Bart Oates,San Francisco 49ers,,,,1,,,,,
+1994,FS,Darren Perry,Pittsburgh Steelers,,,,1,,,,,
+1994,WR,Carl Pickens,Cincinnati Bengals,,,,1,,,,,
+1994,FS,Stanley Richard,San Diego Chargers,,,,1,,,,,
+1994,P,Tom Rouen,Denver Broncos,,,,1,,,,,
+1994,LG,Jesse Sapolu,San Francisco 49ers,,,,1,,,,,
+1994,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,
+1994,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,
+1994,RG,Lance Smith,New York Giants,,,,1,,,,,
+1994,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,
+1994,K,Matt Stover,Cleveland Browns,,,,1,,,,,
+1994,LDT,Henry Thomas,Minnesota Vikings,,,,1,,,,,
+1994,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,
+1994,MLB,Jessie Tuggle,Atlanta Falcons,,,,1,,,,,
+1994,LT,Mark Tuinei,Dallas Cowboys,,,,1,,,,,
+1994,LT,Steve Wallace,San Francisco 49ers,,,,1,,,,,
+1994,RB,Ricky Watters,San Francisco 49ers,,,,1,,,,,
+1994,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,
+1993,RB,Emmitt Smith,Dallas Cowboys,0.321,,,,,1,,,
+1993,QB,Steve Young,San Francisco 49ers,0.259,,,,,,,,
+1993,WR,Jerry Rice,San Francisco 49ers,0.185,,,,,,,,
+1993,QB,John Elway,Denver Broncos,0.123,,,,,,,,
+1993,QB,Troy Aikman,Dallas Cowboys,0.037,,,,,,,,
+1993,RB,Marcus Allen,Kansas City Chiefs,0.025,,,,,,,,
+1993,QB,Warren Moon,Houston Oilers,0.025,,,,,,,,
+1993,WR,Sterling Sharpe,Green Bay Packers,0.012,,,,,,,,
+1993,QB,Phil Simms,New York Giants,0.012,,,,,,,,
+1993,LCB,Rod Woodson,Pittsburgh Steelers,,0.432,,,,,1,,
+1993,LDE,Reggie White,Green Bay Packers,,0.148,,,,,,,
+1993,RCB,Deion Sanders,Atlanta Falcons,,0.111,,,,,,,
+1993,RDE,Bruce Smith,Buffalo Bills,,0.111,,,,,,,
+1993,LDE,Neil Smith,Kansas City Chiefs,,0.086,,,,,,,
+1993,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,0.049,,,,,,,
+1993,RCB,Nate Odomes,Buffalo Bills,,0.025,,,,,,,
+1993,RCB,Eric Allen,Philadelphia Eagles,,0.012,,,,,,,
+1993,MLB,Dante Jones,Chicago Bears,,0.012,,,,,,,
+1993,RDT,Cortez Kennedy,Seattle Seahawks,,0.012,,,,,,,
+1993,WR,Jerry Rice,San Francisco 49ers,,,0.346,,,,,1,
+1993,QB,Steve Young,San Francisco 49ers,,,0.259,,,,,,
+1993,RB,Emmitt Smith,Dallas Cowboys,,,0.148,,,,,,
+1993,QB,John Elway,Denver Broncos,,,0.123,,,,,,
+1993,WR,Sterling Sharpe,Green Bay Packers,,,0.111,,,,,,
+1993,QB,Troy Aikman,Dallas Cowboys,,,0.012,,,,,,
+1993,RB,Jerome Bettis,Los Angeles Rams,,,,1,,,,,
+1993,RDT,Sean Gilbert,Los Angeles Rams,,,,1,,,,,
+1993,K,Jason Hanson,Detroit Lions,,,,1,,,,,
+1993,DB,Tyrone Hughes,New Orleans Saints,,,,1,,,,,
+1993,WR,O.J. McDuffie,Miami Dolphins,,,,1,,,,,
+1993,FS,Marcus Robertson,Houston Texans,,,,1,,,,,
+1993,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,
+1993,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,
+1993,RT,Erik Williams,Dallas Cowboys,,,,1,,,,,
+1993,SS,LeRoy Butler,Green Bay Packers,,,,1,,,,,
+1993,TE,Shannon Sharpe,Denver Broncos,,,,1,,,,,
+1993,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,
+1993,RB,Eric Metcalf,Cleveland Browns,,,,1,,,,,
+1993,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1993,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,
+1993,ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1993,C,Mark Stepnoski,Dallas Cowboys,,,,1,,,,,
+1993,RDT,John Randle,Minnesota Vikings,,,,1,,,,,
+1993,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,
+1993,RCB,Deion Sanders,Atlanta Falcons,,,,1,,,,,
+1993,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,
+1993,FS,Steve Atwater,Denver Broncos,,,,1,,,,,
+1993,WR,Tim Brown,Los Angeles Raiders,,,,1,,,,,
+1993,QB,Troy Aikman,Dallas Cowboys,,,,1,,,,,
+1993,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,
+1993,ROLB,Renaldo Turnbull,New Orleans Saints,,,,1,,,,,
+1993,LDE,Neil Smith,Kansas City Chiefs,,,,1,,,,,
+1993,K,Chris Jacke,Green Bay Packers,,,,1,,,,,
+1993,ILB,Ken Norton Jr.,Dallas Cowboys,,,,1,,,,,
+1993,WR,Michael Irvin,Dallas Cowboys,,,,1,,,,,
+1993,LILB,Vincent Brown,New England Patriots,,,,1,,,,,
+1993,LT,John Jackson,Pittsburgh Steelers,,,,1,,,,,
+1993,LCB,Terry McDaniel,Los Angeles Raiders,,,,1,,,,,
+1993,RCB,Nate Odomes,Buffalo Bills,,,,1,,,,,
+1993,WR,Anthony Miller,San Diego Chargers,,,,1,,,,,
+1993,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,
+1993,SS,Tim McDonald,San Francisco 49ers,,,,1,,,,,
+1993,RCB,Eric Allen,Philadelphia Eagles,,,,1,,,,,
+1993,ROLB,Greg Lloyd,Pittsburgh Steelers,,,,1,,,,,
+1993,MLB,Hardy Nickerson,Tampa Bay Buccaneers,,,,1,,,,,
+1993,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,
+1993,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,
+1993,DT,Henry Thomas,Minnesota Vikings,,,,1,,,,,
+1993,C,Dermontti Dawson,Pittsburgh Steelers,,,,1,,,,,
+1993,DB,Elbert Shelley,Atlanta Falcons,,,,1,,,,,
+1993,RILB,Michael Brooks,New York Giants,,,,1,,,,,
+1993,LLB,Seth Joyner,Philadelphia Eagles,,,,1,,,,,
+1993,RT,Harris Barton,San Francisco 49ers,,,,1,,,,,
+1993,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1993,P,Greg Montgomery,Houston Texans,,,,1,,,,,
+1993,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,
+1993,TE,Brent Jones,San Francisco 49ers,,,,1,,,,,
+1993,FS,Eugene Robinson,Seattle Seahawks,,,,1,,,,,
+1993,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1993,LDT,Ray Childress,Houston Texans,,,,1,,,,,
+1993,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,
+1993,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1993,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,
+1993,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,
+1993,LT,Gary Zimmerman,Denver Broncos,,,,1,,,,,
+1993,KR,Mel Gray,Detroit Lions,,,,1,,,,,
+1993,RG,Chris Hinton,Atlanta Falcons,,,,1,,,,,
+1993,LDE,Reggie White,Green Bay Packers,,,,1,,,,,
+1993,QB,Steve Young,San Francisco 49ers,,,,1,,,,,
+1993,C,Bruce Matthews,Houston Texans,,,,1,,,,,
+1993,RDE,Richard Dent,Chicago Bears,,,,1,,,,,
+1993,RB,Marcus Allen,Kansas City Chiefs,,,,1,,,,,
+1993,QB,John Elway,Denver Broncos,,,,1,,,,,
+1993,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1993,ROLB,Darryl Talley,Buffalo Bills,,,,1,,,,,
+1993,K,Norm Johnson,Atlanta Falcons,,,,1,,,,,
+1993,K,Gary Anderson,Pittsburgh Steelers,,,,1,,,,,
+1993,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,
+1993,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,
+1992,RB,Emmitt Smith,Dallas Cowboys,0.321,,,,,,,,
+1992,QB,Steve Young,San Francisco 49ers,0.259,,,,,,,,
+1992,WR,Jerry Rice,San Francisco 49ers,0.185,,,,,,,,
+1992,QB,John Elway,Denver Broncos,0.123,,,,,,,,
+1992,QB,Troy Aikman,Dallas Cowboys,0.037,,,,,,,,
+1992,RB,Marcus Allen,Kansas City Chiefs,0.025,,,,,,,,
+1992,QB,Warren Moon,Houston Oilers,0.025,,,,,,,,
+1992,WR,Sterling Sharpe,Green Bay Packers,0.012,,,,,,,,
+1992,QB,Phil Simms,New York Giants,0.012,,,,,,,,
+1992,QB,Steve Young,San Francisco 49ers,0.7,,,,,1,,,
+1992,RB,Barry Foster,Pittsburgh Steelers,0.138,,,,,,,,
+1992,RB,Emmitt Smith,Dallas Cowboys,0.125,,,,,,,,
+1992,WR,Sterling Sharpe,Green Bay Packers,0.025,,,,,,,,
+1992,RDT,Cortez Kennedy,Seattle Seahawks,0.013,,,,,,,,
+1992,RDT,Cortez Kennedy,Seattle Seahawks,,0.413,,,,,1,,
+1992,RLB,Junior Seau,San Diego Chargers,,0.15,,,,,,,
+1992,LLB,Wilber Marshall,Washington Redskins,,0.075,,,,,,,
+1992,RDE,Clyde Simmons,Philadelphia Eagles,,0.075,,,,,,,
+1992,LOLB,Rickey Jackson,New Orleans Saints,,0.038,,,,,,,
+1992,RDE,Leslie O'Neal,San Diego Chargers,,0.038,,,,,,,
+1992,RDE,Bruce Smith,Buffalo Bills,,0.038,,,,,,,
+1992,LDT,Ray Childress,Houston Oilers,,0.025,,,,,,,
+1992,RDE,Chris Doleman,Minnesota Vikings,,0.025,,,,,,,
+1992,LDE,Wayne Martin,New Orleans Saints,,0.025,,,,,,,
+1992,RCB,Audray McMillian,Minnesota Vikings,,0.025,,,,,,,
+1992,LDE,Reggie White,Philadelphia Eagles,,0.025,,,,,,,
+1992,ROLB,Bryan Cox,Miami Dolphins,,0.013,,,,,,,
+1992,RDE,Charles Haley,Dallas Cowboys,,0.013,,,,,,,
+1992,LLB,Seth Joyner,Philadelphia Eagles,,0.013,,,,,,,
+1992,ROLB,Pat Swilling,New Orleans Saints,,0.013,,,,,,,
+1992,QB,Steve Young,San Francisco 49ers,,,0.35,,,,,1,
+1992,RB,Barry Foster,Pittsburgh Steelers,,,0.3,,,,,,
+1992,RB,Emmitt Smith,Dallas Cowboys,,,0.213,,,,,,
+1992,WR,Sterling Sharpe,Green Bay Packers,,,0.075,,,,,,
+1992,RB,Thurman Thomas,Buffalo Bills,,,0.038,,,,,,
+1992,QB,Jim Kelly,Buffalo Bills,,,0.013,,,,,,
+1992,RB,Ricky Watters,San Francisco 49ers,,,0.013,,,,,,
+1992,RB,Jon Vaughn,New England Patriots,,,,1,,,,,
+1992,SS,Todd Scott,Minnesota Vikings,,,,1,,,,,
+1992,ROLB,Bryan Cox,Miami Dolphins,,,,1,,,,,
+1992,SS,Henry Jones,Buffalo Bills,,,,1,,,,,
+1992,TE,Jackie Harris,Green Bay Packers,,,,1,,,,,
+1992,RB,Johnny Bailey,Phoenix Cardinals,,,,1,,,,,
+1992,RG,Carlton Haselrig,Pittsburgh Steelers,,,,1,,,,,
+1992,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,
+1992,RLB,Junior Seau,San Diego Chargers,,,,1,,,,,
+1992,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,
+1992,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,
+1992,RB,Barry Foster,Pittsburgh Steelers,,,,1,,,,,
+1992,LDE,Wayne Martin,New Orleans Saints,,,,1,,,,,
+1992,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,
+1992,FS,Louis Oliver,Miami Dolphins,,,,1,,,,,
+1992,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1992,C,Mark Stepnoski,Dallas Cowboys,,,,1,,,,,
+1992,RLB/ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1992,K,Pete Stoyanovich,Miami Dolphins,,,,1,,,,,
+1992,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,
+1992,RCB,Deion Sanders,Atlanta Falcons,,,,1,,,,,
+1992,FS,Steve Atwater,Denver Broncos,,,,1,,,,,
+1992,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,
+1992,FS,Bennie Blades,Detroit Lions,,,,1,,,,,
+1992,RG,David Richards,San Diego Chargers,,,,1,,,,,
+1992,LCB,Terry McDaniel,Los Angeles Raiders,,,,1,,,,,
+1992,P,Greg Montgomery,Houston Texans,,,,1,,,,,
+1992,FS,Chuck Cecil,Green Bay Packers,,,,1,,,,,
+1992,LILB,Vincent Brown,New England Patriots,,,,1,,,,,
+1992,RCB,Eric Allen,Philadelphia Eagles,,,,1,,,,,
+1992,WR,Anthony Miller,San Diego Chargers,,,,1,,,,,
+1992,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,
+1992,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,
+1992,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,
+1992,LDE,Pierce Holt,San Francisco 49ers,,,,1,,,,,
+1992,TE,Keith Jackson,Miami Dolphins,,,,1,,,,,
+1992,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1992,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,
+1992,ILB,Chris Spielman,Detroit Lions,,,,1,,,,,
+1992,T,Neil Smith,Kansas City Chiefs,,,,1,,,,,
+1992,T,Paul Gruber,Tampa Bay Buccaneers,,,,1,,,,,
+1992,WR,Michael Irvin,Dallas Cowboys,,,,1,,,,,
+1992,LCB,Ricky Reynolds,Tampa Bay Buccaneers,,,,1,,,,,
+1992,LDT,Henry Thomas,Minnesota Vikings,,,,1,,,,,
+1992,DB,Elbert Shelley,Atlanta Falcons,,,,1,,,,,
+1992,MLB,Byron Evans,Philadelphia Eagles,,,,1,,,,,
+1992,WR,Haywood Jeffires,Houston Texans,,,,1,,,,,
+1992,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,
+1992,TE,Brent Jones,San Francisco 49ers,,,,1,,,,,
+1992,WR,Kelvin Martin,Dallas Cowboys,,,,1,,,,,
+1992,MLB,Al Smith,Houston Texans,,,,1,,,,,
+1992,SS,Tim McDonald,Phoenix Cardinals,,,,1,,,,,
+1992,RT,Harris Barton,San Francisco 49ers,,,,1,,,,,
+1992,LCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,
+1992,LT,Will Wolford,Buffalo Bills,,,,1,,,,,
+1992,RB,Vai Sikahema,Philadelphia Eagles,,,,1,,,,,
+1992,RG,Derek Kennard,New Orleans Saints,,,,1,,,,,
+1992,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,
+1992,LG,Nate Newton,Dallas Cowboys,,,,1,,,,,
+1992,WR,Clarence Verdin,Indianapolis Colts,,,,1,,,,,
+1992,RDE,Leslie O'Neal,San Diego Chargers,,,,1,,,,,
+1992,LT,Gary Zimmerman,Minnesota Vikings,,,,1,,,,,
+1992,LT,Steve Wallace,San Francisco 49ers,,,,1,,,,,
+1992,LILB,Sam Mills,New Orleans Saints,,,,1,,,,,
+1992,KR,Mel Gray,Detroit Lions,,,,1,,,,,
+1992,OLB,Seth Joyner,Philadelphia Eagles,,,,1,,,,,
+1992,OLB,Pat Swilling,New Orleans Saints,,,,1,,,,,
+1992,DE,Clyde Simmons,Philadelphia Eagles,,,,1,,,,,
+1992,QB,Jim Kelly,Buffalo Bills,,,,1,,,,,
+1992,C,Kirk Lowdermilk,Minnesota Vikings,,,,1,,,,,
+1992,LT,Lomas Brown,Detroit Lions,,,,1,,,,,
+1992,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,
+1992,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1992,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,
+1992,RCB,Audray McMillian,Minnesota Vikings,,,,1,,,,,
+1992,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,
+1992,LDT,Ray Childress,Houston Texans,,,,1,,,,,
+1992,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1992,QB,Steve Young,San Francisco 49ers,,,,1,,,,,
+1992,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,
+1992,DT,Greg Kragen,Denver Broncos,,,,1,,,,,
+1992,QB,Randall Cunningham,Philadelphia Eagles,,,,1,,,,,
+1992,LG,Guy McIntyre,San Francisco 49ers,,,,1,,,,,
+1992,LLB,Wilber Marshall,Washington Commanders,,,,1,,,,,
+1992,LCB,Carl Lee,Minnesota Vikings,,,,1,,,,,
+1992,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1992,LCB,Gill Byrd,San Diego Chargers,,,,1,,,,,
+1992,C,Bruce Matthews,Houston Texans,,,,1,,,,,
+1992,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1992,P,Rohn Stark,Indianapolis Colts,,,,1,,,,,
+1992,K,Morten Andersen,New Orleans Saints,,,,1,,,,,
+1992,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,
+1992,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,
+1991,RB,Thurman Thomas,Buffalo Bills,0.476,,,,,1,,,
+1991,QB,Jim Kelly,Buffalo Bills,0.22,,,,,,,,
+1991,RB,Barry Sanders,Detroit Lions,0.195,,,,,,,,
+1991,QB,Mark Rypien,Washington Redskins,0.098,,,,,,,,
+1991,LLB,Seth Joyner,Philadelphia Eagles,0.012,,,,,,,,
+1991,ROLB,Pat Swilling,New Orleans Saints,,0.329,,,,,1,,
+1991,LLB,Seth Joyner,Philadelphia Eagles,,0.22,,,,,,,
+1991,LDE,Reggie White,Philadelphia Eagles,,0.195,,,,,,,
+1991,SS,Ronnie Lott,Los Angeles Raiders,,0.085,,,,,,,
+1991,ROLB,Derrick Thomas,Kansas City Chiefs,,0.085,,,,,,,
+1991,LOLB,Cornelius Bennett,Buffalo Bills,,0.024,,,,,,,
+1991,LLB,Wilber Marshall,Washington Redskins,,0.024,,,,,,,
+1991,RDT,Jerome Brown,Philadelphia Eagles,,0.012,,,,,,,
+1991,LILB,Sam Mills,New Orleans Saints,,0.012,,,,,,,
+1991,RDE,Clyde Simmons,Philadelphia Eagles,,0.012,,,,,,,
+1991,RB,Thurman Thomas,Buffalo Bills,,,0.573,,,,,1,
+1991,QB,Jim Kelly,Buffalo Bills,,,0.183,,,,,,
+1991,RB,Barry Sanders,Detroit Lions,,,0.146,,,,,,
+1991,QB,Mark Rypien,Washington Redskins,,,0.085,,,,,,
+1991,WR,Michael Irvin,Dallas Cowboys,,,0.012,,,,,,
+1991,RDT,Cortez Kennedy,Seattle Seahawks,,,,1,,,,,
+1991,WR,Nate Lewis,San Diego Chargers,,,,1,,,,,
+1991,RILB,Junior Seau,San Diego Chargers,,,,1,,,,,
+1991,RB,Emmitt Smith,Dallas Cowboys,,,,1,,,,,
+1991,FS,Mark Carrier,Chicago Bears,,,,1,,,,,
+1991,KR,Brian Mitchell,Washington Commanders,,,,1,,,,,
+1991,RDE,Jeff Lageman,New York Jets,,,,1,,,,,
+1991,DB,Bennie Thompson,New Orleans Saints,,,,1,,,,,
+1991,K,Pete Stoyanovich,Miami Dolphins,,,,1,,,,,
+1991,RCB,Deion Sanders,Atlanta Falcons,,,,1,,,,,
+1991,ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1991,FS,Steve Atwater,Denver Broncos,,,,1,,,,,
+1991,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1991,TE,Marv Cook,New England Patriots,,,,1,,,,,
+1991,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,
+1991,S,Bubba McDowell,Houston Texans,,,,1,,,,,
+1991,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,
+1991,LT,Paul Gruber,Tampa Bay Buccaneers,,,,1,,,,,
+1991,RB,Gaston Green,Denver Broncos,,,,1,,,,,
+1991,WR,Tim Brown,Los Angeles Raiders,,,,1,,,,,
+1991,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,
+1991,RILB,Vincent Brown,New England Patriots,,,,1,,,,,
+1991,FS,Bennie Blades,Detroit Lions,,,,1,,,,,
+1991,QB,Mark Rypien,Washington Commanders,,,,1,,,,,
+1991,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,
+1991,K,Chip Lohmiller,Washington Commanders,,,,1,,,,,
+1991,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1991,LCB,Cris Dishman,Houston Texans,,,,1,,,,,
+1991,WR,Michael Irvin,Dallas Cowboys,,,,1,,,,,
+1991,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,
+1991,CB,Eric Allen,Philadelphia Eagles,,,,1,,,,,
+1991,ILB,Chris Spielman,Detroit Lions,,,,1,,,,,
+1991,RCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,
+1991,RCB,Nate Odomes,Buffalo Bills,,,,1,,,,,
+1991,RILB,Jessie Tuggle,Atlanta Falcons,,,,1,,,,,
+1991,FB,Christian Okoye,Kansas City Chiefs,,,,1,,,,,
+1991,SS,Tim McDonald,Phoenix Cardinals,,,,1,,,,,
+1991,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,
+1991,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,
+1991,MLB,Al Smith,Houston Texans,,,,1,,,,,
+1991,WR,Haywood Jeffires,Houston Texans,,,,1,,,,,
+1991,K,Jeff Jaeger,Los Angeles Raiders,,,,1,,,,,
+1991,NT,Jerry Ball,Detroit Lions,,,,1,,,,,
+1991,RDT,Jerome Brown,Philadelphia Eagles,,,,1,,,,,
+1991,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,
+1991,LDE,William Fuller,Houston Texans,,,,1,,,,,
+1991,C,Kent Hull,Buffalo Bills,,,,1,,,,,
+1991,LLB,Seth Joyner,Philadelphia Eagles,,,,1,,,,,
+1991,KR,Mel Gray,Detroit Lions,,,,1,,,,,
+1991,LILB,Sam Mills,New Orleans Saints,,,,1,,,,,
+1991,RDE,Clyde Simmons,Philadelphia Eagles,,,,1,,,,,
+1991,ROLB,Pat Swilling,New Orleans Saints,,,,1,,,,,
+1991,QB,Jim Kelly,Buffalo Bills,,,,1,,,,,
+1991,LG,Raleigh McKenzie,Washington Commanders,,,,1,,,,,
+1991,NT,Greg Kragen,Denver Broncos,,,,1,,,,,
+1991,WR,Gary Clark,Washington Commanders,,,,1,,,,,
+1991,WR,Andre Reed,Buffalo Bills,,,,1,,,,,
+1991,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,
+1991,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,
+1991,LDT,Ray Childress,Houston Texans,,,,1,,,,,
+1991,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1991,LT,Jim Lachey,Washington Commanders,,,,1,,,,,
+1991,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,
+1991,T,Lomas Brown,Detroit Lions,,,,1,,,,,
+1991,LT,John Alt,Kansas City Chiefs,,,,1,,,,,
+1991,SS,Andre Waters,Philadelphia Eagles,,,,1,,,,,
+1991,LLB,Wilber Marshall,Washington Commanders,,,,1,,,,,
+1991,LG,Guy McIntyre,San Francisco 49ers,,,,1,,,,,
+1991,RB,Earnest Byner,Washington Commanders,,,,1,,,,,
+1991,LCB,Gill Byrd,San Diego Chargers,,,,1,,,,,
+1991,P,Reggie Roby,Miami Dolphins,,,,1,,,,,
+1991,C,Don Mosebar,Los Angeles Raiders,,,,1,,,,,
+1991,RDE,Greg Townsend,Los Angeles Raiders,,,,1,,,,,
+1991,C,Bruce Matthews,Houston Texans,,,,1,,,,,
+1991,RCB,Darrell Green,Washington Commanders,,,,1,,,,,
+1991,MLB,Karl Mecklenburg,Denver Broncos,,,,1,,,,,
+1991,DE,Charles Mann,Washington Commanders,,,,1,,,,,
+1991,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1991,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,
+1991,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,
+1991,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1991,SS,Ronnie Lott,Los Angeles Raiders,,,,1,,,,,
+1991,P,Jeff Gossett,Los Angeles Raiders,,,,1,,,,,
+1991,DT,Steve McMichael,Chicago Bears,,,,1,,,,,
+1991,G,Jim Ritcher,Buffalo Bills,,,,1,,,,,
+1991,T,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1991,LT,Mike Kenn,Atlanta Falcons,,,,1,,,,,
+1990,QB,Joe Montana,San Francisco 49ers,0.325,,,,,1,,,
+1990,QB,Randall Cunningham,Philadelphia Eagles,0.225,,,,,,,,
+1990,QB,Warren Moon,Houston Oilers,0.2,,,,,,,,
+1990,RDE,Bruce Smith,Buffalo Bills,0.138,,,,,,,,
+1990,QB,Jim Kelly,Buffalo Bills,0.063,,,,,,,,
+1990,QB,Steve DeBerg,Kansas City Chiefs,0.038,,,,,,,,
+1990,WR,Jerry Rice,San Francisco 49ers,0.013,,,,,,,,
+1990,RDE,Bruce Smith,Buffalo Bills,,0.9,,,,,1,,
+1990,ROLB,Derrick Thomas,Kansas City Chiefs,,0.063,,,,,,,
+1990,LOLB,Charles Haley,San Francisco 49ers,,0.013,,,,,,,
+1990,RILB,Vaughan Johnson,New Orleans Saints,,0.013,,,,,,,
+1990,FS,Ronnie Lott,San Francisco 49ers,,0.013,,,,,,,
+1990,QB,Warren Moon,Houston Oilers,,,0.538,,,,,1,
+1990,QB,Randall Cunningham,Philadelphia Eagles,,,0.175,,,,,,
+1990,QB,Joe Montana,San Francisco 49ers,,,0.088,,,,,,
+1990,RB,Barry Sanders,Detroit Lions,,,0.088,,,,,,
+1990,WR,Jerry Rice,San Francisco 49ers,,,0.063,,,,,,
+1990,RB,Neal Anderson,Chicago Bears,,,0.025,,,,,,
+1990,QB,Jim Kelly,Buffalo Bills,,,0.025,,,,,,
+1990,T,Luis Sharpe,Phoenix Cardinals,,,,1,,,,,
+1990,SS,Joey Browner,Minnesota Vikings,,,,1,,,,,
+1990,C,Kent Hull,Buffalo Bills,,,,1,,,,,
+1990,TE,Keith Jackson,Philadelphia Eagles,,,,1,,,,,
+1990,RILB,Pepper Johnson,New York Giants,,,,1,,,,,
+1990,LT,Jim Lachey,Washington Commanders,,,,1,,,,,
+1990,P,Sean Landeta,New York Giants,,,,1,,,,,
+1990,K,Nick Lowery,Kansas City Chiefs,,,,1,,,,,
+1990,RG,Bruce Matthews,Houston Texans,,,,1,,,,,
+1990,LILB,John Offerdahl,Miami Dolphins,,,,1,,,,,
+1990,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,
+1990,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1990,WR,Andre Rison,Atlanta Falcons,,,,1,,,,,
+1990,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1990,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1990,ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1990,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,
+1990,RCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,
+1990,KR,Mel Gray,Detroit Lions,,,,1,,,,,
+1990,LOLB,Charles Haley,San Francisco 49ers,,,,1,,,,,
+1990,LCB,Albert Lewis,Kansas City Chiefs,,,,1,,,,,
+1990,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1990,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,
+1990,LG,Steve Wisniewski,Los Angeles Raiders,,,,1,,,,,
+1990,FS,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1990,RB,Dave Meggett,New York Giants,,,,1,,,,,
+1990,RDE,Greg Townsend,Los Angeles Raiders,,,,1,,,,,
+1990,QB,Randall Cunningham,Philadelphia Eagles,,,,1,,,,,
+1990,LDT,Ray Childress,Houston Texans,,,,1,,,,,
+1990,FS,Mark Carrier,Chicago Bears,,,,1,,,,,
+1990,RCB,Darrell Green,Washington Commanders,,,,1,,,,,
+1990,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1990,QB,Warren Moon,Houston Texans,,,,1,,,,,
+1990,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,
+1990,RDT,Jerome Brown,Philadelphia Eagles,,,,1,,,,,
+1990,WR,Clarence Verdin,Indianapolis Colts,,,,1,,,,,
+1990,LG,Mark Bortz,Chicago Bears,,,,1,,,,,
+1990,NT,Dan Saleaumua,Kansas City Chiefs,,,,1,,,,,
+1990,ROLB,Darryl Talley,Buffalo Bills,,,,1,,,,,
+1990,LT,John Alt,Kansas City Chiefs,,,,1,,,,,
+1990,DB,Reyna Thompson,New York Giants,,,,1,,,,,
+1990,RB,Neal Anderson,Chicago Bears,,,,1,,,,,
+1990,RB,Marion Butts,San Diego Chargers,,,,1,,,,,
+1990,TE,Rodney Holman,Cincinnati Bengals,,,,1,,,,,
+1990,WR,Andre Reed,Buffalo Bills,,,,1,,,,,
+1990,P,Rohn Stark,Indianapolis Colts,,,,1,,,,,
+1990,FS,Steve Atwater,Denver Broncos,,,,1,,,,,
+1990,RDE,Richard Dent,Chicago Bears,,,,1,,,,,
+1990,SS,David Fulcher,Cincinnati Bengals,,,,1,,,,,
+1990,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,
+1990,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1990,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1990,K,Steve Christie,Tampa Bay Buccaneers,,,,1,,,,,
+1990,RILB,David Little,Pittsburgh Steelers,,,,1,,,,,
+1990,NT,Jerry Ball,Detroit Lions,,,,1,,,,,
+1990,LT,Bruce Armstrong,New England Patriots,,,,1,,,,,
+1990,WR,Anthony Miller,San Diego Chargers,,,,1,,,,,
+1990,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,
+1990,LT,Lomas Brown,Detroit Lions,,,,1,,,,,
+1990,WR,Ernest Givins,Houston Texans,,,,1,,,,,
+1990,RCB,Wayne Haddix,Tampa Bay Buccaneers,,,,1,,,,,
+1990,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,
+1990,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,
+1990,LCB,Mark Collins,New York Giants,,,,1,,,,,
+1990,LG,Guy McIntyre,San Francisco 49ers,,,,1,,,,,
+1990,ROLB,Mike Cofer,Detroit Lions,,,,1,,,,,
+1990,LILB,Shane Conlan,Buffalo Bills,,,,1,,,,,
+1990,RDE,Jeff Cross,Miami Dolphins,,,,1,,,,,
+1990,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,
+1990,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,
+1990,QB,Jim Kelly,Buffalo Bills,,,,1,,,,,
+1990,SS,Tim McDonald,Phoenix Cardinals,,,,1,,,,,
+1990,LCB,Tim McKyer,Miami Dolphins,,,,1,,,,,
+1990,C,Don Mosebar,Los Angeles Raiders,,,,1,,,,,
+1990,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1990,ROLB,Leslie O'Neal,San Diego Chargers,,,,1,,,,,
+1990,RCB,Kevin Ross,Kansas City Chiefs,,,,1,,,,,
+1990,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,
+1990,K,Pete Stoyanovich,Miami Dolphins,,,,1,,,,,
+1990,ROLB,Pat Swilling,New Orleans Saints,,,,1,,,,,
+1990,RT,Howard Ballard,Buffalo Bills,,,,1,,,,,
+1990,RB,James Brooks,Cincinnati Bengals,,,,1,,,,,
+1990,RB,Keith Byars,Philadelphia Eagles,,,,1,,,,,
+1990,RB,Earnest Byner,Washington Commanders,,,,1,,,,,
+1990,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,
+1990,WR,Gary Clark,Washington Commanders,,,,1,,,,,
+1990,LT,Jimbo Covert,Chicago Bears,,,,1,,,,,
+1990,RDE,Kevin Fagan,San Francisco 49ers,,,,1,,,,,
+1990,TE,Eric Green,Pittsburgh Steelers,,,,1,,,,,
+1990,RCB,Don Griffin,San Francisco 49ers,,,,1,,,,,
+1990,LILB,Jeff Herrod,Indianapolis Colts,,,,1,,,,,
+1990,WR,Drew Hill,Houston Texans,,,,1,,,,,
+1990,LCB,Issiac Holt,Dallas Cowboys,,,,1,,,,,
+1990,P,Mike Horan,Denver Broncos,,,,1,,,,,
+1990,RB,Bo Jackson,Los Angeles Raiders,,,,1,,,,,
+1990,K,Chris Jacke,Green Bay Packers,,,,1,,,,,
+1990,SS,Carnell Lake,Pittsburgh Steelers,,,,1,,,,,
+1990,MLB,Eugene Lockhart,Dallas Cowboys,,,,1,,,,,
+1990,LDE,Howie Long,Los Angeles Raiders,,,,1,,,,,
+1990,LG,Tom Newberry,Los Angeles Rams,,,,1,,,,,
+1990,TE,Jay Novacek,Dallas Cowboys,,,,1,,,,,
+1990,C,Bart Oates,New York Giants,,,,1,,,,,
+1990,FS,Louis Oliver,Miami Dolphins,,,,1,,,,,
+1990,LG,Jim Ritcher,Buffalo Bills,,,,1,,,,,
+1990,LT,Richmond Webb,Miami Dolphins,,,,1,,,,,
+1990,LCB,Gill Byrd,San Diego Chargers,,,,1,,,,,
+1990,K,John Carney,TRADE,,,,1,,,,,
+1990,MLB,Byron Evans,Philadelphia Eagles,,,,1,,,,,
+1989,QB,Joe Montana,San Francisco 49ers,0.886,,,,,1,,,
+1989,QB,Don Majkowski,Green Bay Packers,0.086,,,,,,,,
+1989,RDT,Keith Millard,Minnesota Vikings,0.029,,,,,,,,
+1989,RDT,Keith Millard,Minnesota Vikings,,0.493,,,,,1,,
+1989,ROLB,Tim Harris,Green Bay Packers,,0.246,,,,,,,
+1989,RDE,Chris Doleman,Minnesota Vikings,,0.172,,,,,,,
+1989,LDE,Reggie White,Philadelphia Eagles,,0.06,,,,,,,
+1989,RDE,Bruce Smith,Buffalo Bills,,0.015,,,,,,,
+1989,SS,Dennis Smith,Denver Broncos,,0.015,,,,,,,
+1989,QB,Joe Montana,San Francisco 49ers,,,0.754,,,,,1,
+1989,WR,Jerry Rice,San Francisco 49ers,,,0.119,,,,,,
+1989,QB,Don Majkowski,Green Bay Packers,,,0.09,,,,,,
+1989,FB,Christian Okoye,Kansas City Chiefs,,,0.037,,,,,,
+1989,T,Tim McDonald,Phoenix Cardinals,,,,1,,,,,
+1989,T,Joey Browner,Minnesota Vikings,,,,1,,,,,
+1989,MLB,Eugene Lockhart,Dallas Cowboys,,,,1,,,,,
+1989,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,
+1989,ROLB,Tim Harris,Green Bay Packers,,,,1,,,,,
+1989,LCB,Albert Lewis,Kansas City Chiefs,,,,1,,,,,
+1989,RDT,Keith Millard,Minnesota Vikings,,,,1,,,,,
+1989,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1989,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1989,WR,Sterling Sharpe,Green Bay Packers,,,,1,,,,,
+1989,SS,David Fulcher,Cincinnati Bengals,,,,1,,,,,
+1989,LG,Tom Newberry,Los Angeles Rams,,,,1,,,,,
+1989,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,
+1989,P,Sean Landeta,New York Giants,,,,1,,,,,
+1989,RDT,Michael Dean Perry,Cleveland Browns,,,,1,,,,,
+1989,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1989,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,
+1989,RG,Bruce Matthews,Houston Texans,,,,1,,,,,
+1989,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1989,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1989,TE,Rodney Holman,Cincinnati Bengals,,,,1,,,,,
+1989,K,Eddie Murray,Detroit Lions,,,,1,,,,,
+1989,K,Mike Cofer,San Francisco 49ers,,,,1,,,,,
+1989,LOLB,Kevin Greene,Los Angeles Rams,,,,1,,,,,
+1989,C,Kent Hull,Buffalo Bills,,,,1,,,,,
+1989,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,
+1989,RB,Thurman Thomas,Buffalo Bills,,,,1,,,,,
+1989,LDE,Lee Williams,San Diego Chargers,,,,1,,,,,
+1989,P,Greg Montgomery,Houston Texans,,,,1,,,,,
+1989,LCB,Jerry Gray,Los Angeles Rams,,,,1,,,,,
+1989,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,
+1989,NT,Jerry Ball,Detroit Lions,,,,1,,,,,
+1989,LB,Rufus Porter,Seattle Seahawks,,,,1,,,,,
+1989,WR,Andre Reed,Buffalo Bills,,,,1,,,,,
+1989,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1989,LT,Gary Zimmerman,Minnesota Vikings,,,,1,,,,,
+1989,K,Mike Lansford,Los Angeles Rams,,,,1,,,,,
+1989,RB,Neal Anderson,Chicago Bears,,,,1,,,,,
+1989,MLB,Mike Johnson,Cleveland Browns,,,,1,,,,,
+1989,ROLB,Leslie O'Neal,San Diego Chargers,,,,1,,,,,
+1989,ROLB,Derrick Thomas,Kansas City Chiefs,,,,1,,,,,
+1989,K,David Treadwell,Denver Broncos,,,,1,,,,,
+1989,RB,Dave Meggett,New York Giants,,,,1,,,,,
+1989,LCB,Mark Collins,New York Giants,,,,1,,,,,
+1989,LG,Rich Moran,Green Bay Packers,,,,1,,,,,
+1989,LCB,Gill Byrd,San Diego Chargers,,,,1,,,,,
+1989,LCB,Frank Minnifield,Cleveland Browns,,,,1,,,,,
+1989,QB,Boomer Esiason,Cincinnati Bengals,,,,1,,,,,
+1989,WR,Anthony Miller,San Diego Chargers,,,,1,,,,,
+1989,FS,Erik McMillan,New York Jets,,,,1,,,,,
+1989,WR,Webster Slaughter,Cleveland Browns,,,,1,,,,,
+1989,WR,Clarence Verdin,Indianapolis Colts,,,,1,,,,,
+1989,RB,Ron Wolfley,Phoenix Cardinals,,,,1,,,,,
+1989,RCB,Don Griffin,San Francisco 49ers,,,,1,,,,,
+1989,LT,Paul Gruber,Tampa Bay Buccaneers,,,,1,,,,,
+1989,QB,Warren Moon,Houston Texans,,,,1,,,,,
+1989,RB,Dalton Hilliard,New Orleans Saints,,,,1,,,,,
+1989,ROLB,Pat Swilling,New Orleans Saints,,,,1,,,,,
+1989,WR,Mark Carrier,Tampa Bay Buccaneers,,,,1,,,,,
+1989,NT,Tony Casillas,Atlanta Falcons,,,,1,,,,,
+1989,TE,Steve Jordan,Minnesota Vikings,,,,1,,,,,
+1989,C,Kirk Lowdermilk,Minnesota Vikings,,,,1,,,,,
+1989,QB,Don Majkowski,Green Bay Packers,,,,1,,,,,
+1989,RG,Max Montoya,Cincinnati Bengals,,,,1,,,,,
+1989,P,Reggie Roby,Miami Dolphins,,,,1,,,,,
+1989,LT,John Alt,Kansas City Chiefs,,,,1,,,,,
+1989,RT,Bruce Armstrong,New England Patriots,,,,1,,,,,
+1989,WR,Brian Blades,Seattle Seahawks,,,,1,,,,,
+1989,RB,James Brooks,Cincinnati Bengals,,,,1,,,,,
+1989,K,Kevin Butler,Chicago Bears,,,,1,,,,,
+1989,RB,Roger Craig,San Francisco 49ers,,,,1,,,,,
+1989,C,Ray Donaldson,Indianapolis Colts,,,,1,,,,,
+1989,TE,Ferrell Edmunds,Miami Dolphins,,,,1,,,,,
+1989,LG,Roy Foster,Miami Dolphins,,,,1,,,,,
+1989,LILB,John Grimsley,Houston Texans,,,,1,,,,,
+1989,RG,Ron Hallstrom,Green Bay Packers,,,,1,,,,,
+1989,RCB,Carl Lee,Minnesota Vikings,,,,1,,,,,
+1989,LDE,Charles Mann,Washington Commanders,,,,1,,,,,
+1989,LLB,Clay Matthews,Cleveland Browns,,,,1,,,,,
+1989,RCB,Nate Odomes,Buffalo Bills,,,,1,,,,,
+1989,RDE,Clyde Simmons,Philadelphia Eagles,,,,1,,,,,
+1989,NT,Fred Smerlas,Buffalo Bills,,,,1,,,,,
+1989,LILB,Chris Spielman,Detroit Lions,,,,1,,,,,
+1989,MLB,Scott Studwell,Minnesota Vikings,,,,1,,,,,
+1989,ROLB,Greg Townsend,Los Angeles Raiders,,,,1,,,,,
+1989,K,Tony Zendejas,Houston Texans,,,,1,,,,,
+1989,RDT,Jerome Brown,Philadelphia Eagles,,,,1,,,,,
+1989,LT,Lomas Brown,Detroit Lions,,,,1,,,,,
+1989,QB,Jim Everett,Los Angeles Rams,,,,1,,,,,
+1989,LOLB,Billy Ray Smith,San Diego Chargers,,,,1,,,,,
+1989,RILB,Mike Walter,San Francisco 49ers,,,,1,,,,,
+1989,MLB,Karl Mecklenburg,Denver Broncos,,,,1,,,,,
+1989,KR,John Taylor,San Francisco 49ers,,,,1,,,,,
+1989,FB,Christian Okoye,Kansas City Chiefs,,,,1,,,,,
+1989,RB,Barry Sanders,Detroit Lions,,,,1,,,,,
+1989,RCB,Rod Woodson,Pittsburgh Steelers,,,,1,,,,,
+1989,RCB,Eric Allen,Philadelphia Eagles,,,,1,,,,,
+1989,RG,Bill Fralic,Atlanta Falcons,,,,1,,,,,
+1989,P,Rich Camarillo,Phoenix Cardinals,,,,1,,,,,
+1989,FS,Deron Cherry,Kansas City Chiefs,,,,1,,,,,
+1989,RCB,Kevin Ross,Kansas City Chiefs,,,,1,,,,,
+1989,TE,Keith Jackson,Philadelphia Eagles,,,,1,,,,,
+1989,LT,Jim Lachey,Washington Commanders,,,,1,,,,,
+1989,WR,Walter Stanley,Detroit Lions,,,,1,,,,,
+1989,LT,Chris Hinton,Indianapolis Colts,,,,1,,,,,
+1989,SS,Dennis Smith,Denver Broncos,,,,1,,,,,
+1989,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1989,NT,Greg Kragen,Denver Broncos,,,,1,,,,,
+1989,LDE,Ray Childress,Houston Texans,,,,1,,,,,
+1989,WR,Henry Ellard,Los Angeles Rams,,,,1,,,,,
+1989,LDE,Howie Long,Los Angeles Raiders,,,,1,,,,,
+1989,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,
+1989,FS,Harry Hamilton,Tampa Bay Buccaneers,,,,1,,,,,
+1989,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,
+1989,FS,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1989,RB,Bo Jackson,Los Angeles Raiders,,,,1,,,,,
+1989,WR,Mel Gray,Detroit Lions,,,,1,,,,,
+1989,LILB,John Offerdahl,Miami Dolphins,,,,1,,,,,
+1988,QB,Boomer Esiason,Cincinnati Bengals,0.397,,,,,1,,,
+1988,QB,Randall Cunningham,Philadelphia Eagles,0.269,,,,,,,,
+1988,RB,Roger Craig,San Francisco 49ers,0.218,,,,,,,,
+1988,MLB,Mike Singletary,Chicago Bears,0.077,,,,,,,,
+1988,RDT,Keith Millard,Minnesota Vikings,0.013,,,,,,,,
+1988,QB,Warren Moon,Houston Oilers,0.013,,,,,,,,
+1988,RB,Herschel Walker,Dallas Cowboys,0.013,,,,,,,,
+1988,MLB,Mike Singletary,Chicago Bears,,0.423,,,,,1,,
+1988,RDT,Keith Millard,Minnesota Vikings,,0.128,,,,,,,
+1988,LDE,Reggie White,Philadelphia Eagles,,0.128,,,,,,,
+1988,LOLB,Cornelius Bennett,Buffalo Bills,,0.09,,,,,,,
+1988,RDE,Bruce Smith,Buffalo Bills,,0.09,,,,,,,
+1988,ROLB,Lawrence Taylor,New York Giants,,0.077,,,,,,,
+1988,NT,Tim Krumrie,Cincinnati Bengals,,0.038,,,,,,,
+1988,RCB,Carl Lee,Minnesota Vikings,,0.013,,,,,,,
+1988,RB,Roger Craig,San Francisco 49ers,,,0.41,,,,,1,
+1988,QB,Boomer Esiason,Cincinnati Bengals,,,0.372,,,,,,
+1988,QB,Randall Cunningham,Philadelphia Eagles,,,0.064,,,,,,
+1988,WR,Eddie Brown,Cincinnati Bengals,,,0.026,,,,,,
+1988,QB,Dan Marino,Miami Dolphins,,,0.026,,,,,,
+1988,RB,Herschel Walker,Dallas Cowboys,,,0.013,,,,,,
+1988,SS,Bennie Blades,Detroit Lions,,,,1,,,,,
+1988,FB,Ickey Woods,Cincinnati Bengals,,,,1,,,,,
+1988,RB,John Stephens,New England Patriots,,,,1,,,,,
+1988,WR,Tim Brown,Los Angeles Raiders,,,,1,,,,,
+1988,FS,Erik McMillan,New York Jets,,,,1,,,,,
+1988,RB,Robert Delpino,Los Angeles Rams,,,,1,,,,,
+1988,RT,Bruce Armstrong,New England Patriots,,,,1,,,,,
+1988,TE,Keith Jackson,Philadelphia Eagles,,,,1,,,,,
+1988,LOLB,Cornelius Bennett,Buffalo Bills,,,,1,,,,,
+1988,RCB,Eric Thomas,Cincinnati Bengals,,,,1,,,,,
+1988,LG,Randall McDaniel,Minnesota Vikings,,,,1,,,,,
+1988,RILB,Dino Hackett,Kansas City Chiefs,,,,1,,,,,
+1988,RT,Harris Barton,San Francisco 49ers,,,,1,,,,,
+1988,RB,Neal Anderson,Chicago Bears,,,,1,,,,,
+1988,LOLB,Charles Haley,San Francisco 49ers,,,,1,,,,,
+1988,RILB,John Offerdahl,Miami Dolphins,,,,1,,,,,
+1988,SS,David Fulcher,Cincinnati Bengals,,,,1,,,,,
+1988,LB,Eugene Seale,Houston Texans,,,,1,,,,,
+1988,ROLB,Tim Harris,Green Bay Packers,,,,1,,,,,
+1988,LILB,Shane Conlan,Buffalo Bills,,,,1,,,,,
+1988,P,Ralf Mojsiejenko,San Diego Chargers,,,,1,,,,,
+1988,LCB,Tim McKyer,San Francisco 49ers,,,,1,,,,,
+1988,QB,Jim Everett,Los Angeles Rams,,,,1,,,,,
+1988,QB,Randall Cunningham,Philadelphia Eagles,,,,1,,,,,
+1988,WR,Al Toon,New York Jets,,,,1,,,,,
+1988,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1988,LDE,Lee Williams,San Diego Chargers,,,,1,,,,,
+1988,RDE,Freddie Joe Nunn,Phoenix Cardinals,,,,1,,,,,
+1988,DB,Terry Hoage,Philadelphia Eagles,,,,1,,,,,
+1988,P,Rick Donnelly,Atlanta Falcons,,,,1,,,,,
+1988,ROLB,Duane Bickett,Indianapolis Colts,,,,1,,,,,
+1988,RB,Greg Bell,Los Angeles Rams,,,,1,,,,,
+1988,RCB,Scott Case,Atlanta Falcons,,,,1,,,,,
+1988,LCB,Jerry Gray,Los Angeles Rams,,,,1,,,,,
+1988,RB,Herschel Walker,Dallas Cowboys,,,,1,,,,,
+1988,LDE,Ray Childress,Houston Texans,,,,1,,,,,
+1988,RG,Bill Fralic,Atlanta Falcons,,,,1,,,,,
+1988,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,
+1988,WR,Eddie Brown,Cincinnati Bengals,,,,1,,,,,
+1988,RDT,Keith Millard,Minnesota Vikings,,,,1,,,,,
+1988,WR,John Taylor,San Francisco 49ers,,,,1,,,,,
+1988,LG,Tom Newberry,Los Angeles Rams,,,,1,,,,,
+1988,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1988,K,Dean Biasucci,Indianapolis Colts,,,,1,,,,,
+1988,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1988,LDE,Greg Townsend,Los Angeles Raiders,,,,1,,,,,
+1988,RILB,Johnny Rembert,New England Patriots,,,,1,,,,,
+1988,WR,Eric Martin,New Orleans Saints,,,,1,,,,,
+1988,TE,Steve Jordan,Minnesota Vikings,,,,1,,,,,
+1988,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,
+1988,WR,Mark Clayton,Miami Dolphins,,,,1,,,,,
+1988,LG,Mark Bortz,Chicago Bears,,,,1,,,,,
+1988,LT,Chris Hinton,Indianapolis Colts,,,,1,,,,,
+1988,C,Kent Hull,Buffalo Bills,,,,1,,,,,
+1988,LT,Gary Zimmerman,Minnesota Vikings,,,,1,,,,,
+1988,P,Jim Arnold,Detroit Lions,,,,1,,,,,
+1988,WR,Henry Ellard,Los Angeles Rams,,,,1,,,,,
+1988,RG,Bruce Matthews,Houston Texans,,,,1,,,,,
+1988,RCB,Carl Lee,Minnesota Vikings,,,,1,,,,,
+1988,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,
+1988,QB,Boomer Esiason,Cincinnati Bengals,,,,1,,,,,
+1988,RILB,Mike Walter,San Francisco 49ers,,,,1,,,,,
+1988,K,Chuck Nelson,Minnesota Vikings,,,,1,,,,,
+1988,RG,Bryan Millard,Seattle Seahawks,,,,1,,,,,
+1988,TE,Rodney Holman,Cincinnati Bengals,,,,1,,,,,
+1988,WR,Anthony Carter,Minnesota Vikings,,,,1,,,,,
+1988,ROLB,Mike Cofer,Detroit Lions,,,,1,,,,,
+1988,WR,Jo-Jo Townsell,New York Jets,,,,1,,,,,
+1988,K,Morten Andersen,New Orleans Saints,,,,1,,,,,
+1988,SS,Dave Duerson,Chicago Bears,,,,1,,,,,
+1988,LCB,Ronnie Lippett,New England Patriots,,,,1,,,,,
+1988,LCB,Albert Lewis,Kansas City Chiefs,,,,1,,,,,
+1988,LT,Luis Sharpe,Phoenix Cardinals,,,,1,,,,,
+1988,RDE,Richard Dent,Chicago Bears,,,,1,,,,,
+1988,NT,Michael Carter,San Francisco 49ers,,,,1,,,,,
+1988,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1988,K,Scott Norwood,Buffalo Bills,,,,1,,,,,
+1988,NT,Tim Krumrie,Cincinnati Bengals,,,,1,,,,,
+1988,LCB,Frank Minnifield,Cleveland Browns,,,,1,,,,,
+1988,RB,Eric Dickerson,Indianapolis Colts,,,,1,,,,,
+1988,RB,Roger Craig,San Francisco 49ers,,,,1,,,,,
+1988,SS,Joey Browner,Minnesota Vikings,,,,1,,,,,
+1988,LCB,Everson Walls,Dallas Cowboys,,,,1,,,,,
+1988,LILB,Sam Mills,New Orleans Saints,,,,1,,,,,
+1988,RG/RT,Mark May,Washington Commanders,,,,1,,,,,
+1988,WR,Dennis Gentry,Chicago Bears,,,,1,,,,,
+1988,LOLB,Andre Tippett,New England Patriots,,,,1,,,,,
+1988,FS,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1988,P,Mike Horan,Denver Broncos,,,,1,,,,,
+1988,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1988,FS,Deron Cherry,Kansas City Chiefs,,,,1,,,,,
+1988,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,
+1988,RB,James Brooks,Cincinnati Bengals,,,,1,,,,,
+1988,C,Ray Donaldson,Indianapolis Colts,,,,1,,,,,
+1988,LT,Irv Pankey,Los Angeles Rams,,,,1,,,,,
+1988,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1988,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1988,CB,Hanford Dixon,Cleveland Browns,,,,1,,,,,
+1988,LDT,Steve McMichael,Chicago Bears,,,,1,,,,,
+1988,SS,Lloyd Burruss,Kansas City Chiefs,,,,1,,,,,
+1988,NT,Fred Smerlas,Buffalo Bills,,,,1,,,,,
+1988,RT,Tunch Ilkin,Pittsburgh Steelers,,,,1,,,,,
+1988,RDT,Dan Hampton,Chicago Bears,,,,1,,,,,
+1988,QB,Warren Moon,Houston Texans,,,,1,,,,,
+1988,ROLB,Clay Matthews,Cleveland Browns,,,,1,,,,,
+1988,WR,Drew Hill,Houston Texans,,,,1,,,,,
+1988,K,Eddie Murray,Detroit Lions,,,,1,,,,,
+1988,RG,Max Montoya,Cincinnati Bengals,,,,1,,,,,
+1988,K,Nick Lowery,Kansas City Chiefs,,,,1,,,,,
+1988,TE,Mickey Shuler,New York Jets,,,,1,,,,,
+1988,RCB,Raymond Clayborn,New England Patriots,,,,1,,,,,
+1988,MLB,Scott Studwell,Minnesota Vikings,,,,1,,,,,
+1988,C,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1988,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,
+1987,QB,John Elway,Denver Broncos,0.429,,,,,1,,,
+1987,WR,Jerry Rice,San Francisco 49ers,0.357,,,,,,,,
+1987,QB,Joe Montana,San Francisco 49ers,0.214,,,,,,,,
+1987,LDE,Reggie White,Philadelphia Eagles,,0.75,,,,,1,,
+1987,RDE,Bruce Smith,Buffalo Bills,,0.119,,,,,,,
+1987,LILB,Fredd Young,Seattle Seahawks,,0.036,,,,,,,
+1987,WR,Jerry Rice,San Francisco 49ers,,,0.81,,,,,1,
+1987,QB,Joe Montana,San Francisco 49ers,,,0.107,,,,,,
+1987,QB,John Elway,Denver Broncos,,,0.012,,,,,,
+1987,QB,Bernie Kosar,Cleveland Browns,,,0.012,,,,,,
+1987,KR,Vai Sikahema,St. Louis Rams,,,,1,,,,,
+1987,RB,Charles White,Los Angeles Rams,,,,1,,,,,
+1987,WR,J.T. Smith,St. Louis Rams,,,,1,,,,,
+1987,C,Mike Webster,Pittsburgh Steelers,,,,1,,,,,
+1987,LDE,Bruce Clark,New Orleans Saints,,,,1,,,,,
+1987,RB/FB,Roger Craig,San Francisco 49ers,,,,1,,,,,
+1987,RDE,Carl Hairston,Cleveland Browns,,,,1,,,,,
+1987,LILB,Fredd Young,Seattle Seahawks,,,,1,,,,,
+1987,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,
+1987,LOLB,Andre Tippett,New England Patriots,,,,1,,,,,
+1987,WR,Steve Largent,Seattle Seahawks,,,,1,,,,,
+1987,RT,Cody Risien,Cleveland Browns,,,,1,,,,,
+1987,WR,Gary Clark,Washington Commanders,,,,1,,,,,
+1987,MLB,Karl Mecklenburg,Denver Broncos,,,,1,,,,,
+1987,MLB,Shane Conlan,Buffalo Bills,,,,1,,,,,
+1987,KR,Dennis Gentry,Chicago Bears,,,,1,,,,,
+1987,K,Morten Andersen,New Orleans Saints,,,,1,,,,,
+1987,TE,Mark Bavaro,New York Giants,,,,1,,,,,
+1987,SS,Joey Browner,Minnesota Vikings,,,,1,,,,,
+1987,RB,Eric Dickerson,2TM,,,,1,,,,,
+1987,RCB,Hanford Dixon,Cleveland Browns,,,,1,,,,,
+1987,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1987,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1987,LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,
+1987,RG,Bill Fralic,Atlanta Falcons,,,,1,,,,,
+1987,FS,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1987,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1987,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1987,LT,Gary Zimmerman,Minnesota Vikings,,,,1,,,,,
+1987,LDT,Steve McMichael,Chicago Bears,,,,1,,,,,
+1987,LOLB,Carl Banks,New York Giants,,,,1,,,,,
+1987,NT,Michael Carter,San Francisco 49ers,,,,1,,,,,
+1987,LCB,Frank Minnifield,Cleveland Browns,,,,1,,,,,
+1987,RB,Mel Gray,New Orleans Saints,,,,1,,,,,
+1987,QB,John Elway,Denver Broncos,,,,1,,,,,
+1987,SS,Keith Bostic,Houston Texans,,,,1,,,,,
+1987,RDE,Chris Doleman,Minnesota Vikings,,,,1,,,,,
+1987,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,
+1987,RG,Ron Solt,Indianapolis Colts,,,,1,,,,,
+1987,RB,Curt Warner,Seattle Seahawks,,,,1,,,,,
+1987,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,
+1987,RCB,Barry Wilburn,Washington Commanders,,,,1,,,,,
+1987,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,
+1987,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1987,LT,Chris Hinton,Indianapolis Colts,,,,1,,,,,
+1987,RB,Ron Wolfley,St. Louis Rams,,,,1,,,,,
+1987,K,Dean Biasucci,Indianapolis Colts,,,,1,,,,,
+1987,ROLB,Duane Bickett,Indianapolis Colts,,,,1,,,,,
+1987,LG,Tom Newberry,Los Angeles Rams,,,,1,,,,,
+1987,WR,Mike Quick,Philadelphia Eagles,,,,1,,,,,
+1987,LDE,Jacob Green,Seattle Seahawks,,,,1,,,,,
+1987,RILB,Vaughan Johnson,New Orleans Saints,,,,1,,,,,
+1987,WR,Al Toon,New York Jets,,,,1,,,,,
+1987,LCB,Darrell Green,Washington Commanders,,,,1,,,,,
+1987,LT,Joe Jacoby,Washington Commanders,,,,1,,,,,
+1987,RB,Herschel Walker,Dallas Cowboys,,,,1,,,,,
+1987,SS,Kenny Easley,Seattle Seahawks,,,,1,,,,,
+1987,LCB,Jerry Gray,Los Angeles Rams,,,,1,,,,,
+1987,P,Ralf Mojsiejenko,San Diego Chargers,,,,1,,,,,
+1987,TE,Todd Christensen,Los Angeles Raiders,,,,1,,,,,
+1987,RLB,Wilber Marshall,Chicago Bears,,,,1,,,,,
+1987,LT,Jim Lachey,San Diego Chargers,,,,1,,,,,
+1987,LCB,Dave Waymer,New Orleans Saints,,,,1,,,,,
+1987,TE,Kellen Winslow,San Diego Chargers,,,,1,,,,,
+1987,WR,Lionel James,San Diego Chargers,,,,1,,,,,
+1987,RB,Paul Palmer,Kansas City Chiefs,,,,1,,,,,
+1987,WR,Steve Tasker,Buffalo Bills,,,,1,,,,,
+1987,RB,Rueben Mayes,New Orleans Saints,,,,1,,,,,
+1987,FS,Vann McElroy,Los Angeles Raiders,,,,1,,,,,
+1987,ROLB,Pat Swilling,New Orleans Saints,,,,1,,,,,
+1987,C,Ray Donaldson,Indianapolis Colts,,,,1,,,,,
+1987,LG,Keith Bishop,Denver Broncos,,,,1,,,,,
+1987,FS,Dave Duerson,Chicago Bears,,,,1,,,,,
+1987,NT,Tim Krumrie,Cincinnati Bengals,,,,1,,,,,
+1987,LDE,Charles Mann,Washington Commanders,,,,1,,,,,
+1987,ROLB,Chip Banks,San Diego Chargers,,,,1,,,,,
+1987,WR,Chris Burkett,Buffalo Bills,,,,1,,,,,
+1987,RB,Earnest Byner,Cleveland Browns,,,,1,,,,,
+1987,WR,Carlos Carson,Kansas City Chiefs,,,,1,,,,,
+1987,WR,Anthony Carter,Minnesota Vikings,,,,1,,,,,
+1987,C,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1987,P,Rick Donnelly,Atlanta Falcons,,,,1,,,,,
+1987,RG,Dan Fike,Cleveland Browns,,,,1,,,,,
+1987,RCB,Don Griffin,San Francisco 49ers,,,,1,,,,,
+1987,RDE,Rulon Jones,Denver Broncos,,,,1,,,,,
+1987,TE,Steve Jordan,Minnesota Vikings,,,,1,,,,,
+1987,QB,Bernie Kosar,Cleveland Browns,,,,1,,,,,
+1987,K,Pat Leahy,New York Jets,,,,1,,,,,
+1987,LCB,Albert Lewis,Kansas City Chiefs,,,,1,,,,,
+1987,LCB,Ronnie Lippett,New England Patriots,,,,1,,,,,
+1987,QB,Neil Lomax,St. Louis Rams,,,,1,,,,,
+1987,LOLB,Mike Merriweather,Pittsburgh Steelers,,,,1,,,,,
+1987,LILB,Brian Noble,Green Bay Packers,,,,1,,,,,
+1987,RILB,Ervin Randle,Tampa Bay Buccaneers,,,,1,,,,,
+1987,K,Roger Ruzek,Dallas Cowboys,,,,1,,,,,
+1987,LT,Luis Sharpe,St. Louis Rams,,,,1,,,,,
+1987,LOLB,Billy Ray Smith,San Diego Chargers,,,,1,,,,,
+1987,P,Stan Talley,Los Angeles Raiders,,,,1,,,,,
+1987,SS,Alvin Walton,Washington Commanders,,,,1,,,,,
+1987,TE,Robert Awalt,St. Louis Rams,,,,1,,,,,
+1987,P,Jim Arnold,Detroit Lions,,,,1,,,,,
+1987,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1987,NT,Bill Maas,Kansas City Chiefs,,,,1,,,,,
+1987,LG,Brad Edelman,New Orleans Saints,,,,1,,,,,
+1987,RDE,Dexter Manley,Washington Commanders,,,,1,,,,,
+1987,RB,Mike Rozier,Houston Texans,,,,1,,,,,
+1987,P,Reggie Roby,Miami Dolphins,,,,1,,,,,
+1987,DT,Keith Millard,Minnesota Vikings,,,,1,,,,,
+1987,C,Dwight Stephenson,Miami Dolphins,,,,1,,,,,
+1987,LT,Jimbo Covert,Chicago Bears,,,,1,,,,,
+1987,RILB,John Offerdahl,Miami Dolphins,,,,1,,,,,
+1987,FS,Deron Cherry,Kansas City Chiefs,,,,1,,,,,
+1987,RG,Dennis Harrah,Los Angeles Rams,,,,1,,,,,
+1987,KR,Sylvester Stamps,Atlanta Falcons,,,,1,,,,,
+1986,ROLB,Lawrence Taylor,New York Giants,0.488,,,,,1,,,
+1986,RB,Eric Dickerson,Los Angeles Rams,0.202,,,,,,,,
+1986,QB,Dan Marino,Miami Dolphins,0.107,,,,,,,,
+1986,RB,Joe Morris,New York Giants,0.06,,,,,,,,
+1986,QB,John Elway,Denver Broncos,0.036,,,,,,,,
+1986,TE,Mark Bavaro,New York Giants,0.012,,,,,,,,
+1986,QB,Tony Eason,New England Patriots,0.012,,,,,,,,
+1986,QB,Joe Montana,San Francisco 49ers,0.012,,,,,,,,
+1986,RB,Walter Payton,Chicago Bears,0.012,,,,,,,,
+1986,WR,Jerry Rice,San Francisco 49ers,0.012,,,,,,,,
+1986,ROLB,Lawrence Taylor,New York Giants,,0.881,,,,,1,,
+1986,RDE,Dexter Manley,Washington Redskins,,0.048,,,,,,,
+1986,RLB,Wilber Marshall,Chicago Bears,,0.012,,,,,,,
+1986,RB,Eric Dickerson,Los Angeles Rams,,,0.321,,,,,1,
+1986,QB,Dan Marino,Miami Dolphins,,,0.298,,,,,,
+1986,WR,Jerry Rice,San Francisco 49ers,,,0.155,,,,,,
+1986,RB,Joe Morris,New York Giants,,,0.083,,,,,,
+1986,TE,Todd Christensen,Los Angeles Raiders,,,0.012,,,,,,
+1986,QB,John Elway,Denver Broncos,,,0.012,,,,,,
+1986,QB,Ken O'Brien,New York Jets,,,0.012,,,,,,
+1986,RB,Rueben Mayes,New Orleans Saints,,,,1,,,,,
+1986,LT,Gary Zimmerman,Minnesota Vikings,,,,1,,,,,
+1986,WR,Tim McGee,Cincinnati Bengals,,,,1,,,,,
+1986,RB,Vai Sikahema,St. Louis Rams,,,,1,,,,,
+1986,KR,Mel Gray,New Orleans Saints,,,,1,,,,,
+1986,RG,Dan Fike,Cleveland Browns,,,,1,,,,,
+1986,RDE,Bruce Smith,Buffalo Bills,,,,1,,,,,
+1986,QB,Jay Schroeder,Washington Commanders,,,,1,,,,,
+1986,LCB,Jerry Gray,Los Angeles Rams,,,,1,,,,,
+1986,RDT/LDE,Reggie White,Philadelphia Eagles,,,,1,,,,,
+1986,RG,Bill Fralic,Atlanta Falcons,,,,1,,,,,
+1986,WR,Al Toon,New York Jets,,,,1,,,,,
+1986,P,Sean Landeta,New York Giants,,,,1,,,,,
+1986,TE,Mark Bavaro,New York Giants,,,,1,,,,,
+1986,WR,Jerry Rice,San Francisco 49ers,,,,1,,,,,
+1986,LILB,Kyle Clifton,New York Jets,,,,1,,,,,
+1986,LDE,Lee Williams,San Diego Chargers,,,,1,,,,,
+1986,RDE,Rick Bryan,Atlanta Falcons,,,,1,,,,,
+1986,NT,Bill Maas,Kansas City Chiefs,,,,1,,,,,
+1986,RLB,Wilber Marshall,Chicago Bears,,,,1,,,,,
+1986,LOLB,Billy Ray Smith,San Diego Chargers,,,,1,,,,,
+1986,LCB,Mike Richardson,Chicago Bears,,,,1,,,,,
+1986,FS,Vince Newsome,Los Angeles Rams,,,,1,,,,,
+1986,RILB,Mark Jerue,Los Angeles Rams,,,,1,,,,,
+1986,QB,John Elway,Denver Broncos,,,,1,,,,,
+1986,RDE,Leonard Marshall,New York Giants,,,,1,,,,,
+1986,SS,Leonard Smith,St. Louis Rams,,,,1,,,,,
+1986,LT,Chris Hinton,Indianapolis Colts,,,,1,,,,,
+1986,RB,Curt Warner,Seattle Seahawks,,,,1,,,,,
+1986,LCB,Darrell Green,Washington Commanders,,,,1,,,,,
+1986,SS,Dave Duerson,Chicago Bears,,,,1,,,,,
+1986,LT,Jimbo Covert,Chicago Bears,,,,1,,,,,
+1986,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1986,RB,Eric Dickerson,Los Angeles Rams,,,,1,,,,,
+1986,MLB,Karl Mecklenburg,Denver Broncos,,,,1,,,,,
+1986,FB,Gerald Willhite,Denver Broncos,,,,1,,,,,
+1986,WR,Mike Quick,Philadelphia Eagles,,,,1,,,,,
+1986,FS,Vann McElroy,Los Angeles Raiders,,,,1,,,,,
+1986,TE,Steve Jordan,Minnesota Vikings,,,,1,,,,,
+1986,ROLB,Bryan Hinkle,Pittsburgh Steelers,,,,1,,,,,
+1986,LG,Roy Foster,Miami Dolphins,,,,1,,,,,
+1986,LOLB,Chip Banks,Cleveland Browns,,,,1,,,,,
+1986,P,Rohn Stark,Indianapolis Colts,,,,1,,,,,
+1986,K,Morten Andersen,New Orleans Saints,,,,1,,,,,
+1986,LT,Joe Jacoby,Washington Commanders,,,,1,,,,,
+1986,P,Steve Cox,Washington Commanders,,,,1,,,,,
+1986,RB,James Brooks,Cincinnati Bengals,,,,1,,,,,
+1986,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,
+1986,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,
+1986,FS,Deron Cherry,Kansas City Chiefs,,,,1,,,,,
+1986,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1986,RDE,Dexter Manley,Washington Commanders,,,,1,,,,,
+1986,RCB,Hanford Dixon,Cleveland Browns,,,,1,,,,,
+1986,ROLB,Keena Turner,San Francisco 49ers,,,,1,,,,,
+1986,WR,Art Monk,Washington Commanders,,,,1,,,,,
+1986,RG,Chris Godfrey,New York Giants,,,,1,,,,,
+1986,C,Ray Donaldson,Indianapolis Colts,,,,1,,,,,
+1986,LG,Keith Bishop,Denver Broncos,,,,1,,,,,
+1986,RCB,LeRoy Irvin,Los Angeles Rams,,,,1,,,,,
+1986,LDT,Steve McMichael,Chicago Bears,,,,1,,,,,
+1986,RDE,Rulon Jones,Denver Broncos,,,,1,,,,,
+1986,C,Dwight Stephenson,Miami Dolphins,,,,1,,,,,
+1986,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1986,NT,Bob Golic,Cleveland Browns,,,,1,,,,,
+1986,RT,Cody Risien,Cleveland Browns,,,,1,,,,,
+1986,QB,Phil Simms,New York Giants,,,,1,,,,,
+1986,RG,Max Montoya,Cincinnati Bengals,,,,1,,,,,
+1986,K,Tony Franklin,New England Patriots,,,,1,,,,,
+1986,LDE,Dan Hampton,Chicago Bears,,,,1,,,,,
+1986,TE,Todd Christensen,Los Angeles Raiders,,,,1,,,,,
+1986,C,Doug Smith,Los Angeles Rams,,,,1,,,,,
+1986,TE,Mickey Shuler,New York Jets,,,,1,,,,,
+1986,K,Nick Lowery,Kansas City Chiefs,,,,1,,,,,
+1986,LDE,Art Still,Kansas City Chiefs,,,,1,,,,,
+1986,FB,Mosi Tatupu,New England Patriots,,,,1,,,,,
+1986,T,Brad Benson,New York Giants,,,,1,,,,,
+1986,WR,Wesley Walker,New York Jets,,,,1,,,,,
+1986,RG,Dan Alexander,New York Jets,,,,1,,,,,
+1986,RCB,Raymond Clayborn,New England Patriots,,,,1,,,,,
+1986,WR,Stanley Morgan,New England Patriots,,,,1,,,,,
+1986,WR,Steve Largent,Seattle Seahawks,,,,1,,,,,
+1986,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,
+1986,RILB,Harry Carson,New York Giants,,,,1,,,,,
+1986,G,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1986,RB,Walter Payton,Chicago Bears,,,,1,,,,,
+1986,RG,Dennis Harrah,Los Angeles Rams,,,,1,,,,,
+1986,K,Pat Leahy,New York Jets,,,,1,,,,,
+1986,K,Ray Wersching,San Francisco 49ers,,,,1,,,,,
+1986,RILB,John Offerdahl,Miami Dolphins,,,,1,,,,,
+1986,RB,Bobby Joe Edmonds,Seattle Seahawks,,,,1,,,,,
+1986,RDT,Keith Millard,Minnesota Vikings,,,,1,,,,,
+1986,WR,Gary Clark,Washington Commanders,,,,1,,,,,
+1986,LILB,Fredd Young,Seattle Seahawks,,,,1,,,,,
+1986,LCB,Frank Minnifield,Cleveland Browns,,,,1,,,,,
+1986,NT,Michael Carter,San Francisco 49ers,,,,1,,,,,
+1986,P,Reggie Roby,Miami Dolphins,,,,1,,,,,
+1986,LCB,Albert Lewis,Kansas City Chiefs,,,,1,,,,,
+1986,LCB,Ronnie Lippett,New England Patriots,,,,1,,,,,
+1986,NT,Bill Pickel,Los Angeles Raiders,,,,1,,,,,
+1986,WR,Dennis Gentry,Chicago Bears,,,,1,,,,,
+1986,RB,Joe Morris,New York Giants,,,,1,,,,,
+1986,ROLB,Don Blackmon,New England Patriots,,,,1,,,,,
+1986,SS,Lloyd Burruss,Kansas City Chiefs,,,,1,,,,,
+1986,LT,Brian Holloway,New England Patriots,,,,1,,,,,
+1986,LG,Russ Grimm,Washington Commanders,,,,1,,,,,
+1986,RB,Neal Anderson,Chicago Bears,,,,1,,,,,
+1986,SS,Dennis Smith,Denver Broncos,,,,1,,,,,
+1986,FS,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1986,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1986,RB,Marcus Allen,Los Angeles Raiders,,,,1,,,,,
+1986,NT,Jim Burt,New York Giants,,,,1,,,,,
+1986,LDE,Howie Long,Los Angeles Raiders,,,,1,,,,,
+1986,QB,Tommy Kramer,Minnesota Vikings,,,,1,,,,,
+1986,LILB,Carl Ekern,Los Angeles Rams,,,,1,,,,,
+1986,LOLB,Andre Tippett,New England Patriots,,,,1,,,,,
+1986,NT,Joe Klecko,New York Jets,,,,1,,,,,
+1986,SS,Kenny Easley,Seattle Seahawks,,,,1,,,,,
+1986,LT,Jon Giesler,Miami Dolphins,,,,1,,,,,
+1985,RB,Marcus Allen,Los Angeles Raiders,0.393,,,,,1,,,
+1985,RB,Walter Payton,Chicago Bears,0.298,,,,,,,,
+1985,MLB,Karl Mecklenburg,Denver Broncos,,,,1,,,,,
+1985,KR,Irving Fryar,New England Patriots,,,,1,,,,,
+1985,RB,Marcus Allen,Los Angeles Raiders,,,,1,,,,,
+1985,TE,Todd Christensen,Los Angeles Raiders,,,,1,,,,,
+1985,LG,Russ Grimm,Washington Commanders,,,,1,,,,,
+1985,RCB,Mike Haynes,Los Angeles Raiders,,,,1,,,,,
+1985,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1985,RB,Walter Payton,Chicago Bears,,,,1,,,,,
+1985,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1985,C,Dwight Stephenson,Miami Dolphins,,,,1,,,,,
+1985,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1985,LOLB,Andre Tippett,New England Patriots,,,,1,,,,,
+1985,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1985,P,Dale Hatcher,Los Angeles Rams,,,,1,,,,,
+1985,NT,Joe Klecko,New York Jets,,,,1,,,,,
+1985,LDE,Howie Long,Los Angeles Raiders,,,,1,,,,,
+1985,WR,Mike Quick,Philadelphia Eagles,,,,1,,,,,
+1985,RDT,Randy White,Dallas Cowboys,,,,1,,,,,
+1985,RCB,Eric Wright,San Francisco 49ers,,,,1,,,,,
+1985,WR,Steve Largent,Seattle Seahawks,,,,1,,,,,
+1985,WR,Louis Lipps,Pittsburgh Steelers,,,,1,,,,,
+1985,RDE,Richard Dent,Chicago Bears,,,,1,,,,,
+1985,LDE,Mark Gastineau,New York Jets,,,,1,,,,,
+1985,K,Nick Lowery,Kansas City Chiefs,,,,1,,,,,
+1985,RDE,Rulon Jones,Denver Broncos,,,,1,,,,,
+1985,LCB,Everson Walls,Dallas Cowboys,,,,1,,,,,
+1985,K,Morten Andersen,New Orleans Saints,,,,1,,,,,
+1985,P,Rohn Stark,Indianapolis Colts,,,,1,,,,,
+1985,K,Gary Anderson,Pittsburgh Steelers,,,,1,,,,,
+1985,NT,Bob Golic,Cleveland Browns,,,,1,,,,,
+1985,RILB,Jim Collins,Los Angeles Rams,,,,1,,,,,
+1985,LDT,Steve McMichael,Chicago Bears,,,,1,,,,,
+1985,WR,Henry Ellard,Los Angeles Rams,,,,1,,,,,
+1985,FS,Deron Cherry,Kansas City Chiefs,,,,1,,,,,
+1985,LT,Chris Hinton,Indianapolis Colts,,,,1,,,,,
+1985,RDE,Leonard Marshall,New York Giants,,,,1,,,,,
+1985,RILB,Lance Mehl,New York Jets,,,,1,,,,,
+1985,RB,Gerald Riggs,Atlanta Falcons,,,,1,,,,,
+1985,LLB,Otis Wilson,Chicago Bears,,,,1,,,,,
+1985,LOLB,Chip Banks,Cleveland Browns,,,,1,,,,,
+1985,TE,Doug Cosbie,Dallas Cowboys,,,,1,,,,,
+1985,RT/RG,Keith Dorney,Detroit Lions,,,,1,,,,,
+1985,FS,Michael Downs,Dallas Cowboys,,,,1,,,,,
+1985,LG,Roy Foster,Miami Dolphins,,,,1,,,,,
+1985,C,Jay Hilgenberg,Chicago Bears,,,,1,,,,,
+1985,MLB,E.J. Junior,St. Louis Rams,,,,1,,,,,
+1985,RILB,Harry Carson,New York Giants,,,,1,,,,,
+1985,FB,Roger Craig,San Francisco 49ers,,,,1,,,,,
+1985,LDE/RDT,Dan Hampton,Chicago Bears,,,,1,,,,,
+1985,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1985,K,Kevin Butler,Chicago Bears,,,,1,,,,,
+1985,RCB,Raymond Clayborn,New England Patriots,,,,1,,,,,
+1985,FS,Gary Fencik,Chicago Bears,,,,1,,,,,
+1985,LG,Kent Hill,Los Angeles Rams,,,,1,,,,,
+1985,LT,Brian Holloway,New England Patriots,,,,1,,,,,
+1985,RCB,LeRoy Irvin,Los Angeles Rams,,,,1,,,,,
+1985,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,
+1985,WR,James Lofton,Green Bay Packers,,,,1,,,,,
+1985,LOLB,Mike Merriweather,Pittsburgh Steelers,,,,1,,,,,
+1985,TE,Ozzie Newsome,Cleveland Browns,,,,1,,,,,
+1985,P,Reggie Roby,Miami Dolphins,,,,1,,,,,
+1985,RG,Dan Alexander,New York Jets,,,,1,,,,,
+1985,LG,John Ayers,San Francisco 49ers,,,,1,,,,,
+1985,RCB,Dave Brown,Seattle Seahawks,,,,1,,,,,
+1985,SS,Joey Browner,Minnesota Vikings,,,,1,,,,,
+1985,WR,Mark Clayton,Miami Dolphins,,,,1,,,,,
+1985,WR,Cris Collinsworth,Cincinnati Bengals,,,,1,,,,,
+1985,TE,Jimmie Giles,Tampa Bay Buccaneers,,,,1,,,,,
+1985,LCB,Gary Green,Los Angeles Rams,,,,1,,,,,
+1985,LDE,Jacob Green,Seattle Seahawks,,,,1,,,,,
+1985,RB,Lionel James,San Diego Chargers,,,,1,,,,,
+1985,LDE,Too Tall Jones,Dallas Cowboys,,,,1,,,,,
+1985,LT,Jim Lachey,San Diego Chargers,,,,1,,,,,
+1985,P,Sean Landeta,New York Giants,,,,1,,,,,
+1985,FS,Fred Marion,New England Patriots,,,,1,,,,,
+1985,ROLB,Rod Martin,Los Angeles Raiders,,,,1,,,,,
+1985,LILB,Matt Millen,Los Angeles Raiders,,,,1,,,,,
+1985,RB,Joe Morris,New York Giants,,,,1,,,,,
+1985,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,
+1985,RB,Curt Warner,Seattle Seahawks,,,,1,,,,,
+1985,C,Mike Webster,Pittsburgh Steelers,,,,1,,,,,
+1985,C,Bill Bryan,Denver Broncos,,,,1,,,,,
+1985,FS,Bo Eason,Houston Texans,,,,1,,,,,
+1985,RT,Keith Fahnhorst,San Francisco 49ers,,,,1,,,,,
+1985,NT,Joe Nash,Seattle Seahawks,,,,1,,,,,
+1985,TE,Mickey Shuler,New York Jets,,,,1,,,,,
+1985,C,Joe Fields,New York Jets,,,,1,,,,,
+1985,LT,Jimbo Covert,Chicago Bears,,,,1,,,,,
+1985,FS,Wes Hopkins,Philadelphia Eagles,,,,1,,,,,
+1985,WR,Art Monk,Washington Commanders,,,,1,,,,,
+1985,RG,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1985,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,
+1985,LCB,Louis Wright,Denver Broncos,,,,1,,,,,
+1985,ROLB,Keena Turner,San Francisco 49ers,,,,1,,,,,
+1985,WR,Tony Hill,Dallas Cowboys,,,,1,,,,,
+1985,LILB,Steve Nelson,New England Patriots,,,,1,,,,,
+1985,C,Fred Quillan,San Francisco 49ers,,,,1,,,,,
+1985,LG,John Hannah,New England Patriots,,,,1,,,,,
+1985,QB,Dan Fouts,San Diego Chargers,,,,1,,,,,
+1985,RB,Freeman McNeil,New York Jets,,,,1,,,,,
+1985,KR,Ron Brown,Los Angeles Rams,,,,1,,,,,
+1985,SS,Kenny Easley,Seattle Seahawks,,,,1,,,,,
+1985,QB,Jim McMahon,Chicago Bears,,,,1,,,,,
+1985,SS,Dennis Smith,Denver Broncos,,,,1,,,,,
+1985,DT,Michael Carter,San Francisco 49ers,,,,1,,,,,
+1985,LT,Joe Jacoby,Washington Commanders,,,,1,,,,,
+1985,RG,Dennis Harrah,Los Angeles Rams,,,,1,,,,,
+1984,QB,Dan Marino,Miami Dolphins,0.619,,,,,1,,,
+1984,RB,Eric Dickerson,Los Angeles Rams,0.214,,,,,,,,
+1984,SS,Kenny Easley,Seattle Seahawks,,0.298,,,,,1,,
+1984,ROLB,Lawrence Taylor,New York Giants,,0.226,,,,,,,
+1984,QB,Dan Marino,Miami Dolphins,,,0.619,,,,,1,
+1984,RB,Eric Dickerson,Los Angeles Rams,,,0.214,,,,,,
+1984,DT,Doug English,Detroit Lions,,,,1,,,,,
+1984,K,Jan Stenerud,Minnesota Vikings,,,,1,,,,,
+1984,P,Jim Arnold,Kansas City Chiefs,,,,1,,,,,
+1984,RB,Eric Dickerson,Los Angeles Rams,,,,1,,,,,
+1984,SS,Kenny Easley,Seattle Seahawks,,,,1,,,,,
+1984,LDE,Mark Gastineau,New York Jets,,,,1,,,,,
+1984,WR,Roy Green,St. Louis Rams,,,,1,,,,,
+1984,RCB,Mike Haynes,Los Angeles Raiders,,,,1,,,,,
+1984,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1984,TE,Ozzie Newsome,Cleveland Browns,,,,1,,,,,
+1984,RB,Walter Payton,Chicago Bears,,,,1,,,,,
+1984,P,Reggie Roby,Miami Dolphins,,,,1,,,,,
+1984,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1984,C,Dwight Stephenson,Miami Dolphins,,,,1,,,,,
+1984,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1984,K,Norm Johnson,Seattle Seahawks,,,,1,,,,,
+1984,WR,Art Monk,Washington Commanders,,,,1,,,,,
+1984,RDT,Randy White,Dallas Cowboys,,,,1,,,,,
+1984,LDE,Howie Long,Los Angeles Raiders,,,,1,,,,,
+1984,LT,Joe Jacoby,Washington Commanders,,,,1,,,,,
+1984,WR,Bobby Humphery,New York Jets,,,,1,,,,,
+1984,LG,Russ Grimm,Washington Commanders,,,,1,,,,,
+1984,RLB/MLB,E.J. Junior,St. Louis Rams,,,,1,,,,,
+1984,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1984,NT,Joe Nash,Seattle Seahawks,,,,1,,,,,
+1984,RG,Ed Newman,Miami Dolphins,,,,1,,,,,
+1984,LCB,Louis Wright,Denver Broncos,,,,1,,,,,
+1984,ROLB,Clay Matthews,Cleveland Browns,,,,1,,,,,
+1984,WR,Henry Ellard,Los Angeles Rams,,,,1,,,,,
+1984,ROLB,Rod Martin,Los Angeles Raiders,,,,1,,,,,
+1984,RG,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1984,RDE,Richard Dent,Chicago Bears,,,,1,,,,,
+1984,LOLB,Mike Merriweather,Pittsburgh Steelers,,,,1,,,,,
+1984,SS,Todd Bell,Chicago Bears,,,,1,,,,,
+1984,RILB,Jim Collins,Los Angeles Rams,,,,1,,,,,
+1984,LT,Bill Bain,Los Angeles Rams,,,,1,,,,,
+1984,FS,Deron Cherry,Kansas City Chiefs,,,,1,,,,,
+1984,FS,Michael Downs,Dallas Cowboys,,,,1,,,,,
+1984,FS,Wes Hopkins,Philadelphia Eagles,,,,1,,,,,
+1984,NT,David Logan,Tampa Bay Buccaneers,,,,1,,,,,
+1984,LB,Fredd Young,Seattle Seahawks,,,,1,,,,,
+1984,LCB,Lester Hayes,Los Angeles Raiders,,,,1,,,,,
+1984,RB,Marcus Allen,Los Angeles Raiders,,,,1,,,,,
+1984,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,
+1984,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,
+1984,RDE,Lee Roy Selmon,Tampa Bay Buccaneers,,,,1,,,,,
+1984,WR,John Stallworth,Pittsburgh Steelers,,,,1,,,,,
+1984,WR,James Lofton,Green Bay Packers,,,,1,,,,,
+1984,RILB,Harry Carson,New York Giants,,,,1,,,,,
+1984,LDE,Jacob Green,Seattle Seahawks,,,,1,,,,,
+1984,C,Fred Quillan,San Francisco 49ers,,,,1,,,,,
+1984,LT,Brian Holloway,New England Patriots,,,,1,,,,,
+1984,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1984,RB,Earnest Jackson,San Diego Chargers,,,,1,,,,,
+1984,ROLB,Tom Jackson,Denver Broncos,,,,1,,,,,
+1984,LOLB,Andre Tippett,New England Patriots,,,,1,,,,,
+1984,RCB,Eric Wright,San Francisco 49ers,,,,1,,,,,
+1984,RILB,Tom Cousineau,Cleveland Browns,,,,1,,,,,
+1984,LILB,Steve Nelson,New England Patriots,,,,1,,,,,
+1984,LG,John Ayers,San Francisco 49ers,,,,1,,,,,
+1984,P,Mike Horan,Philadelphia Eagles,,,,1,,,,,
+1984,RB,Stump Mitchell,St. Louis Rams,,,,1,,,,,
+1984,WR,Mark Duper,Miami Dolphins,,,,1,,,,,
+1984,FS,Dwight Hicks,San Francisco 49ers,,,,1,,,,,
+1984,RT,Henry Lawrence,Los Angeles Raiders,,,,1,,,,,
+1984,P,Bucky Scribner,Green Bay Packers,,,,1,,,,,
+1984,LCB,Everson Walls,Dallas Cowboys,,,,1,,,,,
+1984,RB,James Wilder,Tampa Bay Buccaneers,,,,1,,,,,
+1984,RCB,Dave Brown,Seattle Seahawks,,,,1,,,,,
+1984,TE,Todd Christensen,Los Angeles Raiders,,,,1,,,,,
+1984,WR,Steve Largent,Seattle Seahawks,,,,1,,,,,
+1984,FS,Vann McElroy,Los Angeles Raiders,,,,1,,,,,
+1984,P,Rohn Stark,Indianapolis Colts,,,,1,,,,,
+1984,LDE,Art Still,Kansas City Chiefs,,,,1,,,,,
+1984,C,Mike Webster,Pittsburgh Steelers,,,,1,,,,,
+1984,K,Gary Anderson,Pittsburgh Steelers,,,,1,,,,,
+1984,RDE,Jeff Bryant,Seattle Seahawks,,,,1,,,,,
+1984,RILB,Robin Cole,Pittsburgh Steelers,,,,1,,,,,
+1984,TE,Doug Cosbie,Dallas Cowboys,,,,1,,,,,
+1984,FS,Gary Fencik,Chicago Bears,,,,1,,,,,
+1984,LG,Roy Foster,Miami Dolphins,,,,1,,,,,
+1984,LT,Jon Giesler,Miami Dolphins,,,,1,,,,,
+1984,RDE,Curtis Greer,St. Louis Rams,,,,1,,,,,
+1984,P,Brian Hansen,New Orleans Saints,,,,1,,,,,
+1984,RG,Dennis Harrah,Los Angeles Rams,,,,1,,,,,
+1984,LG,Kent Hill,Los Angeles Rams,,,,1,,,,,
+1984,WR,Kevin House,Tampa Bay Buccaneers,,,,1,,,,,
+1984,QB,Dave Krieg,Seattle Seahawks,,,,1,,,,,
+1984,RCB,Tim Lewis,Green Bay Packers,,,,1,,,,,
+1984,QB,Neil Lomax,St. Louis Rams,,,,1,,,,,
+1984,K,Paul McFadden,Philadelphia Eagles,,,,1,,,,,
+1984,LILB,Matt Millen,Los Angeles Raiders,,,,1,,,,,
+1984,LT,Luis Sharpe,St. Louis Rams,,,,1,,,,,
+1984,LILB,Scott Studwell,Minnesota Vikings,,,,1,,,,,
+1984,ROLB,Keena Turner,San Francisco 49ers,,,,1,,,,,
+1984,RB,Sammy Winder,Denver Broncos,,,,1,,,,,
+1984,C,Randy Clark,St. Louis Rams,,,,1,,,,,
+1984,NT,Gary Dunn,Pittsburgh Steelers,,,,1,,,,,
+1984,LCB,Gary Green,Los Angeles Rams,,,,1,,,,,
+1984,DT,Dave Butz,Washington Commanders,,,,1,,,,,
+1984,RT,Keith Fahnhorst,San Francisco 49ers,,,,1,,,,,
+1984,RDT,Dan Hampton,Chicago Bears,,,,1,,,,,
+1984,LG,John Hannah,New England Patriots,,,,1,,,,,
+1984,LCB,Mark Haynes,New York Giants,,,,1,,,,,
+1984,SS,Dennis Smith,Denver Broncos,,,,1,,,,,
+1984,RG,Sean Farrell,Tampa Bay Buccaneers,,,,1,,,,,
+1984,WR,Mark Clayton,Miami Dolphins,,,,1,,,,,
+1984,NT,Bob Baumhower,Miami Dolphins,,,,1,,,,,
+1984,RB,Gerald Riggs,Atlanta Falcons,,,,1,,,,,
+1984,LLB,Otis Wilson,Chicago Bears,,,,1,,,,,
+1984,LDE,Jack Youngblood,Los Angeles Rams,,,,1,,,,,
+1984,WR,Louis Lipps,Pittsburgh Steelers,,,,1,,,,,
+1984,TE,Paul Coffman,Green Bay Packers,,,,1,,,,,
+1984,LT,Mike Kenn,Atlanta Falcons,,,,1,,,,,
+1984,DB,Bill Bates,Dallas Cowboys,,,,1,,,,,
+1984,RB,Freeman McNeil,New York Jets,,,,1,,,,,
+1984,LCB,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1984,C,Larry McCarren,Green Bay Packers,,,,1,,,,,
+1983,QB,Joe Theismann,Washington Redskins,0.69,,,,,1,,,
+1983,RB,Eric Dickerson,Los Angeles Rams,0.214,,,,,,,,
+1983,QB,Dan Marino,Miami Dolphins,0.036,,,,,,,,
+1983,RB,John Riggins,Washington Redskins,0.024,,,,,,,,
+1983,QB,Lynn Dickey,Green Bay Packers,0.012,,,,,,,,
+1983,QB,Joe Montana,San Francisco 49ers,0.012,,,,,,,,
+1983,RDT,Randy White,Dallas Cowboys,0.012,,,,,,,,
+1983,LDE,Doug Betters,Miami Dolphins,,0.226,,,,,1,,
+1983,RDT,Randy White,Dallas Cowboys,,0.179,,,,,,,
+1983,LDT,Dave Butz,Washington Redskins,,0.083,,,,,,,
+1983,ROLB,Lawrence Taylor,New York Giants,,0.071,,,,,,,
+1983,LOLB,Chip Banks,Cleveland Browns,,0.06,,,,,,,
+1983,RILB,Jack Lambert,Pittsburgh Steelers,,0.06,,,,,,,
+1983,LDE,Mark Gastineau,New York Jets,,0.048,,,,,,,
+1983,DE,Fred Dean,San Francisco 49ers,,0.036,,,,,,,
+1983,LILB,A.J. Duhe,Miami Dolphins,,0.036,,,,,,,
+1983,FS,Mark Murphy,Washington Redskins,,0.036,,,,,,,
+1983,ROLB,Rod Martin,Los Angeles Raiders,,0.024,,,,,,,
+1983,RLB,Lance Mehl,New York Jets,,0.024,,,,,,,
+1983,LCB,Ronnie Lott,San Francisco 49ers,,0.012,,,,,,,
+1983,RDE,Lee Roy Selmon,Tampa Bay Buccaneers,,0.012,,,,,,,
+1983,RCB,Johnnie Poe,New Orleans Saints,,0.012,,,,,,,
+1983,LILB,Matt Millen,Los Angeles Raiders,,0.012,,,,,,,
+1983,RDE,Dexter Manley,Washington Redskins,,0.012,,,,,,,
+1983,LDE,Howie Long,Los Angeles Raiders,,0.012,,,,,,,
+1983,LOLB,Ted Hendricks,Los Angeles Raiders,,0.012,,,,,,,
+1983,LILB,Randy Gradishar,Denver Broncos,,0.012,,,,,,,
+1983,RDT,Doug English,Detroit Lions,,0.012,,,,,,,
+1983,RCB,Raymond Clayborn,New England Patriots,,0.012,,,,,,,
+1983,QB,Joe Theismann,Washington Redskins,,,0.488,,,,,1,
+1983,RB,Eric Dickerson,Los Angeles Rams,,,0.345,,,,,,
+1983,QB,Dan Marino,Miami Dolphins,,,0.06,,,,,,
+1983,RB,John Riggins,Washington Redskins,,,0.048,,,,,,
+1983,QB,Joe Montana,San Francisco 49ers,,,0.024,,,,,,
+1983,QB,Lynn Dickey,Green Bay Packers,,,0.012,,,,,,
+1983,WR,Mike Quick,Philadelphia Eagles,,,0.012,,,,,,
+1983,RB,Curt Warner,Seattle Seahawks,,,0.012,,,,,,
+1983,G,Joe DeLamielleure,Cleveland Browns,,,,1,,,,,
+1983,LDE,Doug Betters,Miami Dolphins,,,,1,,,,,
+1983,TE,Todd Christensen,Los Angeles Raiders,,,,1,,,,,
+1983,RB,Eric Dickerson,Los Angeles Rams,,,,1,,,,,
+1983,WR,Roy Green,St. Louis Rams,,,,1,,,,,
+1983,K,Ali Haji-Sheikh,New York Giants,,,,1,,,,,
+1983,LG,John Hannah,New England Patriots,,,,1,,,,,
+1983,LT,Joe Jacoby,Washington Commanders,,,,1,,,,,
+1983,ROLB/RILB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1983,QB,Joe Theismann,Washington Commanders,,,,1,,,,,
+1983,P,Rich Camarillo,New England Patriots,,,,1,,,,,
+1983,RDT,Randy White,Dallas Cowboys,,,,1,,,,,
+1983,SS,Kenny Easley,Seattle Seahawks,,,,1,,,,,
+1983,LG,Russ Grimm,Washington Commanders,,,,1,,,,,
+1983,LDE,Howie Long,Los Angeles Raiders,,,,1,,,,,
+1983,LDT,Dave Butz,Washington Commanders,,,,1,,,,,
+1983,LOLB,Chip Banks,Cleveland Browns,,,,1,,,,,
+1983,C,Dwight Stephenson,Miami Dolphins,,,,1,,,,,
+1983,WR,Mike Quick,Philadelphia Eagles,,,,1,,,,,
+1983,WR,Billy Johnson,Atlanta Falcons,,,,1,,,,,
+1983,ROLB,Rod Martin,Los Angeles Raiders,,,,1,,,,,
+1983,NT,Bob Baumhower,Miami Dolphins,,,,1,,,,,
+1983,MLB,Mike Singletary,Chicago Bears,,,,1,,,,,
+1983,LCB,Gary Green,Kansas City Chiefs,,,,1,,,,,
+1983,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1983,ROLB,Hugh Green,Tampa Bay Buccaneers,,,,1,,,,,
+1983,LCB,Lester Hayes,Los Angeles Raiders,,,,1,,,,,
+1983,C,Mike Webster,Pittsburgh Steelers,,,,1,,,,,
+1983,LG,Kent Hill,Los Angeles Rams,,,,1,,,,,
+1983,RB,William Andrews,Atlanta Falcons,,,,1,,,,,
+1983,LT,Mike Kenn,Atlanta Falcons,,,,1,,,,,
+1983,NT,Fred Smerlas,Buffalo Bills,,,,1,,,,,
+1983,LCB,Everson Walls,Dallas Cowboys,,,,1,,,,,
+1983,LDE,Mark Gastineau,New York Jets,,,,1,,,,,
+1983,WR,James Lofton,Green Bay Packers,,,,1,,,,,
+1983,LDE,Too Tall Jones,Dallas Cowboys,,,,1,,,,,
+1983,P,Rohn Stark,Baltimore Ravens,,,,1,,,,,
+1983,K,Gary Anderson,Pittsburgh Steelers,,,,1,,,,,
+1983,FS,Deron Cherry,Kansas City Chiefs,,,,1,,,,,
+1983,RB,Curt Warner,Seattle Seahawks,,,,1,,,,,
+1983,RCB,Raymond Clayborn,New England Patriots,,,,1,,,,,
+1983,FS,Johnnie Johnson,Los Angeles Rams,,,,1,,,,,
+1983,P,Carl Birdsong,St. Louis Rams,,,,1,,,,,
+1983,C,Jeff Bostic,Washington Commanders,,,,1,,,,,
+1983,TE,Paul Coffman,Green Bay Packers,,,,1,,,,,
+1983,RB,Joe Cribbs,Buffalo Bills,,,,1,,,,,
+1983,RT,Keith Fahnhorst,San Francisco 49ers,,,,1,,,,,
+1983,LCB,Louis Wright,Denver Broncos,,,,1,,,,,
+1983,FS/SS,Steve Freeman,Buffalo Bills,,,,1,,,,,
+1983,SS,Nolan Cromwell,Los Angeles Rams,,,,1,,,,,
+1983,RG,Ed Newman,Miami Dolphins,,,,1,,,,,
+1983,RT,Jackie Slater,Los Angeles Rams,,,,1,,,,,
+1983,DE,Fred Dean,San Francisco 49ers,,,,1,,,,,
+1983,LG,Chris Hinton,Baltimore Ravens,,,,1,,,,,
+1983,LOLB,Rickey Jackson,New Orleans Saints,,,,1,,,,,
+1983,LDT,Joe Klecko,New York Jets,,,,1,,,,,
+1983,RLB,Lance Mehl,New York Jets,,,,1,,,,,
+1983,RT,Marvin Powell,New York Jets,,,,1,,,,,
+1983,RILB,Tom Cousineau,Cleveland Browns,,,,1,,,,,
+1983,RCB,Johnnie Poe,New Orleans Saints,,,,1,,,,,
+1983,RT,Cody Risien,Cleveland Browns,,,,1,,,,,
+1983,LT,Brian Holloway,New England Patriots,,,,1,,,,,
+1983,NT,David Logan,Tampa Bay Buccaneers,,,,1,,,,,
+1983,RB,Greg Pruitt,Los Angeles Raiders,,,,1,,,,,
+1983,WR,Tim Smith,Houston Texans,,,,1,,,,,
+1983,MLB,Bob Breunig,Dallas Cowboys,,,,1,,,,,
+1983,WR,Carlos Carson,Kansas City Chiefs,,,,1,,,,,
+1983,RCB,Eric Wright,San Francisco 49ers,,,,1,,,,,
+1983,TE,Ozzie Newsome,Cleveland Browns,,,,1,,,,,
+1983,K,Raul Allegre,Baltimore Ravens,,,,1,,,,,
+1983,RB,Tony Dorsett,Dallas Cowboys,,,,1,,,,,
+1983,LILB,Randy Gradishar,Denver Broncos,,,,1,,,,,
+1983,LDE,Jacob Green,Seattle Seahawks,,,,1,,,,,
+1983,C,Larry McCarren,Green Bay Packers,,,,1,,,,,
+1983,FS,Vann McElroy,Los Angeles Raiders,,,,1,,,,,
+1983,RB,Walter Payton,Chicago Bears,,,,1,,,,,
+1983,TE,Mike Barber,Los Angeles Rams,,,,1,,,,,
+1983,RILB,Jim Collins,Los Angeles Rams,,,,1,,,,,
+1983,RB,Tony Collins,New England Patriots,,,,1,,,,,
+1983,QB,Lynn Dickey,Green Bay Packers,,,,1,,,,,
+1983,WR,Mark Duper,Miami Dolphins,,,,1,,,,,
+1983,P,Frank Garcia,Tampa Bay Buccaneers,,,,1,,,,,
+1983,LOLB,Ted Hendricks,Los Angeles Raiders,,,,1,,,,,
+1983,SS,Roland James,New England Patriots,,,,1,,,,,
+1983,LILB,Jim Kovach,New Orleans Saints,,,,1,,,,,
+1983,LG,Bob Kuechenberg,Miami Dolphins,,,,1,,,,,
+1983,RT,Henry Lawrence,Los Angeles Raiders,,,,1,,,,,
+1983,RLB,Rich Milot,Washington Commanders,,,,1,,,,,
+1983,K,Mark Moseley,Washington Commanders,,,,1,,,,,
+1983,LG,Herbert Scott,Dallas Cowboys,,,,1,,,,,
+1983,LG,R.C. Thielemann,Atlanta Falcons,,,,1,,,,,
+1983,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,
+1983,LG,Mike Munchak,Houston Texans,,,,1,,,,,
+1983,LILB,Jerry Robinson,Philadelphia Eagles,,,,1,,,,,
+1983,DT,Doug English,Detroit Lions,,,,1,,,,,
+1983,CB,Mark Haynes,New York Giants,,,,1,,,,,
+1983,RILB,Jack Lambert,Pittsburgh Steelers,,,,1,,,,,
+1983,FS,Mark Murphy,Washington Commanders,,,,1,,,,,
+1983,RB,John Riggins,Washington Commanders,,,,1,,,,,
+1983,DB,Fulton Walker,Miami Dolphins,,,,1,,,,,
+1983,LCB,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1983,WR,Steve Largent,Seattle Seahawks,,,,1,,,,,
+1983,RT,Eric Laakso,Miami Dolphins,,,,1,,,,,
+1983,RDE/LDT,William Gay,Detroit Lions,,,,1,,,,,
+1983,WR,Charlie Brown,Washington Commanders,,,,1,,,,,
+1983,LT,Pat Donovan,Dallas Cowboys,,,,1,,,,,
+1983,LILB,A.J. Duhe,Miami Dolphins,,,,1,,,,,
+1983,RB,Mike Pruitt,Cleveland Browns,,,,1,,,,,
+1983,RCB,Ken Riley,Cincinnati Bengals,,,,1,,,,,
+1983,WR,Cris Collinsworth,Cincinnati Bengals,,,,1,,,,,
+1983,SS,Russell Gary,New Orleans Saints,,,,1,,,,,
+1983,RDE,Lee Roy Selmon,Tampa Bay Buccaneers,,,,1,,,,,
+1983,DB,Mike Nelms,Washington Commanders,,,,1,,,,,
+1983,QB,Dan Marino,Miami Dolphins,,,,1,,,,,
+1983,QB,Dan Fouts,San Diego Chargers,,,,1,,,,,
+1982,K,Mark Moseley,Washington Redskins,0.417,,,,,1,,,
+1982,QB,Dan Fouts,San Diego Chargers,0.393,,,,,,,,
+1982,RB,Marcus Allen,Los Angeles Raiders,0.071,,,,,,,,
+1982,QB,Joe Theismann,Washington Redskins,0.036,,,,,,,,
+1982,QB,Danny White,Dallas Cowboys,0.024,,,,,,,,
+1982,ROLB,Lawrence Taylor,New York Giants,,0.405,,,,,1,,
+1982,LOLB,Ted Hendricks,Los Angeles Raiders,,0.095,,,,,,,
+1982,RDT,Randy White,Dallas Cowboys,,0.095,,,,,,,
+1982,ROLB,Joel Williams,Atlanta Falcons,,0.071,,,,,,,
+1982,LDE,Mark Gastineau,New York Jets,,0.06,,,,,,,
+1982,LCB,Everson Walls,Dallas Cowboys,,0.06,,,,,,,
+1982,RILB,Jack Lambert,Pittsburgh Steelers,,0.048,,,,,,,
+1982,SS,Neal Colzie,Tampa Bay Buccaneers,,0.036,,,,,,,
+1982,RDE,Harvey Martin,Dallas Cowboys,,0.024,,,,,,,
+1982,QB,Dan Fouts,San Diego Chargers,,,0.512,,,,,1,
+1982,RB,Marcus Allen,Los Angeles Raiders,,,0.214,,,,,,
+1982,K,Mark Moseley,Washington Redskins,,,0.131,,,,,,
+1982,WR,Wes Chandler,San Diego Chargers,,,0.036,,,,,,
+1982,QB,Danny White,Dallas Cowboys,,,0.036,,,,,,
+1982,TE,Kellen Winslow,San Diego Chargers,,,0.024,,,,,,
+1982,T,Russ Washington,San Diego Chargers,,,,1,,,,,
+1982,DE,Harvey Martin,Dallas Cowboys,,,,1,,,,,
+1982,DT,Doug English,Detroit Lions,,,,1,,,,,
+1982,DT,Gary Johnson,San Diego Chargers,,,,1,,,,,
+1982,OLB,Joel Williams,Atlanta Falcons,,,,1,,,,,
+1982,CB,Louis Breeden,Cincinnati Bengals,,,,1,,,,,
+1982,S,Neal Colzie,Tampa Bay Buccaneers,,,,1,,,,,
+1982,S,Tim Fox,San Diego Chargers,,,,1,,,,,
+1982,K,Uwe von Schamann,Miami Dolphins,,,,1,,,,,
+1982,KR,Mike Nelms,Washington Commanders,,,,1,,,,,
+1982,KR,Rick Upchurch,Denver Broncos,,,,1,,,,,
+1982,RB,Marcus Allen,Los Angeles Raiders,,,,1,,,,,
+1982,WR,Wes Chandler,San Diego Chargers,,,,1,,,,,
+1982,WR,Dwight Clark,San Francisco 49ers,,,,1,,,,,
+1982,QB,Dan Fouts,San Diego Chargers,,,,1,,,,,
+1982,LDE,Mark Gastineau,New York Jets,,,,1,,,,,
+1982,RILB,Jack Lambert,Pittsburgh Steelers,,,,1,,,,,
+1982,RB,Freeman McNeil,New York Jets,,,,1,,,,,
+1982,K,Mark Moseley,Washington Commanders,,,,1,,,,,
+1982,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1982,RT,Marvin Powell,New York Jets,,,,1,,,,,
+1982,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1982,RDT,Randy White,Dallas Cowboys,,,,1,,,,,
+1982,LG,Doug Wilkerson,San Diego Chargers,,,,1,,,,,
+1982,TE,Kellen Winslow,San Diego Chargers,,,,1,,,,,
+1982,P,Dave Jennings,New York Giants,,,,1,,,,,
+1982,LCB,Mark Haynes,New York Giants,,,,1,,,,,
+1982,RDT,Dan Hampton,Chicago Bears,,,,1,,,,,
+1982,ROLB,Hugh Green,Tampa Bay Buccaneers,,,,1,,,,,
+1982,LCB,Everson Walls,Dallas Cowboys,,,,1,,,,,
+1982,RDE,Lee Roy Selmon,Tampa Bay Buccaneers,,,,1,,,,,
+1982,C,Mike Webster,Pittsburgh Steelers,,,,1,,,,,
+1982,FS,Nolan Cromwell,Los Angeles Rams,,,,1,,,,,
+1982,SS,Kenny Easley,Seattle Seahawks,,,,1,,,,,
+1982,LG,John Hannah,New England Patriots,,,,1,,,,,
+1982,SS,Donnie Shell,Pittsburgh Steelers,,,,1,,,,,
+1982,C,Joe Fields,New York Jets,,,,1,,,,,
+1982,NT,Fred Smerlas,Buffalo Bills,,,,1,,,,,
+1982,LCB,Mike Haynes,New England Patriots,,,,1,,,,,
+1982,RG,Ed Newman,Miami Dolphins,,,,1,,,,,
+1982,FS,Gary Barbaro,Kansas City Chiefs,,,,1,,,,,
+1982,LOLB,Ted Hendricks,Los Angeles Raiders,,,,1,,,,,
+1982,LDE,Doug Martin,Minnesota Vikings,,,,1,,,,,
+1982,P,Luke Prestridge,Denver Broncos,,,,1,,,,,
+1982,RG,R.C. Thielemann,Atlanta Falcons,,,,1,,,,,
+1982,LDE,Too Tall Jones,Dallas Cowboys,,,,1,,,,,
+1982,ROLB,Mike Douglass,Green Bay Packers,,,,1,,,,,
+1982,SS,Gary Fencik,Chicago Bears,,,,1,,,,,
+1982,DB,LeRoy Irvin,Los Angeles Rams,,,,1,,,,,
+1982,ROLB,Rod Martin,Los Angeles Raiders,,,,1,,,,,
+1982,FB,William Andrews,Atlanta Falcons,,,,1,,,,,
+1982,NT,Bob Baumhower,Miami Dolphins,,,,1,,,,,
+1982,RB,Tony Dorsett,Dallas Cowboys,,,,1,,,,,
+1982,LT,Mike Kenn,Atlanta Falcons,,,,1,,,,,
+1982,WR,James Lofton,Green Bay Packers,,,,1,,,,,
+1982,RILB,Harry Carson,New York Giants,,,,1,,,,,
+1982,LCB,Lester Hayes,Los Angeles Raiders,,,,1,,,,,
+1982,QB,Joe Theismann,Washington Commanders,,,,1,,,,,
+1982,RDE,Lyle Alzado,Los Angeles Raiders,,,,1,,,,,
+1982,K,Rolf Benirschke,San Diego Chargers,,,,1,,,,,
+1982,ROLB,Robert Brazile,Houston Texans,,,,1,,,,,
+1982,MLB,Bob Breunig,Dallas Cowboys,,,,1,,,,,
+1982,LT,Pat Donovan,Dallas Cowboys,,,,1,,,,,
+1982,TE,Jimmie Giles,Tampa Bay Buccaneers,,,,1,,,,,
+1982,RILB,Randy Gradishar,Denver Broncos,,,,1,,,,,
+1982,LG,Kent Hill,Los Angeles Rams,,,,1,,,,,
+1982,C,Larry McCarren,Green Bay Packers,,,,1,,,,,
+1982,SS,Tony Peters,Washington Commanders,,,,1,,,,,
+1982,WR,Wesley Walker,New York Jets,,,,1,,,,,
+1982,WR,Charlie Brown,Washington Commanders,,,,1,,,,,
+1982,WR,Cris Collinsworth,Cincinnati Bengals,,,,1,,,,,
+1982,FS,Darrol Ray,New York Jets,,,,1,,,,,
+1982,TE,Dan Ross,Cincinnati Bengals,,,,1,,,,,
+1982,C,Jeff Van Note,Atlanta Falcons,,,,1,,,,,
+1982,QB,Danny White,Dallas Cowboys,,,,1,,,,,
+1982,LDE,Ben Williams,Buffalo Bills,,,,1,,,,,
+1982,QB,Ken Anderson,Cincinnati Bengals,,,,1,,,,,
+1982,LOLB,Chip Banks,Cleveland Browns,,,,1,,,,,
+1982,P,Carl Birdsong,St. Louis Rams,,,,1,,,,,
+1982,LOLB,Matt Blair,Minnesota Vikings,,,,1,,,,,
+1982,RT,Larry Brown,Pittsburgh Steelers,,,,1,,,,,
+1982,TE,Paul Coffman,Green Bay Packers,,,,1,,,,,
+1982,RG,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1982,RILB,Buddy Curry,Atlanta Falcons,,,,1,,,,,
+1982,RCB,Vernon Dean,Washington Commanders,,,,1,,,,,
+1982,RT,Keith Dorney,Detroit Lions,,,,1,,,,,
+1982,RCB,Herm Edwards,Philadelphia Eagles,,,,1,,,,,
+1982,RT,Keith Fahnhorst,San Francisco 49ers,,,,1,,,,,
+1982,FB,Andra Franklin,Miami Dolphins,,,,1,,,,,
+1982,LCB,Gary Green,Kansas City Chiefs,,,,1,,,,,
+1982,LG,Russ Grimm,Washington Commanders,,,,1,,,,,
+1982,LDE,Dennis Harrison,Philadelphia Eagles,,,,1,,,,,
+1982,LG,Bob Kuechenberg,Miami Dolphins,,,,1,,,,,
+1982,LILB,Jim LeClair,Cincinnati Bengals,,,,1,,,,,
+1982,K,Nick Lowery,Kansas City Chiefs,,,,1,,,,,
+1982,LCB,Don McNeal,Miami Dolphins,,,,1,,,,,
+1982,RLB,Lance Mehl,New York Jets,,,,1,,,,,
+1982,LILB,Matt Millen,Los Angeles Raiders,,,,1,,,,,
+1982,RB,Chuck Muncie,San Diego Chargers,,,,1,,,,,
+1982,FS,Mark Murphy,Washington Commanders,,,,1,,,,,
+1982,RB,Billy Sims,Detroit Lions,,,,1,,,,,
+1982,WR,John Stallworth,Pittsburgh Steelers,,,,1,,,,,
+1982,P,Rohn Stark,Baltimore Ravens,,,,1,,,,,
+1982,LDE,Art Still,Kansas City Chiefs,,,,1,,,,,
+1982,RILB,Scott Studwell,Minnesota Vikings,,,,1,,,,,
+1982,RB,Wendell Tyler,Los Angeles Rams,,,,1,,,,,
+1982,P,Rich Camarillo,New England Patriots,,,,1,,,,,
+1982,RILB,George Cumby,Green Bay Packers,,,,1,,,,,
+1982,RT,Greg Koch,Green Bay Packers,,,,1,,,,,
+1982,K,Eddie Murray,Detroit Lions,,,,1,,,,,
+1982,TE,Ozzie Newsome,Cleveland Browns,,,,1,,,,,
+1982,RG,Kurt Petersen,Dallas Cowboys,,,,1,,,,,
+1982,ROLB,Keena Turner,San Francisco 49ers,,,,1,,,,,
+1981,QB,Ken Anderson,Cincinnati Bengals,0.548,,,,,1,,,
+1981,QB,Joe Montana,San Francisco 49ers,0.179,,,,,,,,
+1981,RB,Tony Dorsett,Dallas Cowboys,0.167,,,,,,,,
+1981,DE,Fred Dean,2TM,0.024,,,,,,,,
+1981,QB,Craig Morton,Denver Broncos,0.024,,,,,,,,
+1981,QB,Dan Fouts,San Diego Chargers,0.012,,,,,,,,
+1981,LCB,Ronnie Lott,San Francisco 49ers,0.012,,,,,,,,
+1981,RB,Chuck Muncie,San Diego Chargers,0.012,,,,,,,,
+1981,RB,George Rogers,New Orleans Saints,0.012,,,,,,,,
+1981,TE,Kellen Winslow,San Diego Chargers,0.012,,,,,,,,
+1981,ROLB,Lawrence Taylor,New York Giants,,0.262,,,,,1,,
+1981,RDE,Joe Klecko,New York Jets,,0.238,,,,,,,
+1981,LDE,Mark Gastineau,New York Jets,,0.119,,,,,,,
+1981,RDT,Randy White,Dallas Cowboys,,0.119,,,,,,,
+1981,DE,Fred Dean,2TM,,0.107,,,,,,,
+1981,LCB,Ronnie Lott,San Francisco 49ers,,0.071,,,,,,,
+1981,MLB,Jack Lambert,Pittsburgh Steelers,,0.048,,,,,,,
+1981,LDE,Too Tall Jones,Dallas Cowboys,,0.036,,,,,,,
+1981,QB,Ken Anderson,Cincinnati Bengals,,,0.476,,,,,1,
+1981,RB,Tony Dorsett,Dallas Cowboys,,,0.25,,,,,,
+1981,QB,Joe Montana,San Francisco 49ers,,,0.095,,,,,,
+1981,RB,George Rogers,New Orleans Saints,,,0.048,,,,,,
+1981,QB,Dan Fouts,San Diego Chargers,,,0.036,,,,,,
+1981,RB,Chuck Muncie,San Diego Chargers,,,0.024,,,,,,
+1981,RB,Billy Sims,Detroit Lions,,,0.024,,,,,,
+1981,FB,William Andrews,Atlanta Falcons,,,0.012,,,,,,
+1981,RB,Joe Delaney,Kansas City Chiefs,,,0.012,,,,,,
+1981,LT,Anthony Munoz,Cincinnati Bengals,,,0.012,,,,,,
+1981,TE,Kellen Winslow,San Diego Chargers,,,0.012,,,,,,
+1981,TE,Ozzie Newsome,Cleveland Browns,,,,1,,,,,
+1981,T,Mario Clark,Buffalo Bills,,,,1,,,,,
+1981,T,Eric Harris,Kansas City Chiefs,,,,1,,,,,
+1981,T,Ken Riley,Cincinnati Bengals,,,,1,,,,,
+1981,K,Jan Stenerud,Green Bay Packers,,,,1,,,,,
+1981,QB,Ken Anderson,Cincinnati Bengals,,,,1,,,,,
+1981,RB,Tony Dorsett,Dallas Cowboys,,,,1,,,,,
+1981,LG,John Hannah,New England Patriots,,,,1,,,,,
+1981,WR,Alfred Jenkins,Atlanta Falcons,,,,1,,,,,
+1981,RDE,Joe Klecko,New York Jets,,,,1,,,,,
+1981,WR,James Lofton,Green Bay Packers,,,,1,,,,,
+1981,LCB,Ronnie Lott,San Francisco 49ers,,,,1,,,,,
+1981,LT,Anthony Munoz,Cincinnati Bengals,,,,1,,,,,
+1981,ROLB,Lawrence Taylor,New York Giants,,,,1,,,,,
+1981,C,Mike Webster,Pittsburgh Steelers,,,,1,,,,,
+1981,RDT,Randy White,Dallas Cowboys,,,,1,,,,,
+1981,TE,Kellen Winslow,San Diego Chargers,,,,1,,,,,
+1981,FS,Nolan Cromwell,Los Angeles Rams,,,,1,,,,,
+1981,MLB,Jack Lambert,Pittsburgh Steelers,,,,1,,,,,
+1981,K,Rafael Septien,Dallas Cowboys,,,,1,,,,,
+1981,LCB,LeRoy Irvin,Los Angeles Rams,,,,1,,,,,
+1981,RG,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1981,P,Pat McInally,Cincinnati Bengals,,,,1,,,,,
+1981,DB,Mike Nelms,Washington Commanders,,,,1,,,,,
+1981,LOLB,Bob Swenson,Denver Broncos,,,,1,,,,,
+1981,RILB,Randy Gradishar,Denver Broncos,,,,1,,,,,
+1981,LG,Herbert Scott,Dallas Cowboys,,,,1,,,,,
+1981,RCB,Mel Blount,Pittsburgh Steelers,,,,1,,,,,
+1981,P,Tom Skladany,Detroit Lions,,,,1,,,,,
+1981,RDT,Doug English,Detroit Lions,,,,1,,,,,
+1981,LCB,Mark Haynes,New York Giants,,,,1,,,,,
+1981,FS,Gary Barbaro,Kansas City Chiefs,,,,1,,,,,
+1981,RDT,Gary Johnson,San Diego Chargers,,,,1,,,,,
+1981,SS,Gary Fencik,Chicago Bears,,,,1,,,,,
+1981,RB,George Rogers,New Orleans Saints,,,,1,,,,,
+1981,NT,Bob Baumhower,Miami Dolphins,,,,1,,,,,
+1981,FS,Dwight Hicks,San Francisco 49ers,,,,1,,,,,
+1981,WR,Steve Watson,Denver Broncos,,,,1,,,,,
+1981,LDE,Too Tall Jones,Dallas Cowboys,,,,1,,,,,
+1981,K,Nick Lowery,Kansas City Chiefs,,,,1,,,,,
+1981,NT,Fred Smerlas,Buffalo Bills,,,,1,,,,,
+1981,RILB,Harry Carson,New York Giants,,,,1,,,,,
+1981,NT,Charlie Johnson,Philadelphia Eagles,,,,1,,,,,
+1981,LDE,Mark Gastineau,New York Jets,,,,1,,,,,
+1981,LT,Mike Kenn,Atlanta Falcons,,,,1,,,,,
+1981,QB,Joe Montana,San Francisco 49ers,,,,1,,,,,
+1981,LCB,Gary Green,Kansas City Chiefs,,,,1,,,,,
+1981,WR,Frank Lewis,Buffalo Bills,,,,1,,,,,
+1981,TE,Joe Senser,Minnesota Vikings,,,,1,,,,,
+1981,LCB,Lester Hayes,Oakland Raiders,,,,1,,,,,
+1981,LOLB,Ted Hendricks,Oakland Raiders,,,,1,,,,,
+1981,FS,Darrol Ray,New York Jets,,,,1,,,,,
+1981,LG,Doug Wilkerson,San Diego Chargers,,,,1,,,,,
+1981,LT,Pat Donovan,Dallas Cowboys,,,,1,,,,,
+1981,LOLB,Matt Blair,Minnesota Vikings,,,,1,,,,,
+1981,C,Larry McCarren,Green Bay Packers,,,,1,,,,,
+1981,WR,Carl Roaches,Houston Texans,,,,1,,,,,
+1981,WR,J.T. Smith,Kansas City Chiefs,,,,1,,,,,
+1981,RT,Keith Dorney,Detroit Lions,,,,1,,,,,
+1981,LILB,A.J. Duhe,Miami Dolphins,,,,1,,,,,
+1981,C,Guy Morriss,Philadelphia Eagles,,,,1,,,,,
+1981,SS,Bill Thompson,Denver Broncos,,,,1,,,,,
+1981,RG,Ed Newman,Miami Dolphins,,,,1,,,,,
+1981,FB,William Andrews,Atlanta Falcons,,,,1,,,,,
+1981,ROLB,Robert Brazile,Houston Texans,,,,1,,,,,
+1981,WR,Cris Collinsworth,Cincinnati Bengals,,,,1,,,,,
+1981,C,Joe Fields,New York Jets,,,,1,,,,,
+1981,P,Dave Jennings,New York Giants,,,,1,,,,,
+1981,LDE,Mike Butler,Green Bay Packers,,,,1,,,,,
+1981,RB,Earl Campbell,Houston Texans,,,,1,,,,,
+1981,WR,Dwight Clark,San Francisco 49ers,,,,1,,,,,
+1981,RG,Joe DeLamielleure,Cleveland Browns,,,,1,,,,,
+1981,ROLB,Mike Douglass,Green Bay Packers,,,,1,,,,,
+1981,QB,Dan Fouts,San Diego Chargers,,,,1,,,,,
+1981,TE,Jimmie Giles,Tampa Bay Buccaneers,,,,1,,,,,
+1981,LT,Leon Gray,Houston Texans,,,,1,,,,,
+1981,P,Ray Guy,Oakland Raiders,,,,1,,,,,
+1981,RDE,Carl Hairston,Philadelphia Eagles,,,,1,,,,,
+1981,RG,Wes Hamilton,Minnesota Vikings,,,,1,,,,,
+1981,FB,Pete Johnson,Cincinnati Bengals,,,,1,,,,,
+1981,WR,Steve Largent,Seattle Seahawks,,,,1,,,,,
+1981,K,Pat Leahy,New York Jets,,,,1,,,,,
+1981,SS,Randy Logan,Philadelphia Eagles,,,,1,,,,,
+1981,WR,Ahmad Rashad,Minnesota Vikings,,,,1,,,,,
+1981,RILB,Jack Reynolds,San Francisco 49ers,,,,1,,,,,
+1981,RG,Greg Roberts,Tampa Bay Buccaneers,,,,1,,,,,
+1981,TE,Dan Ross,Cincinnati Bengals,,,,1,,,,,
+1981,RT,Jerry Sisemore,Philadelphia Eagles,,,,1,,,,,
+1981,NT,Don Smith,Atlanta Falcons,,,,1,,,,,
+1981,RCB,Dennis Thurman,Dallas Cowboys,,,,1,,,,,
+1981,C,Jeff Van Note,Atlanta Falcons,,,,1,,,,,
+1981,LT,Chris Ward,New York Jets,,,,1,,,,,
+1981,QB,Danny White,Dallas Cowboys,,,,1,,,,,
+1981,LDE,Ben Williams,Buffalo Bills,,,,1,,,,,
+1981,ROLB,Rod Martin,Oakland Raiders,,,,1,,,,,
+1981,K,Eddie Murray,Detroit Lions,,,,1,,,,,
+1981,C,Rich Saul,Los Angeles Rams,,,,1,,,,,
+1981,ROLB,Jerry Robinson,Philadelphia Eagles,,,,1,,,,,
+1981,RB,Joe Delaney,Kansas City Chiefs,,,,1,,,,,
+1981,RB,Chuck Muncie,San Diego Chargers,,,,1,,,,,
+1981,RB,Joe Cribbs,Buffalo Bills,,,,1,,,,,
+1981,RT,Marvin Powell,New York Jets,,,,1,,,,,
+1981,DE,Fred Dean,2TM,,,,1,,,,,
+1981,RB,Billy Sims,Detroit Lions,,,,1,,,,,
+1981,LDT,Louie Kelcher,San Diego Chargers,,,,1,,,,,
+1981,SS,Donnie Shell,Pittsburgh Steelers,,,,1,,,,,
+1981,LDE,Eddie Edwards,Cincinnati Bengals,,,,1,,,,,
+1981,LCB,Roynell Young,Philadelphia Eagles,,,,1,,,,,
+1981,T,Louis Wright,Denver Broncos,,,,1,,,,,
+1980,QB,Brian Sipe,Cleveland Browns,0.56,,,,,1,,,
+1980,RB,Earl Campbell,Houston Oilers,0.262,,,,,,,,
+1980,QB,Steve Bartkowski,Atlanta Falcons,0.048,,,,,,,,
+1980,QB,Ron Jaworski,Philadelphia Eagles,0.048,,,,,,,,
+1980,QB,Dan Fouts,San Diego Chargers,0.036,,,,,,,,
+1980,LCB,Lester Hayes,Oakland Raiders,,0.31,,,,,1,,
+1980,LOLB,Ted Hendricks,Oakland Raiders,,0.214,,,,,,,
+1980,RDT,Randy White,Dallas Cowboys,,0.095,,,,,,,
+1980,FS,Nolan Cromwell,Los Angeles Rams,,0.083,,,,,,,
+1980,LILB,Steve Nelson,New England Patriots,,0.036,,,,,,,
+1980,LOLB,Al Richardson,Atlanta Falcons,,0.036,,,,,,,
+1980,NT,Fred Smerlas,Buffalo Bills,,0.036,,,,,,,
+1980,RB,Earl Campbell,Houston Oilers,,,0.512,,,,,1,
+1980,QB,Brian Sipe,Cleveland Browns,,,0.31,,,,,,
+1980,QB,Dan Fouts,San Diego Chargers,,,0.083,,,,,,
+1980,WR,John Jefferson,San Diego Chargers,,,0.071,,,,,,
+1980,T,Fred Steinfort,Denver Broncos,,,,1,,,,,
+1980,T,John Smith,New England Patriots,,,,1,,,,,
+1980,S,Donnie Shell,Pittsburgh Steelers,,,,1,,,,,
+1980,K,Rolf Benirschke,San Diego Chargers,,,,1,,,,,
+1980,PR,J.T. Smith,Kansas City Chiefs,,,,1,,,,,
+1980,KR,Mike Nelms,Washington Commanders,,,,1,,,,,
+1980,FS,Nolan Cromwell,Los Angeles Rams,,,,1,,,,,
+1980,LG,John Hannah,New England Patriots,,,,1,,,,,
+1980,LCB,Lester Hayes,Oakland Raiders,,,,1,,,,,
+1980,LOLB,Ted Hendricks,Oakland Raiders,,,,1,,,,,
+1980,WR,John Jefferson,San Diego Chargers,,,,1,,,,,
+1980,P,Dave Jennings,New York Giants,,,,1,,,,,
+1980,RDT,Gary Johnson,San Diego Chargers,,,,1,,,,,
+1980,LT,Mike Kenn,Atlanta Falcons,,,,1,,,,,
+1980,RB,Walter Payton,Chicago Bears,,,,1,,,,,
+1980,QB,Brian Sipe,Cleveland Browns,,,,1,,,,,
+1980,C,Mike Webster,Pittsburgh Steelers,,,,1,,,,,
+1980,TE,Kellen Winslow,San Diego Chargers,,,,1,,,,,
+1980,ROLB,Robert Brazile,Houston Texans,,,,1,,,,,
+1980,WR,James Lofton,Green Bay Packers,,,,1,,,,,
+1980,LDE,Art Still,Kansas City Chiefs,,,,1,,,,,
+1980,RDT,Randy White,Dallas Cowboys,,,,1,,,,,
+1980,RDE,Lee Roy Selmon,Tampa Bay Buccaneers,,,,1,,,,,
+1980,RG,Joe DeLamielleure,Cleveland Browns,,,,1,,,,,
+1980,K,Eddie Murray,Detroit Lions,,,,1,,,,,
+1980,LILB,Steve Nelson,New England Patriots,,,,1,,,,,
+1980,LG,Herbert Scott,Dallas Cowboys,,,,1,,,,,
+1980,LG,Kent Hill,Los Angeles Rams,,,,1,,,,,
+1980,NT,Charlie Johnson,Philadelphia Eagles,,,,1,,,,,
+1980,NT,Fred Smerlas,Buffalo Bills,,,,1,,,,,
+1980,RDE,Lyle Alzado,Cleveland Browns,,,,1,,,,,
+1980,FS,Gary Barbaro,Kansas City Chiefs,,,,1,,,,,
+1980,P,Ray Guy,Oakland Raiders,,,,1,,,,,
+1980,WR,Stanley Morgan,New England Patriots,,,,1,,,,,
+1980,RB,Billy Sims,Detroit Lions,,,,1,,,,,
+1980,RT,Dan Dierdorf,St. Louis Rams,,,,1,,,,,
+1980,TE,Junior Miller,Atlanta Falcons,,,,1,,,,,
+1980,ROLB,Jerry Robinson,Philadelphia Eagles,,,,1,,,,,
+1980,WR,Charlie Joiner,San Diego Chargers,,,,1,,,,,
+1980,RILB,Randy Gradishar,Denver Broncos,,,,1,,,,,
+1980,RB,Joe Cribbs,Buffalo Bills,,,,1,,,,,
+1980,QB,Ron Jaworski,Philadelphia Eagles,,,,1,,,,,
+1980,WR,Ahmad Rashad,Minnesota Vikings,,,,1,,,,,
+1980,C,Jeff Van Note,Atlanta Falcons,,,,1,,,,,
+1980,LDE,Dan Hampton,Chicago Bears,,,,1,,,,,
+1980,LILB,Bill Bergey,Philadelphia Eagles,,,,1,,,,,
+1980,RG,Randy Cross,San Francisco 49ers,,,,1,,,,,
+1980,LT,Doug France,Los Angeles Rams,,,,1,,,,,
+1980,RDE,Carl Hairston,Philadelphia Eagles,,,,1,,,,,
+1980,RDT,Alan Page,Chicago Bears,,,,1,,,,,
+1980,MLB,Bob Breunig,Dallas Cowboys,,,,1,,,,,
+1980,LDE,Jack Youngblood,Los Angeles Rams,,,,1,,,,,
+1980,RILB,Buddy Curry,Atlanta Falcons,,,,1,,,,,
+1980,WR,Freddie Solomon,San Francisco 49ers,,,,1,,,,,
+1980,LT,Pat Donovan,Dallas Cowboys,,,,1,,,,,
+1980,LILB,Jim Haslett,Buffalo Bills,,,,1,,,,,
+1980,RB,Ottis Anderson,St. Louis Rams,,,,1,,,,,
+1980,SS,Randy Logan,Philadelphia Eagles,,,,1,,,,,
+1980,C,Rich Saul,Los Angeles Rams,,,,1,,,,,
+1980,QB,Steve Bartkowski,Atlanta Falcons,,,,1,,,,,
+1980,WR,Harold Carmichael,Philadelphia Eagles,,,,1,,,,,
+1980,QB,Dan Fouts,San Diego Chargers,,,,1,,,,,
+1980,LLB,Jack Ham,Pittsburgh Steelers,,,,1,,,,,
+1980,LG,Doug Wilkerson,San Diego Chargers,,,,1,,,,,
+1980,FB,William Andrews,Atlanta Falcons,,,,1,,,,,
+1980,LDT,Larry Brooks,Los Angeles Rams,,,,1,,,,,
+1980,C,Tom DeLeone,Cleveland Browns,,,,1,,,,,
+1980,LT,Doug Dieken,Cleveland Browns,,,,1,,,,,
+1980,RCB,Herm Edwards,Philadelphia Eagles,,,,1,,,,,
+1980,TE,Jimmie Giles,Tampa Bay Buccaneers,,,,1,,,,,
+1980,LG,Noah Jackson,Chicago Bears,,,,1,,,,,
+1980,P,John James,Atlanta Falcons,,,,1,,,,,
+1980,LT,Ken Jones,Buffalo Bills,,,,1,,,,,
+1980,WR,Steve Largent,Seattle Seahawks,,,,1,,,,,
+1980,RLB,Woodrow Lowe,San Diego Chargers,,,,1,,,,,
+1980,K,Tim Mazzetti,Atlanta Falcons,,,,1,,,,,
+1980,LG,Reggie McKenzie,Buffalo Bills,,,,1,,,,,
+1980,RCB,Rod Perry,Los Angeles Rams,,,,1,,,,,
+1980,SS,Vernon Perry,Houston Texans,,,,1,,,,,
+1980,P,Luke Prestridge,Denver Broncos,,,,1,,,,,
+1980,FB,Mike Pruitt,Cleveland Browns,,,,1,,,,,
+1980,FS,Mike Reinfeldt,Houston Texans,,,,1,,,,,
+1980,LOLB,Al Richardson,Atlanta Falcons,,,,1,,,,,
+1980,RCB,Greg Stemrick,Houston Texans,,,,1,,,,,
+1980,LDE,Ben Williams,Buffalo Bills,,,,1,,,,,
+1980,TE,Ozzie Newsome,Cleveland Browns,,,,1,,,,,
+1980,LG,Dave Scott,Atlanta Falcons,,,,1,,,,,
+1980,T,Bruce Laird,Baltimore Ravens,,,,1,,,,,
+1980,RB,Earl Campbell,Houston Texans,,,,1,,,,,
+1980,LCB,Lemar Parrish,Washington Commanders,,,,1,,,,,
+1980,SS,Gary Fencik,Chicago Bears,,,,1,,,,,
+1980,RT,Marvin Powell,New York Jets,,,,1,,,,,
+1980,LDT,Louie Kelcher,San Diego Chargers,,,,1,,,,,
+1980,TE,Russ Francis,New England Patriots,,,,1,,,,,
+1980,RG,Dennis Harrah,Los Angeles Rams,,,,1,,,,,
+1980,RB,Kenny King,Oakland Raiders,,,,1,,,,,
+1980,LOLB,Brad Van Pelt,New York Giants,,,,1,,,,,
+1980,LCB,Louis Wright,Denver Broncos,,,,1,,,,,
+1980,LT,Leon Gray,Houston Texans,,,,1,,,,,
+1980,MLB,Jack Lambert,Pittsburgh Steelers,,,,1,,,,,
+1980,RB,Horace Ivory,New England Patriots,,,,1,,,,,
+1980,RDE,Fred Dean,San Diego Chargers,,,,1,,,,,
+1980,LLB,Matt Blair,Minnesota Vikings,,,,1,,,,,
+1980,LCB,Pat Thomas,Los Angeles Rams,,,,1,,,,,
+1980,NT,Reggie Kinlaw,Oakland Raiders,,,,1,,,,,
+1980,WR,Pat Tilley,St. Louis Rams,,,,1,,,,,
+1980,RCB,Mike Haynes,New England Patriots,,,,1,,,,,
+1980,WR,Rich Mauti,New Orleans Saints,,,,1,,,,,

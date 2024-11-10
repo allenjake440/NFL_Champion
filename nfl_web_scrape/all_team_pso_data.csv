@@ -1,4 +1,36 @@
 ﻿season,Team,pso
+2024,Kansas City Chiefs,500
+2024,San Francisco 49ers,600
+2024,Baltimore Ravens,1000
+2024,Philadelphia Eagles,1200
+2024,Detroit Lions,1200
+2024,Cincinnati Bengals,1300
+2024,Houston Texans,1600
+2024,Green Bay Packers,1600
+2024,Buffalo Bills,1600
+2024,New York Jets,2000
+2024,Dallas Cowboys,2000
+2024,Miami Dolphins,2500
+2024,Los Angeles Rams,3000
+2024,Atlanta Falcons,3000
+2024,Chicago Bears,3500
+2024,Los Angeles Chargers,4000
+2024,Cleveland Browns,4000
+2024,Pittsburgh Steelers,5000
+2024,Jacksonville Jaguars,5000
+2024,Seattle Seahawks,6600
+2024,Tampa Bay Buccaneers,8000
+2024,Indianapolis Colts,8000
+2024,New Orleans Saints,10000
+2024,Minnesota Vikings,10000
+2024,Arizona Cardinals,12500
+2024,Washington Commanders,15000
+2024,Tennessee Titans,15000
+2024,Las Vegas Raiders,15000
+2024,Denver Broncos,15000
+2024,New York Giants,20000
+2024,Carolina Panthers,25000
+2024,New England Patriots,30000
 2023,Kansas City Chiefs,600
 2023,Philadelphia Eagles,750
 2023,Buffalo Bills,900
@@ -1056,3 +1088,283 @@
 1990,Seattle Seahawks,4000
 1990,Tampa Bay Buccaneers,10000
 1990,Washington Redskins,1200
+1989,San Francisco 49ers,600
+1989,Minnesota Vikings,600
+1989,Cincinnati Bengals,600
+1989,Los Angeles Rams,700
+1989,Buffalo Bills,700
+1989,New York Giants,1000
+1989,New Orleans Saints,1000
+1989,Chicago Bears,1000
+1989,Philadelphia Eagles,1200
+1989,Houston Oilers,1200
+1989,Washington Redskins,1500
+1989,Seattle Seahawks,1500
+1989,Indianapolis Colts,1500
+1989,Cleveland Browns,1500
+1989,New England Patriots,2000
+1989,Los Angeles Raiders,2000
+1989,Denver Broncos,2000
+1989,New York Jets,4000
+1989,Phoenix Cardinals,5000
+1989,Miami Dolphins,5000
+1989,Pittsburgh Steelers,7500
+1989,Atlanta Falcons,7500
+1989,Kansas City Chiefs,10000
+1989,Dallas Cowboys,10000
+1989,Tampa Bay Buccaneers,12500
+1989,San Diego Chargers,12500
+1989,Detroit Lions,15000
+1989,Green Bay Packers,20000
+1988,Atlanta Falcons,30000
+1988,Buffalo Bills,2000
+1988,Chicago Bears,1000
+1988,Cincinnati Bengals,4000
+1988,Cleveland Browns,400
+1988,Dallas Cowboys,3000
+1988,Denver Broncos,600
+1988,Detroit Lions,20000
+1988,Green Bay Packers,7500
+1988,Houston Oilers,2200
+1988,Indianapolis Colts,2000
+1988,Kansas City Chiefs,6000
+1988,Los Angeles Raiders,1500
+1988,Los Angeles Rams,2500
+1988,Miami Dolphins,2000
+1988,Minnesota Vikings,600
+1988,New England Patriots,2500
+1988,New Orleans Saints,600
+1988,New York Giants,400
+1988,New York Jets,5000
+1988,Philadelphia Eagles,2200
+1988,Phoenix Cardinals,7500
+1988,Pittsburgh Steelers,3000
+1988,San Diego Chargers,10000
+1988,San Francisco 49ers,300
+1988,Seattle Seahawks,1000
+1988,Tampa Bay Buccaneers,20000
+1988,Washington Redskins,600
+1987,New York Giants,400
+1987,San Francisco 49ers,500
+1987,Chicago Bears,500
+1987,Cleveland Browns,600
+1987,Denver Broncos,700
+1987,Washington Redskins,1000
+1987,Miami Dolphins,1000
+1987,New York Jets,1200
+1987,New England Patriots,1200
+1987,Los Angeles Rams,1200
+1987,Los Angeles Raiders,1200
+1987,Dallas Cowboys,1500
+1987,Seattle Seahawks,2000
+1987,Cincinnati Bengals,2000
+1987,San Diego Chargers,3000
+1987,St. Louis Cardinals,4500
+1987,Philadelphia Eagles,5000
+1987,Minnesota Vikings,5000
+1987,Kansas City Chiefs,5000
+1987,Green Bay Packers,5000
+1987,Detroit Lions,5000
+1987,Pittsburgh Steelers,6000
+1987,New Orleans Saints,7500
+1987,Buffalo Bills,7500
+1987,Atlanta Falcons,10000
+1987,Houston Oilers,12000
+1987,Tampa Bay Buccaneers,15000
+1987,Indianapolis Colts,15000
+1986,Chicago Bears,300
+1986,San Francisco 49ers,500
+1986,Los Angeles Raiders,600
+1986,Miami Dolphins,800
+1986,Denver Broncos,1000
+1986,San Diego Chargers,1200
+1986,New York Giants,1200
+1986,Los Angeles Rams,1200
+1986,New York Jets,1500
+1986,New England Patriots,1500
+1986,Dallas Cowboys,1500
+1986,Cleveland Browns,1500
+1986,Washington Redskins,1800
+1986,Cincinnati Bengals,1800
+1986,Seattle Seahawks,2000
+1986,St. Louis Cardinals,3000
+1986,Green Bay Packers,3000
+1986,Pittsburgh Steelers,4000
+1986,Philadelphia Eagles,4000
+1986,Kansas City Chiefs,4000
+1986,Detroit Lions,4000
+1986,Houston Oilers,5000
+1986,Minnesota Vikings,6000
+1986,Tampa Bay Buccaneers,8000
+1986,New Orleans Saints,8000
+1986,Indianapolis Colts,10000
+1986,Buffalo Bills,10000
+1986,Atlanta Falcons,10000
+1985,San Francisco 49ers,300
+1985,Miami Dolphins,800
+1985,Los Angeles Raiders,800
+1985,Seattle Seahawks,900
+1985,Chicago Bears,1000
+1985,Washington Redskins,1100
+1985,Denver Broncos,1400
+1985,Dallas Cowboys,1500
+1985,St. Louis Cardinals,1800
+1985,San Diego Chargers,2500
+1985,New York Giants,2500
+1985,Los Angeles Rams,2500
+1985,Green Bay Packers,2500
+1985,Pittsburgh Steelers,3000
+1985,New England Patriots,3000
+1985,Kansas City Chiefs,3500
+1985,New York Jets,4000
+1985,Cincinnati Bengals,4000
+1985,Cleveland Browns,5000
+1985,Minnesota Vikings,6000
+1985,Houston Oilers,6000
+1985,Detroit Lions,6000
+1985,Tampa Bay Buccaneers,7500
+1985,Buffalo Bills,7500
+1985,Philadelphia Eagles,10000
+1985,New Orleans Saints,10000
+1985,Indianapolis Colts,10000
+1985,Atlanta Falcons,10000
+1984,Los Angeles Raiders,400
+1984,Washington Redskins,500
+1984,Miami Dolphins,500
+1984,Dallas Cowboys,600
+1984,San Francisco 49ers,700
+1984,Seattle Seahawks,800
+1984,San Diego Chargers,800
+1984,New Orleans Saints,800
+1984,Los Angeles Rams,1200
+1984,Green Bay Packers,1500
+1984,Pittsburgh Steelers,2000
+1984,New England Patriots,2000
+1984,Detroit Lions,2000
+1984,Cincinnati Bengals,2000
+1984,Atlanta Falcons,2000
+1984,Denver Broncos,2500
+1984,Chicago Bears,2500
+1984,St. Louis Cardinals,3000
+1984,Minnesota Vikings,3000
+1984,Cleveland Browns,3000
+1984,Buffalo Bills,3000
+1984,Philadelphia Eagles,4000
+1984,New York Jets,4000
+1984,New York Giants,4000
+1984,Kansas City Chiefs,4000
+1984,Houston Oilers,4000
+1984,Indianapolis Colts,7000
+1984,Tampa Bay Buccaneers,7500
+1983,Dallas Cowboys,600
+1983,San Diego Chargers,800
+1983,New York Jets,800
+1983,Cincinnati Bengals,800
+1983,Washington Redskins,1000
+1983,Green Bay Packers,1000
+1983,Miami Dolphins,1200
+1983,Los Angeles Raiders,1200
+1983,San Francisco 49ers,1500
+1983,Atlanta Falcons,1500
+1983,New York Giants,2000
+1983,Detroit Lions,2000
+1983,Pittsburgh Steelers,2500
+1983,Philadelphia Eagles,2500
+1983,Buffalo Bills,2500
+1983,Minnesota Vikings,3000
+1983,Cleveland Browns,3000
+1983,New England Patriots,4000
+1983,Los Angeles Rams,4000
+1983,Kansas City Chiefs,4000
+1983,Tampa Bay Buccaneers,5000
+1983,Denver Broncos,5000
+1983,Chicago Bears,8000
+1983,St. Louis Cardinals,10000
+1983,Seattle Seahawks,10000
+1983,New Orleans Saints,15000
+1983,Houston Oilers,20000
+1983,Baltimore Colts,50000
+1982,Dallas Cowboys,400
+1982,San Francisco 49ers,500
+1982,San Diego Chargers,600
+1982,Los Angeles Rams,700
+1982,Cincinnati Bengals,700
+1982,Atlanta Falcons,800
+1982,Philadelphia Eagles,1200
+1982,Miami Dolphins,1200
+1982,Pittsburgh Steelers,1500
+1982,New York Jets,1500
+1982,Buffalo Bills,1500
+1982,Detroit Lions,2000
+1982,New York Giants,2500
+1982,Kansas City Chiefs,2500
+1982,Cleveland Browns,2500
+1982,New England Patriots,3000
+1982,Minnesota Vikings,3000
+1982,Los Angeles Raiders,3000
+1982,Houston Oilers,3000
+1982,Green Bay Packers,3000
+1982,Denver Broncos,3000
+1982,Washington Redskins,3500
+1982,Tampa Bay Buccaneers,3500
+1982,Chicago Bears,5000
+1982,St. Louis Cardinals,7500
+1982,Seattle Seahawks,10000
+1982,New Orleans Saints,20000
+1982,Baltimore Colts,20000
+1981,San Diego Chargers,400
+1981,Oakland Raiders,500
+1981,Dallas Cowboys,500
+1981,Philadelphia Eagles,600
+1981,Cleveland Browns,700
+1981,Atlanta Falcons,700
+1981,Pittsburgh Steelers,800
+1981,New England Patriots,800
+1981,Los Angeles Rams,800
+1981,Houston Oilers,900
+1981,Buffalo Bills,1000
+1981,Miami Dolphins,1200
+1981,Chicago Bears,1800
+1981,Tampa Bay Buccaneers,2000
+1981,Detroit Lions,2000
+1981,Minnesota Vikings,2500
+1981,Washington Redskins,3000
+1981,Baltimore Colts,3000
+1981,San Francisco 49ers,5000
+1981,New York Jets,5000
+1981,Denver Broncos,5000
+1981,Cincinnati Bengals,6000
+1981,Kansas City Chiefs,8000
+1981,St. Louis Cardinals,10000
+1981,Seattle Seahawks,15000
+1981,New York Giants,20000
+1981,New Orleans Saints,25000
+1981,Green Bay Packers,25000
+1980,Pittsburgh Steelers,240
+1980,Los Angeles Rams,260
+1980,San Diego Chargers,700
+1980,Houston Oilers,700
+1980,Washington Redskins,800
+1980,Philadelphia Eagles,800
+1980,New England Patriots,800
+1980,Dallas Cowboys,800
+1980,Denver Broncos,1300
+1980,Miami Dolphins,1500
+1980,Tampa Bay Buccaneers,2500
+1980,New York Jets,2500
+1980,Detroit Lions,3000
+1980,Chicago Bears,3000
+1980,Seattle Seahawks,3500
+1980,Oakland Raiders,3500
+1980,Cleveland Browns,4000
+1980,St. Louis Cardinals,5000
+1980,New Orleans Saints,5000
+1980,Minnesota Vikings,5000
+1980,Baltimore Colts,5000
+1980,Atlanta Falcons,5000
+1980,Cincinnati Bengals,6000
+1980,Kansas City Chiefs,10000
+1980,Buffalo Bills,10000
+1980,New York Giants,50000
+1980,San Francisco 49ers,75000
+1980,Green Bay Packers,100000
