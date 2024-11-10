@@ -32,12 +32,12 @@ The code and visualizations provided clarify each feature's weight (as a percent
 <div align="center">
   <img src="https://github.com/user-attachments/assets/![image](https://github.com/user-attachments/assets/99705ed6-941d-4313-92d6-ae143b7558d6)
 )
-" alt="team_rat_cus">
+" alt="team_rat_cus_avg">
 </div>
 
 <div align="center">
-  <img src="![image](https://github.com/user-attachments/assets/5e1d2bc3-7621-42c0-9bc1-02da313930cc)
-     )" alt="team_rat_cus">
+  <img src="https://github.com/user-attachments/assets/![image](https://github.com/user-attachments/assets/5e1d2bc3-7621-42c0-9bc1-02da313930cc)
+     )" alt="team_rat_cus_pcc">
 </div>
 
 ### Code for Custom Rating Calculation
