@@ -88,13 +88,11 @@ The code and visualizations provided clarify each feature's weight (as a percent
 ### Bar Charts - QB Season Rating Custom
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/6![image](https://github.com/user-attachments/assets/256346dd-0171-4dec-a14c-315e7c0c6f97)
-" alt="team_rat_cus">
+  <img src="https://github.com/user-attachments/assets/256346dd-0171-4dec-a14c-315e7c0c6f97" alt="qb_rat_cus_avg">
 </div>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/![image](https://github.com/user-attachments/assets/1b194cf0-0d88-43e3-9e6a-cd3efad42041)
-" alt="team_rat_cus">
+  <img src="https://github.com/user-attachments/assets/1b194cf0-0d88-43e3-9e6a-cd3efad42041" alt="qb_rat_cus_pcc">
 </div>
 
 ### Code for Custom Rating Calculation
