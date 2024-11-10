@@ -30,9 +30,7 @@ The code and visualizations provided clarify each feature's weight (as a percent
 ### Bar Charts - Team Rating Custom
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/99705ed6-941d-4313-92d6-ae143b7558d6)
-)
-" alt="team_rat_cus_avg">
+  <img src="https://github.com/user-attachments/assets/99705ed6-941d-4313-92d6-ae143b7558d6" alt="team_rat_cus_avg">
 </div>
 
 <div align="center">
