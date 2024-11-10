@@ -2,7 +2,7 @@
 
 **Team Rating Custom** is a weight based formula, using critical team and player features to deliver a score that reflects a team's strength in a given season. More importantly, this metric is designed to predict post-season success, with scores scaled from 0 to 10.
 
-## Methodology - Understanding whats important in the Formula.
+## Methodology - Understanding whats important in the Formula
 
 1. **Weighted Scoring**: Each feature is multiplied by a defined weight (detailed below), determined through insights, trial and error.
 2. **Average Team Feature Importance**: To assess feature significance for the average team within the team rating metric:
