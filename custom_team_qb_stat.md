@@ -13,19 +13,19 @@
 
 The code and visualizations provided clarify each feature's weight (as a percentage) in calculating the Team Rating Custom metric. See the `nfl_champ_data` file for complete code details.
 
-### Feature Weights Breakdown
+### Feature Explained:
 
-| Feature                           | Description                                                                                       | Average Team Weight (%) | PCC to 
-|-----------------------------------|---------------------------------------------------------------------------------------------------|------------|-------------|
-| `W`                               | Team's total regular season wins                                                                  | 39.88      | 
-| `625_rec`                         | Team's regular season record ≥ 0.625                                                              | 21.41      |
-| `SRS_greater_than_1.5_pts`        | Adjusted margin of victory > 1.5 pts/game in regular season                                      | 26.98      |
-| `sum_mvp_shares`                  | Total MVP votes accumulated by all players                                                        | 1.39        |
-| `sum_dpoy_shares`                 | Total Defensive Player of the Year votes accumulated by all players                               | 0.86       |
-| `sum_cpoy_shares`                 | Total Comeback Player of the Year votes accumulated by all players                                | 0.78       |
-| `sum_opoy_shares`                 | Total Offensive Player of the Year votes accumulated by all players                               | 0.27       |
-| `sum_playoff_games`               | Total past playoff games played by each player                                                    | 0.00       |
-| `40_50+_perc_x_makes`               | The teams starting kickers regular season total 40-50 yard field goal percentage times the how many of those he has made | 1.66       |
+| Feature                           | Description                                                                                       
+|-----------------------------------|---------------------------------------------------------------------------------------------------
+| `W`                               | Team's total regular season wins                                                                  
+| `625_rec`                         | Team's regular season record ≥ 0.625                                                              
+| `SRS_greater_than_1.5_pts`        | Adjusted margin of victory > 1.5 pts/game in regular season                                      
+| `sum_mvp_shares`                  | Total MVP votes accumulated by all players                                                        
+| `sum_dpoy_shares`                 | Total Defensive Player of the Year votes accumulated by all players                               
+| `sum_cpoy_shares`                 | Total Comeback Player of the Year votes accumulated by all players                                
+| `sum_opoy_shares`                 | Total Offensive Player of the Year votes accumulated by all players                               
+| `sum_playoff_games`               | Total past playoff games played by each player                                                    
+| `40_50+_perc_x_makes`               | The teams starting kickers regular season total 40-50 yard field goal percentage times the how many of those he has made 
 
 ### Bar Charts - Team Rating Custom
 
