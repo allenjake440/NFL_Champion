@@ -1,4 +1,132 @@
 Season,Team,predicted_cs,champion_share,Team/Season
+2010,Indianapolis Colts,0.3660711794505879,0.75,Indianapolis Colts 2010
+2010,San Diego Chargers,0.3121843608259086,0.25,San Diego Chargers 2010
+2010,New Orleans Saints,0.35544903349368956,1.0,New Orleans Saints 2010
+2010,Minnesota Vikings,0.3807090256040362,0.5,Minnesota Vikings 2010
+2010,Philadelphia Eagles,0.34580993029156704,0.0,Philadelphia Eagles 2010
+2010,Green Bay Packers,0.3512110104004766,0.0,Green Bay Packers 2010
+2010,Dallas Cowboys,0.3131316013515384,0.25,Dallas Cowboys 2010
+2010,New England Patriots,0.7034713216915432,0.0,New England Patriots 2010
+2010,Arizona Cardinals,0.08561626876708273,0.25,Arizona Cardinals 2010
+2010,Cincinnati Bengals,0.005781183544361931,0.0,Cincinnati Bengals 2010
+2010,Baltimore Ravens,0.0694602983494592,0.25,Baltimore Ravens 2010
+2010,Pittsburgh Steelers,0.03754287945079469,0.0,Pittsburgh Steelers 2010
+2010,New York Jets,0.10369566607668686,0.5,New York Jets 2010
+2010,Atlanta Falcons,0.00914758480226873,0.0,Atlanta Falcons 2010
+2010,Houston Texans,0.016163500942146088,0.0,Houston Texans 2010
+2010,Carolina Panthers,0.00204537343084284,0.0,Carolina Panthers 2010
+2010,Tennessee Titans,0.005463374275952939,0.0,Tennessee Titans 2010
+2010,New York Giants,0.023299550540283105,0.0,New York Giants 2010
+2010,Denver Broncos,0.0611744796360089,0.0,Denver Broncos 2010
+2010,San Francisco 49ers,0.06292886560092119,0.0,San Francisco 49ers 2010
+2010,Miami Dolphins,0.00836116290452705,0.0,Miami Dolphins 2010
+2010,Chicago Bears,0.0030980050097902086,0.0,Chicago Bears 2010
+2010,Jacksonville Jaguars,0.00204537343084284,0.0,Jacksonville Jaguars 2010
+2010,Buffalo Bills,0.002220812027334068,0.0,Buffalo Bills 2010
+2010,Oakland Raiders,0.00916445255048011,0.0,Oakland Raiders 2010
+2010,Cleveland Browns,0.00046642606242178745,0.0,Cleveland Browns 2010
+2010,Seattle Seahawks,0.060812487110564556,0.0,Seattle Seahawks 2010
+2010,Washington Redskins,0.00046642606242178745,0.0,Washington Redskins 2010
+2010,Kansas City Chiefs,0.00046642606242178745,0.0,Kansas City Chiefs 2010
+2010,Tampa Bay Buccaneers,0.00046642606242178745,0.0,Tampa Bay Buccaneers 2010
+2010,Detroit Lions,0.00046642606242178745,0.0,Detroit Lions 2010
+2010,St. Louis Rams,0.002220812027334068,0.0,St. Louis Rams 2010
+2011,New England Patriots,0.5052484255433932,0.25,New England Patriots 2011
+2011,Atlanta Falcons,0.3581871147858757,0.25,Atlanta Falcons 2011
+2011,Baltimore Ravens,0.4357049019214715,0.25,Baltimore Ravens 2011
+2011,Pittsburgh Steelers,0.43642345068462557,0.75,Pittsburgh Steelers 2011
+2011,New Orleans Saints,0.42984668169068085,0.0,New Orleans Saints 2011
+2011,New York Jets,0.7309462905165788,0.5,New York Jets 2011
+2011,Chicago Bears,0.3159860851666249,0.5,Chicago Bears 2011
+2011,Indianapolis Colts,0.3283740523864961,0.0,Indianapolis Colts 2011
+2011,Green Bay Packers,0.3796863290735179,1.0,Green Bay Packers 2011
+2011,Philadelphia Eagles,0.06201732749376198,0.0,Philadelphia Eagles 2011
+2011,New York Giants,0.06599816020084562,0.0,New York Giants 2011
+2011,Tampa Bay Buccaneers,0.030998844964390974,0.0,Tampa Bay Buccaneers 2011
+2011,Kansas City Chiefs,0.02288091560046887,0.0,Kansas City Chiefs 2011
+2011,San Diego Chargers,0.043857758322924295,0.0,San Diego Chargers 2011
+2011,Oakland Raiders,0.021266017903090958,0.0,Oakland Raiders 2011
+2011,Jacksonville Jaguars,0.004082551079327581,0.0,Jacksonville Jaguars 2011
+2011,Miami Dolphins,0.004082551079327581,0.0,Miami Dolphins 2011
+2011,St. Louis Rams,0.007919065442157733,0.0,St. Louis Rams 2011
+2011,Seattle Seahawks,0.007919065442157733,0.25,Seattle Seahawks 2011
+2011,Detroit Lions,0.050756971131667133,0.0,Detroit Lions 2011
+2011,Minnesota Vikings,0.07720986087836072,0.0,Minnesota Vikings 2011
+2011,Dallas Cowboys,0.008029919500380215,0.0,Dallas Cowboys 2011
+2011,Tennessee Titans,0.004258373988187903,0.0,Tennessee Titans 2011
+2011,Washington Redskins,0.05525684062292263,0.0,Washington Redskins 2011
+2011,Houston Texans,0.004082551079327581,0.0,Houston Texans 2011
+2011,San Francisco 49ers,0.017884804257280645,0.0,San Francisco 49ers 2011
+2011,Arizona Cardinals,0.0102216970211051,0.0,Arizona Cardinals 2011
+2011,Cleveland Browns,0.004082551079327581,0.0,Cleveland Browns 2011
+2011,Denver Broncos,0.006275533535467932,0.0,Denver Broncos 2011
+2011,Cincinnati Bengals,0.004258373988187903,0.0,Cincinnati Bengals 2011
+2011,Buffalo Bills,0.004082551079327581,0.0,Buffalo Bills 2011
+2011,Carolina Panthers,0.004082551079327581,0.0,Carolina Panthers 2011
+2013,Denver Broncos,0.46225857400986636,0.25,Denver Broncos 2013
+2013,Atlanta Falcons,0.22012604779215653,0.5,Atlanta Falcons 2013
+2013,New England Patriots,0.33065594242121066,0.5,New England Patriots 2013
+2013,Houston Texans,0.29204986071368805,0.25,Houston Texans 2013
+2013,San Francisco 49ers,0.39547352189031354,0.75,San Francisco 49ers 2013
+2013,Green Bay Packers,0.37504625597125063,0.25,Green Bay Packers 2013
+2013,Seattle Seahawks,0.42666085052612235,0.25,Seattle Seahawks 2013
+2013,Indianapolis Colts,0.020090918649407135,0.0,Indianapolis Colts 2013
+2013,Baltimore Ravens,0.43111741622530014,1.0,Baltimore Ravens 2013
+2013,Chicago Bears,0.3950411404549213,0.0,Chicago Bears 2013
+2013,Minnesota Vikings,0.27862738284165106,0.0,Minnesota Vikings 2013
+2013,Washington Redskins,0.05724472578858483,0.0,Washington Redskins 2013
+2013,Cincinnati Bengals,0.03734505704246645,0.0,Cincinnati Bengals 2013
+2013,New York Giants,0.03315653978257616,0.0,New York Giants 2013
+2013,Pittsburgh Steelers,0.024860850773705763,0.0,Pittsburgh Steelers 2013
+2013,Dallas Cowboys,0.062088119057509696,0.0,Dallas Cowboys 2013
+2013,St. Louis Rams,0.010012454150934429,0.0,St. Louis Rams 2013
+2013,New Orleans Saints,0.08751725074835504,0.0,New Orleans Saints 2013
+2013,Tampa Bay Buccaneers,0.21312114845097987,0.0,Tampa Bay Buccaneers 2013
+2013,Carolina Panthers,0.2150948326615062,0.0,Carolina Panthers 2013
+2013,San Diego Chargers,0.009486138361460743,0.0,San Diego Chargers 2013
+2013,Miami Dolphins,0.009778536022279459,0.0,Miami Dolphins 2013
+2013,New York Jets,0.009486138361460743,0.0,New York Jets 2013
+2013,Buffalo Bills,0.009486138361460743,0.0,Buffalo Bills 2013
+2013,Tennessee Titans,0.009778536022279459,0.0,Tennessee Titans 2013
+2013,Cleveland Browns,0.009778536022279459,0.0,Cleveland Browns 2013
+2013,Arizona Cardinals,0.011676871604825566,0.0,Arizona Cardinals 2013
+2013,Philadelphia Eagles,0.019199678622369425,0.0,Philadelphia Eagles 2013
+2013,Detroit Lions,0.018087516225475404,0.0,Detroit Lions 2013
+2013,Oakland Raiders,0.018087516225475404,0.0,Oakland Raiders 2013
+2013,Jacksonville Jaguars,0.009778536022279459,0.0,Jacksonville Jaguars 2013
+2013,Kansas City Chiefs,0.009486138361460743,0.0,Kansas City Chiefs 2013
+2014,Denver Broncos,0.44662509090569313,0.75,Denver Broncos 2014
+2014,Seattle Seahawks,0.39570958244728976,1.0,Seattle Seahawks 2014
+2014,New England Patriots,0.39769008022230895,0.5,New England Patriots 2014
+2014,San Francisco 49ers,0.39110674595176176,0.5,San Francisco 49ers 2014
+2014,Carolina Panthers,0.2843424408889485,0.25,Carolina Panthers 2014
+2014,New Orleans Saints,0.3999297730228832,0.25,New Orleans Saints 2014
+2014,Cincinnati Bengals,0.33647384891057397,0.0,Cincinnati Bengals 2014
+2014,Indianapolis Colts,0.2005179211910956,0.25,Indianapolis Colts 2014
+2014,Kansas City Chiefs,0.2637273969542753,0.0,Kansas City Chiefs 2014
+2014,Philadelphia Eagles,0.3234846806400909,0.0,Philadelphia Eagles 2014
+2014,Arizona Cardinals,0.0628689120667841,0.0,Arizona Cardinals 2014
+2014,San Diego Chargers,0.09004027866736912,0.25,San Diego Chargers 2014
+2014,Green Bay Packers,0.0544921456635838,0.0,Green Bay Packers 2014
+2014,Baltimore Ravens,0.012932661127707688,0.0,Baltimore Ravens 2014
+2014,Pittsburgh Steelers,0.009339281778827185,0.0,Pittsburgh Steelers 2014
+2014,Dallas Cowboys,0.009339281778827185,0.0,Dallas Cowboys 2014
+2014,New York Jets,0.009339281778827185,0.0,New York Jets 2014
+2014,Chicago Bears,0.009339281778827185,0.0,Chicago Bears 2014
+2014,Miami Dolphins,0.009339281778827185,0.0,Miami Dolphins 2014
+2014,St. Louis Rams,0.010615700021318845,0.0,St. Louis Rams 2014
+2014,Detroit Lions,0.009339281778827185,0.0,Detroit Lions 2014
+2014,New York Giants,0.009339281778827185,0.0,New York Giants 2014
+2014,Tennessee Titans,0.009282073540840916,0.0,Tennessee Titans 2014
+2014,Buffalo Bills,0.009339281778827185,0.0,Buffalo Bills 2014
+2014,Minnesota Vikings,0.029388645422294635,0.0,Minnesota Vikings 2014
+2014,Atlanta Falcons,0.010636922432184719,0.0,Atlanta Falcons 2014
+2014,Cleveland Browns,0.009339281778827185,0.0,Cleveland Browns 2014
+2014,Tampa Bay Buccaneers,0.009339281778827185,0.0,Tampa Bay Buccaneers 2014
+2014,Oakland Raiders,0.009339281778827185,0.0,Oakland Raiders 2014
+2014,Jacksonville Jaguars,0.009339281778827185,0.0,Jacksonville Jaguars 2014
+2014,Washington Redskins,0.009339281778827185,0.0,Washington Redskins 2014
+2014,Houston Texans,0.010636922432184719,0.0,Houston Texans 2014
 2015,Denver Broncos,0.6131873834083678,0.25,Denver Broncos 2015
 2015,New England Patriots,0.4574094266601134,1.0,New England Patriots 2015
 2015,Seattle Seahawks,0.43458209250180085,0.75,Seattle Seahawks 2015
@@ -319,3 +447,35 @@ Season,Team,predicted_cs,champion_share,Team/Season
 2024,Washington Commanders,0.011346630150306937,0.0,Washington Commanders 2024
 2024,New England Patriots,0.011346630150306937,0.0,New England Patriots 2024
 2024,Carolina Panthers,0.011346630150306937,0.0,Carolina Panthers 2024
+2025,Kansas City Chiefs,0.47457045109880364,0.0,Kansas City Chiefs 2025
+2025,Detroit Lions,0.47789035823043335,0.0,Detroit Lions 2025
+2025,Philadelphia Eagles,0.4459609073247832,0.0,Philadelphia Eagles 2025
+2025,Minnesota Vikings,0.5182243872826615,0.0,Minnesota Vikings 2025
+2025,Buffalo Bills,0.5262958524082737,0.0,Buffalo Bills 2025
+2025,Baltimore Ravens,0.5927861119697113,0.0,Baltimore Ravens 2025
+2025,Washington Commanders,0.1334681599189318,0.0,Washington Commanders 2025
+2025,Los Angeles Chargers,0.13143165505373158,0.0,Los Angeles Chargers 2025
+2025,Green Bay Packers,0.13141283820461067,0.0,Green Bay Packers 2025
+2025,Pittsburgh Steelers,0.04751664253576623,0.0,Pittsburgh Steelers 2025
+2025,Tampa Bay Buccaneers,0.15557421592586904,0.0,Tampa Bay Buccaneers 2025
+2025,Denver Broncos,0.052427312568876706,0.0,Denver Broncos 2025
+2025,Los Angeles Rams,0.01646156225874115,0.0,Los Angeles Rams 2025
+2025,Seattle Seahawks,0.05030287555408851,0.0,Seattle Seahawks 2025
+2025,Houston Texans,0.015979823789114323,0.0,Houston Texans 2025
+2025,Cincinnati Bengals,0.07445016794073119,0.0,Cincinnati Bengals 2025
+2025,Arizona Cardinals,0.01646156225874115,0.0,Arizona Cardinals 2025
+2025,Miami Dolphins,0.014034898616102758,0.0,Miami Dolphins 2025
+2025,Indianapolis Colts,0.01339967468279717,0.0,Indianapolis Colts 2025
+2025,Atlanta Falcons,0.013212162362671013,0.0,Atlanta Falcons 2025
+2025,Dallas Cowboys,0.01536565960855483,0.0,Dallas Cowboys 2025
+2025,San Francisco 49ers,0.013443239922977248,0.0,San Francisco 49ers 2025
+2025,New York Jets,0.01339967468279717,0.0,New York Jets 2025
+2025,Chicago Bears,0.012924059015323876,0.0,Chicago Bears 2025
+2025,New Orleans Saints,0.013212162362671013,0.0,New Orleans Saints 2025
+2025,Carolina Panthers,0.012924059015323876,0.0,Carolina Panthers 2025
+2025,Jacksonville Jaguars,0.013212162362671013,0.0,Jacksonville Jaguars 2025
+2025,Las Vegas Raiders,0.012924059015323876,0.0,Las Vegas Raiders 2025
+2025,New England Patriots,0.013212162362671013,0.0,New England Patriots 2025
+2025,Tennessee Titans,0.012924059015323876,0.0,Tennessee Titans 2025
+2025,Cleveland Browns,0.012924059015323876,0.0,Cleveland Browns 2025
+2025,New York Giants,0.012924059015323876,0.0,New York Giants 2025
