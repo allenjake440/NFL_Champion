@@ -51,6 +51,7 @@ Here’s a list of the required CSV files and their corresponding sources:
 - **all_team_offense_data**: [Pro Football Reference - Offensive Team Stats](https://www.pro-football-reference.com/years/2023/)
 - **all_team_passing_offense_data**: [Pro Football Reference - Passing Offense Stats](https://www.pro-football-reference.com/years/2023/)
 - **all_team_pso_data**: [Pro Football Reference - Preseason Odds](https://www.pro-football-reference.com/years/2023/preseason_odds.htm)
+- **all_team_conv_data**: [Pro Football Reference - Conversions](https://www.pro-football-reference.com/years/2024/)
 
 ---
 
