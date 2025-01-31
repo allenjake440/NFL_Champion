@@ -12,7 +12,7 @@ Using machine learning to predict the NFL Champion for upcoming years based on h
 
 ---
 
-## Data Sources (Since 1990)
+## Data Sources (Since 1980)
 
 - [Pro Football Reference](https://www.pro-football-reference.com/)
 
