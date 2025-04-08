@@ -18,8 +18,6 @@ Using machine learning to predict the NFL Champion for upcoming years based on h
 
 ---
 
-## Project Details
-
 # Premium Sports Analytics Access
 
 Welcome! This repository is part of a private collection of **3 fully-loaded sports analytics projects**, available exclusively through my [Patreon](https://www.patreon.com/c/JakeAllenData/membership).
