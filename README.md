@@ -20,41 +20,50 @@ Using machine learning to predict the NFL Champion for upcoming years based on h
 
 ## Project Details
 
-This project builds on my NBA champion prediction project, but much of the data for this NFL project was collected manually over time. 
+# Premium Sports Analytics Access
 
-The project uses machine learning techniques in Python to predict future NFL champions.
+Welcome! This repository is part of a private collection of **3 fully-loaded sports analytics projects**, available exclusively through my [Patreon](https://www.patreon.com/c/JakeAllenData/membership).
 
-### How to Set Up and Run the Project
+## Included with Subscription
 
-1. For predicting future seasons (e.g., 2025, 2026), you will need to manually copy the new season data from the websites linked below.
-2. Format the data appropriately (using Excel, Python, or other tools) according to the required structure.
-3. Run the Python file `nfl_champ_data.py` to load the data.
-4. Then run `nfl_champ_ml.py` to generate predictions.
+By joining the $5/month tier, you'll gain full access to all of the following:
 
----
+### NBA Champion Predictor & Analytics
+- Raw historical data on teams, players, advanced stats, and playoff stats.
+- Feature engineered data, in-depth player and team metrics.
+- Machine Learning and Data Analysis on it all.
+- Analytics and visualizations.
 
-## CSV Files and Data Sources
+### NFL Champion Predictor & Analytics
+- Raw historical data on teams, players, advanced stats, and playoff stats.
+- Feature engineered data, in-depth player and team metrics.
+- Machine Learning and Data Analysis on it all.
+- Analytics and visualizations.
 
-Here’s a list of the required CSV files and their corresponding sources:
-
-- **all_coaches_data**: [Pro Football Reference - Coaches Data](https://www.pro-football-reference.com/years/2023/coaches.htm)
-- **all_player_award_data**: [Pro Football Reference - Player Awards](https://www.pro-football-reference.com/awards/awards_2023.htm)
-- **all_player_defense_data**: [Pro Football Reference - Defensive Stats](https://www.pro-football-reference.com/years/2023/defense.htm)
-- **all_player_kicking_data**: [Pro Football Reference - Kicking Stats](https://www.pro-football-reference.com/years/2023/kicking.htm)
-- **all_player_passing_data**: [Pro Football Reference - Passing Stats](https://www.pro-football-reference.com/years/2023/passing.htm)
-- **all_player_receiving_data**: [Pro Football Reference - Receiving Stats](https://www.pro-football-reference.com/years/2023/receiving.htm)
-- **all_player_rushing_data**: [Pro Football Reference - Rushing Stats](https://www.pro-football-reference.com/years/2023/rushing.htm)
-- **all_team_advance_data**: [Pro Football Reference - Advanced Team Stats](https://www.pro-football-reference.com/years/2023/index.htm)
-- **all_team_defense_data**: [Pro Football Reference - Defensive Team Stats](https://www.pro-football-reference.com/years/2023/opp.htm)
-- **all_team_games_data**: [Pro Football Reference - Team Game Results](https://www.pro-football-reference.com/years/2023/games.htm)
-- **all_team_index_custom**: Update this file for any future team changes.
-- **all_team_offense_data**: [Pro Football Reference - Offensive Team Stats](https://www.pro-football-reference.com/years/2023/)
-- **all_team_passing_offense_data**: [Pro Football Reference - Passing Offense Stats](https://www.pro-football-reference.com/years/2023/)
-- **all_team_pso_data**: [Pro Football Reference - Preseason Odds](https://www.pro-football-reference.com/years/2023/preseason_odds.htm)
+### NCAA March Madness Predictor & Analytics
+- Raw historical data on teams, players, advanced stats, and tournament stats.
+- Feature engineered data, in-depth player and team metrics.
+- Machine Learning and Data Analysis on it all.
+- Analytics and visualizations.
 
 ---
 
-## Notes
+## What’s Included in Each Repo
+- Full raw datasets (CSV/Excel)
+- Clean compiler scripts for merging and structuring data.
+- Complete machine learning pipelines (with model evaluation).
+- Visualizations (team rankings, predicted win odds, trend charts, and more.)
+- Python notebooks + modular scripts for full flexibility.
 
-- This project was built using hand-collected data. For future seasons, the data should be manually updated and formatted appropriately.
-- The project involves machine learning techniques using Python to predict NFL champions based on Pro Football Reference Data.
+---
+
+## How to Get Access
+
+1. Join the [$5/month Patreon tier](https://www.patreon.com/c/JakeAllenData/membership)
+2. Send me your **GitHub username** via DM or post on Patreon
+3. You'll be invited to all 3 private GitHub repositories within 24 hours
+
+---
+
+
+
